@@ -1,0 +1,38 @@
+{
+  "changes": [
+    {
+      "source_file": "Text\\ENG\\Goals.lte",
+      "string_id": 10,
+      "old": "Otomo 说得对——Shinja 打算顽抗到底。只要摧毁他的要塞，当面与他交锋，他就该听得进道理。毕竟，我是灵蛇帝国的继承人。不过，我的新阵营缺乏领导；如果我死了，它必定分崩离析。",
+      "new": "Otomo 说得对——Shinja 打算顽抗到 底。只要摧毁他 的要塞，当面与他交 锋，他就该听得 进道理。毕竟，我是灵蛇帝 国的继承人。不过，我的新阵营 缺乏领导；如果我死了，它必定分崩 离析。",
+      "old_ascii_spaces": 2,
+      "new_ascii_spaces": 9
+    },
+    {
+      "source_file": "Text\\ENG\\WOTW_Console_Tooltips.lte",
+      "string_id": 663,
+      "old": "原地坚守（切换）——单位会守住位置，攻击射程内的目标。再次切换或下达攻击命令前，此命令持续有效（远程单位除外）。",
+      "new": "原地坚守",
+      "old_ascii_spaces": 0,
+      "new_ascii_spaces": 0
+    },
+    {
+      "source_file": "Text\\ENG\\WOTW_Console_Tooltips.lte",
+      "string_id": 664,
+      "old": "守卫／跟随——单位会在小范围内守卫一片区域、一个单位或一座建筑。也可用于守卫或跟随指定单位。",
+      "new": "守卫／跟随——单位会在小 范围内守卫 一片区域、一个单位或 一座建筑。也可用于守 卫或跟随指 定单位。",
+      "old_ascii_spaces": 0,
+      "new_ascii_spaces": 5
+    },
+    {
+      "source_file": "Text\\ENG\\WOTW_Goals.lte",
+      "string_id": 10,
+      "old": "Otomo 说得对——Shinja 打算抵抗。如果摧毁他的要塞，与他当面对质，他应该会听我讲道理——毕竟我是灵蛇帝国的继承人。不过我的新氏族缺少领袖；如果我死了，他们必然分崩离析。",
+      "new": "Otomo 说得对——Shinja 打算抵抗。如果摧毁他 的要塞，与他当面对 质，他应该会听 我讲道理——毕竟我是灵 蛇帝国的继 承人。不过我的新 氏族缺少领 袖；如果我死了，他们必然分 崩离析。",
+      "old_ascii_spaces": 2,
+      "new_ascii_spaces": 10
+    }
+  ],
+  "source_sha256": "95b32ea9bf9b3c2152d994dd98fcfc63054e7a0dc2b362ad8f202d6fdccb0b3b",
+  "candidate_csv_sha256": "9f712f7e3c3d06e40d1edf5bc79bbfe75d6d866a6304b379502262b84672cbcb"
+}
