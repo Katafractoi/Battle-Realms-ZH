@@ -232,7 +232,7 @@ Text\ENG\Console_Tooltips.lte,229,Bond with an allied soldier and he will take a
 Text\ENG\Console_Tooltips.lte,230,Yin Blade,阴之刃,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,231,Damage from magical blades drains enemy stamina to create Yin; continually drains user's stamina.,魔法刀刃造成的伤害会抽取敌人体力并产生阴；使用者持续消耗体力。,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,232,Dark Pact,黑暗契约,初译待审,Zen Edition source; current user clan names applied.
-Text\ENG\Console_Tooltips.lte,233,Fan Geisha and her nearby allies give up health to gain better damage resistance.,扇舞艺妓及其附近友军牺牲部分生命值，以提高伤害抵抗能力。,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
+Text\ENG\Console_Tooltips.lte,233,Fan Geisha and her nearby allies give up health to gain better damage resistance.,扇舞艺妓及其附近友军牺牲部分生命值，以提高伤害抗性。,显示反馈离线修订，待实机验证,Original Zen Edition tooltip; terminology follows current clan names. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,234,Razor Fans,利刃扇,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,235,Heals Fan Geisha and her nearby allies with each attack; drains stamina on each attack.,扇舞艺妓每次攻击都会治疗自己和附近友军；每次攻击消耗体力。,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,236,Inner Strength,内力,初译待审,Zen Edition source; current user clan names applied.
@@ -410,10 +410,10 @@ Text\ENG\Console_Tooltips.lte,407,Rice Total,稻米总量,初译待审,Original 
 Text\ENG\Console_Tooltips.lte,408,Water Total,水总量,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,409,Hero Is Already In Use,英雄已在使用中,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,410,Building is Already In Use,建筑已在使用中,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
-Text\ENG\Console_Tooltips.lte,411,Daze - Magically stuns all units in the area.,晕眩——以魔法使范围内所有单位昏迷。,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,412,Blinding Flash - Blinds nearby units to reduce combat effectiveness.,致盲闪光——使附近单位失明，降低其战斗能力。,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,413,Black Lightning - Assaults a nearby enemy with black lightning.,黑色闪电——以黑色闪电攻击附近一名敌人。,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,414,Slowdown - Sounds the horn to damage and slow enemy units.,减速——吹响号角，伤害敌方单位并使其减速。,初译待审,Zen Edition source; candidate follows current clan naming.
+Text\ENG\Console_Tooltips.lte,411,Daze - Magically stuns all units in the area.,晕眩：以魔法使范围内所有单位昏迷。,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,412,Blinding Flash - Blinds nearby units to reduce combat effectiveness.,致盲闪光：使附近单位失明，降低其战斗能力。,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,413,Black Lightning - Assaults a nearby enemy with black lightning.,黑色闪电：以黑色闪电攻击附近一名敌人。,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,414,Slowdown - Sounds the horn to damage and slow enemy units.,减速：吹响号角，伤害敌方单位并使其减速。,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,415,Watchtower Charge,哨塔冲锋,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,416,Teleport,传送,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,417,Attack Ground,攻击地面,初译待审,Zen Edition source; candidate follows current clan naming.
@@ -446,10 +446,10 @@ Text\ENG\Console_Tooltips.lte,443,Dragon Battle Gear,神龙族技能,显示反�
 Text\ENG\Console_Tooltips.lte,444,Lotus Battle Gear,莲花族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\Console_Tooltips.lte,445,Serpent Battle Gear,灵蛇族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\Console_Tooltips.lte,446,Wolf Battle Gear,恶狼族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\Console_Tooltips.lte,447,Dragon Techniques,神龙族技术,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,448,Lotus Techniques,莲花族技术,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,449,Serpent Techniques,灵蛇族技术,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,450,Wolf Techniques,恶狼族技术,初译待审,Zen Edition source; candidate follows current clan naming.
+Text\ENG\Console_Tooltips.lte,447,Dragon Techniques,神龙族科技,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,448,Lotus Techniques,莲花族科技,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,449,Serpent Techniques,灵蛇族科技,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,450,Wolf Techniques,恶狼族科技,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,451,Previous,上一项,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,452,Next,下一项,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,453,Slave Driver,监工,初译待审,Zen Edition source; candidate follows current clan naming. Proper name or skill title should receive in-game context review.
@@ -622,10 +622,10 @@ Text\ENG\Console_Tooltips.lte,659,"A ""gift"" from the Monks. The tortured souls
 Text\ENG\Console_Tooltips.lte,660,Monastery,修道院,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,661,This ancient monastery has long been a tranquil bastion of peace despite the war around it.,尽管战火环绕，这座古老寺院长久以来仍是宁静的避风港。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,662,Dismount,下马,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\Console_Tooltips.lte,663,"Stand Ground - Unit will hold location, attacking targets in missile range.",坚守阵地——单位守住当前位置，攻击射程内的目标。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\Console_Tooltips.lte,664,"Guard - Unit will guard an area, unit or building.",守卫——单位守护一片区域、一名单位或一座建筑。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\Console_Tooltips.lte,665,"Passive Mode - Unit will not actively seek targets, but will respond to attacks.",被动模式——单位不会主动寻找目标，但会反击。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击——单位前往指定目标途中不会与敌方单位交战。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\Console_Tooltips.lte,663,"Stand Ground - Unit will hold location, attacking targets in missile range.",坚守阵地：单位守住当前位置，攻击射程内的目标。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,664,"Guard - Unit will guard an area, unit or building.",守卫：单位守护一片区域、一名单位或一座建筑。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,665,"Passive Mode - Unit will not actively seek targets, but will respond to attacks.",被动模式：单位不会主动寻找目标，但会反击。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击：单位前往指定目标途中不会与敌方单位交战。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,667,Stop ,停止 ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,668,"Master of the Clan, Kenji is a fierce, inspiring warrior.",Kenji 是本族之主，也是一位勇猛而善于鼓舞人心的战士。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
 Text\ENG\Console_Tooltips.lte,669,Special Abilities: Critical Strike and Inspiration,特殊能力：致命一击、激励,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -1240,7 +1240,7 @@ Text\ENG\Front_End.lte,124,Peasants Generated,生成农民数,初译待审,UI dr
 Text\ENG\Front_End.lte,125,Yin/Yang Acquired,获得阴阳点数,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,126,Rice Collected,采集稻米,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,127,Water Collected,采集水,初译待审,UI draft; exact source key
-Text\ENG\Front_End.lte,128,Techniques Learned,学会技术数,初译待审,UI draft; exact source key
+Text\ENG\Front_End.lte,128,Techniques Learned,已学科技数,显示反馈离线修订，待实机验证,UI draft; exact source key | 2026-10-11 v15：术语或标点校订
 Text\ENG\Front_End.lte,129,Battle Gear Acquired,获得技能数,显示反馈离线修订，待实机验证,UI draft; exact source key | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\Front_End.lte,130,Units Trained,训练单位数,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,131,Horses Collected,收集马匹数,初译待审,UI draft; exact source key
@@ -2518,10 +2518,10 @@ Text\ENG\WOTW_Console_Tooltips.lte,407,Rice Total,稻米总量,初译待游戏�
 Text\ENG\WOTW_Console_Tooltips.lte,408,Water Total,水总量,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,409,Hero Is Already In Use,英雄已在使用中,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,410,Building is Already In Use,建筑已在使用中,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,411,Daze - Magically stuns all units in the area. Only 1 effect can be active at a time.,眩晕——以魔法使区域内所有单位眩晕。同时只能有1个此类效果生效。,初译待审,机械数值沿用原文阿拉伯数字。
-Text\ENG\WOTW_Console_Tooltips.lte,412,Blinding Flash - Blinds nearby units and weakens their defense.  Only 1 effect can be active at a time.,致盲闪光——致盲附近单位并削弱其防御。同时只能有1个此类效果生效。,初译待审,机械数值沿用原文阿拉伯数字。
-Text\ENG\WOTW_Console_Tooltips.lte,413,Black Lightning - Assaults a nearby enemy dealing mixed explosive and magic damage.,黑色闪电——攻击附近敌人，造成爆炸与魔法混合伤害。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,414,Slowdown - Sounds the horn to slow enemy units. Only 1 effect can be active at a time.,减速——吹响号角，使敌方单位减速。同时只能有1个此类效果生效。,初译待审,机械数值沿用原文阿拉伯数字。
+Text\ENG\WOTW_Console_Tooltips.lte,411,Daze - Magically stuns all units in the area. Only 1 effect can be active at a time.,眩晕：以魔法使区域内所有单位眩晕。同时只能有1个此类效果生效。,显示反馈离线修订，待实机验证,机械数值沿用原文阿拉伯数字。 | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,412,Blinding Flash - Blinds nearby units and weakens their defense.  Only 1 effect can be active at a time.,致盲闪光：致盲附近单位并削弱其防御。同时只能有1个此类效果生效。,显示反馈离线修订，待实机验证,机械数值沿用原文阿拉伯数字。 | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,413,Black Lightning - Assaults a nearby enemy dealing mixed explosive and magic damage.,黑色闪电：攻击附近敌人，造成爆炸与魔法混合伤害。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,414,Slowdown - Sounds the horn to slow enemy units. Only 1 effect can be active at a time.,减速：吹响号角，使敌方单位减速。同时只能有1个此类效果生效。,显示反馈离线修订，待实机验证,机械数值沿用原文阿拉伯数字。 | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,415,Watchtower Charge,哨塔冲锋,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,416,Teleport,瞬移,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\WOTW_Console_Tooltips.lte,417,Attack Ground,攻击地面,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -2554,10 +2554,10 @@ Text\ENG\WOTW_Console_Tooltips.lte,443,Dragon Battle Gear,神龙族技能,显示
 Text\ENG\WOTW_Console_Tooltips.lte,444,Lotus Battle Gear,莲花族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\WOTW_Console_Tooltips.lte,445,Serpent Battle Gear,灵蛇族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\WOTW_Console_Tooltips.lte,446,Wolf Battle Gear,恶狼族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\WOTW_Console_Tooltips.lte,447,Dragon Techniques,神龙族技术,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,448,Lotus Techniques,莲花族技术,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,449,Serpent Techniques,灵蛇族技术,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,450,Wolf Techniques,恶狼族技术,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\WOTW_Console_Tooltips.lte,447,Dragon Techniques,神龙族科技,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,448,Lotus Techniques,莲花族科技,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,449,Serpent Techniques,灵蛇族科技,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,450,Wolf Techniques,恶狼族科技,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,451,Previous,上一项,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,452,Next,下一项,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,453,Slave Driver,奴隶监工,初译待审,
@@ -2730,11 +2730,11 @@ Text\ENG\WOTW_Console_Tooltips.lte,659,"A ""gift"" from the Monks. The tortured 
 Text\ENG\WOTW_Console_Tooltips.lte,660,Monastery,修道院,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
 Text\ENG\WOTW_Console_Tooltips.lte,661,This ancient monastery has long been a tranquil bastion of peace despite the war around it.,尽管战火环绕，这座古老寺院长久以来仍是宁静的避风港。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,662,Dismount,下马,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
-Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).",原地坚守（切换）——单位会守住位置，攻击射程内的目标。再次切换或下达攻击命令前，此命令持续有效（远程单位除外）。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.",守卫／跟随——单位会在小范围内守卫一片区域、一个单位或一座建筑。也可用于守卫或跟随指定单位。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,665,"Passive Mode (Toggle) - Unit will not attack, but will respond to melee engagement. Unit will retain the order until it's toggled off or attack order is issued.",被动模式（切换）——单位不会主动攻击，但遭遇近战攻击时会还手。再次切换或下达攻击命令前，此命令持续有效。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击——单位前往指定目标途中不会与敌方单位交战。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,667,Stop - Unit will momentarily stop performing any orders.,停止——单位会暂时停止执行所有命令。,初译待审,
+Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).",原地坚守（切换）：单位会守住位置，攻击射程内的目标。再次切换或下达攻击命令前，此命令持续有效（远程单位除外）。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.",守卫／跟随：单位会在小范围内守卫一片区域、一个单位或一座建筑。也可用于守卫或跟随指定单位。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,665,"Passive Mode (Toggle) - Unit will not attack, but will respond to melee engagement. Unit will retain the order until it's toggled off or attack order is issued.",被动模式（切换）：单位不会主动攻击，但遭遇近战攻击时会还手。再次切换或下达攻击命令前，此命令持续有效。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击：单位前往指定目标途中不会与敌方单位交战。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,667,Stop - Unit will momentarily stop performing any orders.,停止：单位会暂时停止执行所有命令。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,668,"Master of the Clan, Kenji is a fierce, inspiring warrior.",Kenji 是本族之主，也是一位勇猛而善于鼓舞人心的战士。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,669,Special Abilities: Critical Strike and Inspiration,特殊能力：致命一击、激励,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,670,"Wise and honorable warrior, Otomo wields a massive nodachi effective both against units and buildings. His fighting abilities inspire allies in battle.",Otomo 睿智而正直，挥舞巨大的野太刀，对单位和建筑都很有效。他的战斗本领能鼓舞友军。,初译待审,
@@ -2954,7 +2954,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,2122,Last Stand,背水一战,初译待游戏�
 Text\ENG\WOTW_Console_Tooltips.lte,2123,"Fills the Guardian with rage when close to death, allowing a few more seconds of intense fighting.",守护者濒死时会怒火迸发，得以再激战数秒。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2124,4x Dragon Warrior,4 名神龙武士,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2125,Damage class: ,伤害类型： ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\WOTW_Console_Tooltips.lte,2126,Resists ,抵抗 ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,2126,Resists ,抗性 ,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,2127,Weak against ,弱点 ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2128, (Siege), （攻城）,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.；保留原文边缘空格供拼接。
 Text\ENG\WOTW_Console_Tooltips.lte,2129, (Non-Siege), （非攻城）,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.；保留原文边缘空格供拼接。
@@ -3497,7 +3497,7 @@ Text\ENG\WOTW_Front_End.lte,124,Peasants Generated,生成农民数,初译待审,
 Text\ENG\WOTW_Front_End.lte,125,Yin/Yang Acquired,获得阴阳点数,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,126,Rice Collected,采集稻米,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,127,Water Collected,采集水,初译待审,UI draft; exact source key
-Text\ENG\WOTW_Front_End.lte,128,Techniques Learned,学会技术数,初译待审,UI draft; exact source key
+Text\ENG\WOTW_Front_End.lte,128,Techniques Learned,已学科技数,显示反馈离线修订，待实机验证,UI draft; exact source key | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Front_End.lte,129,Battle Gear Acquired,获得技能数,显示反馈离线修订，待实机验证,UI draft; exact source key | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\WOTW_Front_End.lte,130,Units Trained,训练单位数,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,131,Horses Collected,收集马匹数,初译待审,UI draft; exact source key
