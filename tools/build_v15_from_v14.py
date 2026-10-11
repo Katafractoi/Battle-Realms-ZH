@@ -80,6 +80,8 @@ def main():
         existing = source_records[key[0]][key[1]]
         if "Kenji" in prior["chinese"] or "Shinja" in prior["chinese"]:
             desired = existing.replace("Kenji", "健治").replace("Shinja", "信蛇")
+            for name in ("健治", "信蛇"):
+                desired = desired.replace(" " + name, name).replace(name + " ", name)
             if desired.replace("\n", "") != updated["chinese"]:
                 raise ValueError(f"name replacement mismatched source at {key}")
         elif key == ("Text\\ENG\\Console_Tooltips.lte", "233"):

@@ -37,7 +37,10 @@ def main():
         if source not in mapping:
             raise ValueError(f"unmapped source: {source}")
         before, after = old[key]["chinese"], new[key]["chinese"]
-        if before.replace("Kenji", "健治").replace("Shinja", "信蛇") != after:
+        revised = before.replace("Kenji", "健治").replace("Shinja", "信蛇")
+        for name in ("健治", "信蛇"):
+            revised = revised.replace(" " + name, name).replace(name + " ", name)
+        if revised != after:
             raise ValueError(f"unexpected text change at {key}")
         changes.setdefault(archive_name, []).append((source, ident, before, after))
     if set(changes) != {"Dragon_Dialogue.H2O", "Kenji_Dialogue.H2O", "Otomo_Dialogue.H2O"}:
