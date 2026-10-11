@@ -135,17 +135,17 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,680,"This will tell the Peasants to s
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,690,"Rice is important, but our people will also need fresh water to drink.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,700,A pond or stream like this one should do nicely.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,710,"Select our Peasants, then scroll to the pond and Right-click it.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,720,Excellent!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,730,We're almost ready to start building our army!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,740,"To train warriors, we'll need a Dojo.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,750,Select some Peasants.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,760,Notice the Dojo is now available in the build menu.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,770,We'll find a good spot and build the Dojo just like we built the Peasant Hut.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,780,The more peasants we have selected the faster our new Dojo will be completed.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,790,"Also, if you hold the right mouse button down and drag left and right we can rotate the building.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,800,"When you let go of the button, the building will be placed.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,810,"My lord, we must complete our Dojo.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,820,Select some Peasants and Right-click on the Dojo you started to complete it.,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,720,Excellent!,太好了！,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,730,We're almost ready to start building our army!,我们很快就能开始组建军队了！,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,740,"To train warriors, we'll need a Dojo.",训练战士需要一座道场。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,750,Select some Peasants.,选中几名农民。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,760,Notice the Dojo is now available in the build menu.,看，建造菜单中已经可以选择道场了。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,770,We'll find a good spot and build the Dojo just like we built the Peasant Hut.,找个合适的位置，像建农舍那样建起道场。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,780,The more peasants we have selected the faster our new Dojo will be completed.,选中的农民越多，道场建成得就越快。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,790,"Also, if you hold the right mouse button down and drag left and right we can rotate the building.",按住鼠标右键左右拖动，还能旋转建筑。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,800,"When you let go of the button, the building will be placed.",松开鼠标右键，就能放置建筑。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,810,"My lord, we must complete our Dojo.",大人，我们得把道场建好。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,820,Select some Peasants and Right-click on the Dojo you started to complete it.,选中几名农民，右键点击未完工的道场，完成建造。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,830,"Now we'll train our first warrior, a Spearman.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,840,Training a Spearman will cost you rice and water.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,850,Uh oh! We're out of rice!,,untranslated
@@ -415,13 +415,13 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,530,Did your dragon do all this?,,unt
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的 Kenji。我的祖先曾令世界分崩离析。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",Horde 所到之处尽成废墟，他便率领族人南逃，尽力保住仅存的一切。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",可当他们抵达高原时，前方已无路可逃。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来的抉择究竟意味着什么。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道 Horde 只是灵蛇族日后众多祸患中的第一个。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",他更不可能知道，失去宝珠的指引，后代会变得软弱而邪恶。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,他真的有过选择吗？,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,480,Don't call me that.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,490,That blade has been my burden for seven years.,,untranslated
@@ -953,15 +953,15 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1250,"Left-click one of the peasants, s
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1260,"Rice is important indeed, but you’ll also need water.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1270,A pond or stream like that one would do nicely.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1280,"Select a peasant, then scroll to the pond and right-click it.",,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1290,Excellent!  We're almost ready to start building our army!,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1300,"To train warriors, we'll need a Dojo.",,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1310,Select a peasant.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1320,Notice the Dojo is now available in the build menu.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1330,Find a good spot and build the Dojo just like you built the peasant hut.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1340,Now to train your first Spearman.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1350,Select a peasant and right-click the Dojo.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1360,"Training Spearmen will cost you rice and water, so make sure some peasants keep harvesting.",,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1370,Well done - we're on our way!,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1290,Excellent!  We're almost ready to start building our army!,很好！我们就快能组建军队了！,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1300,"To train warriors, we'll need a Dojo.",要训练战士，我们需要一座道场。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1310,Select a peasant.,选中一名农民。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1320,Notice the Dojo is now available in the build menu.,看，建造菜单中已经可以选择道场了。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1330,Find a good spot and build the Dojo just like you built the peasant hut.,找个合适的位置，像建农舍那样建起道场。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1340,Now to train your first Spearman.,现在来训练你的第一名长矛兵。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1350,Select a peasant and right-click the Dojo.,选中一名农民，右键点击道场。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1360,"Training Spearmen will cost you rice and water, so make sure some peasants keep harvesting.",训练长矛兵要消耗稻米和水，记得让一些农民继续采集。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1370,Well done - we're on our way!,干得好，我们已经迈出第一步了！,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1380,The bandits must have driven these people out.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1390,But look - there's a peasant hut still standing!,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1400,We should rebuild this village and make it our own.,,untranslated
