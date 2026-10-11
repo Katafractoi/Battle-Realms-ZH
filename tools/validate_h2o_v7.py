@@ -6,7 +6,7 @@ from pathlib import Path
 import struct
 import zlib
 
-from patch_lte_h2o import decoder
+from patch_lte_h2o import decoder, records
 
 
 def inspect(path, decode):
@@ -65,11 +65,30 @@ def main():
     for i, (old, new) in enumerate(zip(source, candidate)):
         if i in changed and (old[1] is None or new[1] is None or old[1] == new[1]):
             raise ValueError(f"Changed entry {i} failed text decode or is identical")
+    changed_records = {}
+    preserved_records = 0
+    for i in changed:
+        before, after = list(records(source[i][1])), list(records(candidate[i][1]))
+        if len(before) != len(after):
+            raise ValueError(f"LTE record count changed at entry {i}")
+        altered = []
+        for old, new in zip(before, after):
+            if old[:2] != new[:2]:
+                raise ValueError(f"LTE ID or marker changed at entry {i}")
+            if old[3] != new[3]:
+                altered.append(old[0])
+            else:
+                preserved_records += 1
+        if not altered:
+            raise ValueError(f"Entry {i} has no altered LTE record")
+        changed_records[str(i)] = altered
     print(json.dumps({
         "source_sha256": hashlib.sha256(source_data).hexdigest(),
         "candidate_sha256": hashlib.sha256(candidate_data).hexdigest(),
         "entries": len(source),
         "changed_entries": changed,
+        "changed_lte_record_ids_by_entry": changed_records,
+        "unchanged_lte_records_in_changed_entries_preserved": preserved_records,
         "unchanged_compressed_entries_preserved": len(source) - len(changed),
     }, indent=2))
 
