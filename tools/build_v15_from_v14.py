@@ -1,4 +1,4 @@
-"""Apply only reviewed v15 UI text edits to the already tested v14 archive.
+"""Apply reviewed v15 UI and confirmed-name edits to the tested v14 archive.
 
 Keep v14's existing line breaks and every unrelated compressed entry. Source
 archives and the blast DLL are supplied locally; this tool never touches Steam.
@@ -60,8 +60,8 @@ def main():
     if old.keys() != new.keys():
         raise ValueError("CSV source keys changed")
     changed = {key for key in old if old[key]["chinese"] != new[key]["chinese"]}
-    if len(changed) != 29:
-        raise ValueError(f"expected 29 reviewed keys, found {len(changed)}")
+    if len(changed) != 89:
+        raise ValueError(f"expected 89 reviewed keys, found {len(changed)}")
     mapping = json.loads(args.entry_map.read_text(encoding="utf-8"))
     if any(key[0] not in mapping for key in changed):
         raise ValueError("changed source missing from archive map")
@@ -78,7 +78,11 @@ def main():
         if prior["english"] != updated["english"]:
             raise ValueError(f"English source changed at {key}")
         existing = source_records[key[0]][key[1]]
-        if key == ("Text\\ENG\\Console_Tooltips.lte", "233"):
+        if "Kenji" in prior["chinese"] or "Shinja" in prior["chinese"]:
+            desired = existing.replace("Kenji", "健治").replace("Shinja", "信蛇")
+            if desired.replace("\n", "") != updated["chinese"]:
+                raise ValueError(f"name replacement mismatched source at {key}")
+        elif key == ("Text\\ENG\\Console_Tooltips.lte", "233"):
             assert existing == "扇舞艺妓及其附近友军牺牲\n部分生命值，以提高伤害\n抵抗能力。"
             desired = "扇舞艺妓及其附近友军牺牲\n部分生命值，以提高\n伤害抗性。"
             assert desired.replace("\n", "") == updated["chinese"]

@@ -79,7 +79,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,90,Only the wisest turn over the same
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,100,"We thought you dead, honorable prince.",尊贵的王子，我们以为你已经死了。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,110,Look there!,看那边！,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,120,More are on the way.  They come seeking the Orb.,还有更多人正在赶来。他们是冲着宝珠来的。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,130,Kenji...we thought you were dead.,Kenji……我们以为你已经死了。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,130,Kenji...we thought you were dead.,健治……我们以为你已经死了。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,140,More are coming - look there!,还有人来了——看那边！,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,200,"Welcome back, honorable Prince.",欢迎归来，尊贵的王子。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,210,My name is Yumi.,我叫 Yumi。,draft; not game-tested
@@ -87,11 +87,11 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,220,I will be your guide as you reacq
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,230,Much has changed since you left and the road to restoration will be long indeed.,你离开后，这里发生了许多变化，重建之路也会十分漫长。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,240,Someone awaits your arrival in the clearing to the North.,北面的空地上有人在等你。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,245,Let's meet them and start rebuilding your empire.,我们去见他们，然后开始重建你的帝国。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,250,"Before we can move, we'll have to select Kenji.",出发前，先选中 Kenji。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,260,Left-click Kenji to select him.,左键点击 Kenji，选中他。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,250,"Before we can move, we'll have to select Kenji.",出发前，先选中 健治。,已确认专名离线修订，待实机验证
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,260,Left-click Kenji to select him.,左键点击 健治，选中他。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,270,Good!,很好！,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,280,"Now that he's selected, Right-click where you want him to go and he'll walk there.",选中他后，在目的地点击右键，他就会走过去。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,290,"If you want to unselect Kenji, Left-click something else or Left-click the ground.",要取消选中 Kenji，就左键点击别的对象或地面。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,290,"If you want to unselect Kenji, Left-click something else or Left-click the ground.",要取消选中 健治，就左键点击别的对象或地面。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,300,We've arrived.,我们到了。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,310,This was once peaceful Issen village.,这里曾是宁静的 Issen 村。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,320,Do you remember it?,你还记得这里吗？,draft; not game-tested
@@ -415,7 +415,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,530,Did your dragon do all this?,,unt
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的 Kenji。我的祖先曾令世界分崩离析。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的 健治。我的祖先曾令世界分崩离析。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",Horde 所到之处尽成废墟，他便率领族人南逃，尽力保住仅存的一切。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",可当他们抵达高原时，前方已无路可逃。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来的抉择究竟意味着什么。,draft; not game-tested
@@ -844,7 +844,7 @@ Sound\Dialogue\Lotus_Dialogue.H2O#entry38,480,At last - free of corruption!,,unt
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,490,Now I am whole!,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,500,"You're too late, Serpent!",,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,510,The Lotus would die rather than bow to your kind again!,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,200,Kenji!,Kenji！,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,200,Kenji!,健治！,已确认专名离线修订，待实机验证
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,210,We thought you were dead.,我们以为你死了。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,220,"I've waited seven years to serve you, Lord Oja.",Oja 大人，我等了七年，只希望能为你效力。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,230,He saved our lives!,他救了我们的命！,draft; not game-tested
@@ -853,14 +853,14 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,250,The Serpent's Son will take tea in 
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,260,"He rules the provinces to the north, and would rule this one too if he could.",他统治着北方的行省；若有机会，也会统治这里。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,270,"He seeks to rebuild the clan, but his methods are...questionable.",他想重建氏族，但他的方法……令人质疑。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,280,"He's tasted power, and won't give it up easily.",他已经尝到权力的好处，不会轻易放手。,draft; not game-tested
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,290,But Shinja only rules because no one else will stand against the other clans.,可 Shinja 能掌权，只因无人敢站出来对抗其他氏族。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,290,But Shinja only rules because no one else will stand against the other clans.,可 信蛇 能掌权，只因无人敢站出来对抗其他氏族。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,300,Wolf and Lotus are tearing what's left of your father's empire apart.,恶狼族和莲花族正在瓜分你父亲残存的帝国。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,310,The people need a leader with Oja blood.,人民需要一位拥有 Oja 家族血统的领袖。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,320,Then you'll have to beat him.,那你就得打败他。,draft; not game-tested
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,330,"Shinja rules two provinces from an old Serpent fort, here.",Shinja 从这里的一座灵蛇族旧堡垒统治着两个行省。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,330,"Shinja rules two provinces from an old Serpent fort, here.",信蛇 从这里的一座灵蛇族旧堡垒统治着两个行省。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,340,His tax collectors take most of what this village has...,他派人收走了这个村子的大部分东西……,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,350,"...while his hired archers haunt the eastern road, stealing what little remains.",……雇来的弓箭手又盘踞在东边道路，抢走仅剩的一点。,draft; not game-tested
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,360,Break Shinja's forces and he'll lose his will to fight.,击溃 Shinja 的部队，他就会失去斗志。,draft; not game-tested
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,360,Break Shinja's forces and he'll lose his will to fight.,击溃 信蛇 的部队，他就会失去斗志。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,370,"We have no soldiers, but the villagers stand ready to serve.",我们没有士兵，但村民们愿意效力。,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,380,What shall we do?,我们该怎么办？,draft; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,390,And yet you kept fighting.,可你还是坚持战斗。,draft; not game-tested
