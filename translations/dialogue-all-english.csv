@@ -6,7 +6,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry0,240,"Once again, I'm in your debt.",,u
 Sound\Dialogue\Dragon_Dialogue.H2O#entry0,250,You know how this works.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry0,260,"Until I've paid back what I owe, you'll never be rid of me.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,205,What have you done?,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,210,Lord Kenji!  Look!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,210,Lord Kenji!  Look!,健治大人！快看！,draft; name confirmed; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,220,Reinforcements from below - we're trapped!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,230,"Come out of there, you!",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,231,Don't move!,,untranslated
@@ -52,7 +52,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry43,310,He's changed.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,320,He stays locked up in that house of his and sends Vetkin to do his dirty work.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,330,Look!  They're attacking the Lotus!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,340,Look there!  Vetkin rides for the Wolf clan!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,350,Look!  It's Kenji!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,350,Look!  It's Kenji!,看！是健治！,draft; name confirmed; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,360,"We are yours to command, Lord!",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,370,Run!  It's The Butcher!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,380,Run - The Butcher is attacking!,,untranslated
@@ -385,7 +385,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2820,"My lord, the unit is needed ove
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,200,Your dragon is...cryptic.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,210,What's that?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,220,Otomo!  Who did this?,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry90,230,Kenji!  Lotus soldiers!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,230,Kenji!  Lotus soldiers!,健治！莲花族士兵来了！,draft; name confirmed; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,240,How did they get past Serpentholm?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,250,"If we circle around, we can avoid them.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,260,I was hoping you'd say that.,,untranslated
@@ -537,7 +537,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1560,The Lotus are using the Orb to rid
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1570,The Dragon was right.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1580,Their belief gives it power.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1590,We have to hurry.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1600,"I am Kenji, Lord of the Dragon clan.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1600,"I am Kenji, Lord of the Dragon clan.",我是龙族领主健治。,draft; name confirmed; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1610,"For years, his descendants cowered behind their stone walls, hating each other and fearing the dark.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1620,"They never understood that even in the very heart of Serpentholm, shadows lurked in every corner.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1630,"The darkness will always be out there, trying to make us afraid.",,untranslated
@@ -654,7 +654,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2720,"If they remake the world, they ca
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2730,"You'll have your fill tonight, Dead One.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2740,Your time is past.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2750,You don't belong here.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2760,"I am Kenji, Lord of the Serpent clan, and my ancestor broke the world.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2760,"I am Kenji, Lord of the Serpent clan, and my ancestor broke the world.",我是灵蛇族领主健治；我的祖先让这个世界分崩离析。,draft; name confirmed; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2770,"For two centuries, my people hid, praying for the Dragon's protection.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2780,But the Dragon was only a myth.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2790,The meek and useless are all gone now.,,untranslated
@@ -797,7 +797,7 @@ Sound\Dialogue\Lotus_Dialogue.H2O#entry18,210,Lord Zymeth...,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,220,"It's beautiful, Lord.",,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,230,The Wolf clan has retreated to their keep.,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,240,An Oja leads the army.,,untranslated
-Sound\Dialogue\Lotus_Dialogue.H2O#entry18,250,It's the second son - Kenji.,,untranslated
+Sound\Dialogue\Lotus_Dialogue.H2O#entry18,250,It's the second son - Kenji.,是次子——健治。,draft; name confirmed; not game-tested
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,260,The one they called the Dragon.,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,270,I...I don't have it...,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry18,280,Serpent scum!,,untranslated
@@ -833,7 +833,7 @@ Sound\Dialogue\Lotus_Dialogue.H2O#entry38,370,Gone so soon?,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,380,You've grown up.,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,390,Where's the young pup I once caught sulking behind the curtains in the Serpent's throne room?,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,400,Also gone.,,untranslated
-Sound\Dialogue\Lotus_Dialogue.H2O#entry38,410,"Perhaps we've both grown up, Kenji.",,untranslated
+Sound\Dialogue\Lotus_Dialogue.H2O#entry38,410,"Perhaps we've both grown up, Kenji.",或许我们都长大了，健治。,draft; name confirmed; not game-tested
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,420,"If you want to live, the war ends here.",,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,430,The Orb is ours.,,untranslated
 Sound\Dialogue\Lotus_Dialogue.H2O#entry38,440,You know him?,,untranslated
@@ -900,26 +900,26 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,720,Shinja...,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,730,Why did I never see that before?,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,740,"He'll come to his senses, Lord.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,750,Let me go with you.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,760,Kenji said...,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,760,Kenji said...,健治说过……,draft; name confirmed; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,770,No...the Wolf clan is beaten.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,780,The Lotus wizards are the real enemy.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,790,We must not let their army escape back to the high plateau.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,800,"Strike them while their backs are to the sea, and we'll finish them once and for all.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,810,I'll live.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,820,If you have something to say...,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,830,Kenji will kill you for this.,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,830,Kenji will kill you for this.,健治会为此杀了你。,draft; name confirmed; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,840,Show respect!,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,850,"Even after your father's death, the geisha were thought untouchable...",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,860,The Orb may still be safe.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,870,"Don't listen to him, lord - this way is the safest.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,880,"Even though the Lotus have built an outpost there, the dense woods should mask our passage.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,890,Putting out fires.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,900,"This is madness, Kenji.",,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,900,"This is madness, Kenji.",这太疯狂了，健治。,draft; name confirmed; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,910,We've driven these people from their homes.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,920,You sound like your father.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,930,Serpentholm is a ruin.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,940,The Lotus wizards tore it down when the Serpent died.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,950,"Kenji, it doesn't matter.",,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,950,"Kenji, it doesn't matter.",健治，那不重要。,draft; name confirmed; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,960,Our enemies thought it was here.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,970,We could push on to Serpentholm.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,980,And the geisha?,,untranslated
@@ -971,7 +971,7 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1430,"No, but...",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1440,My uncle lived in this village.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1450,The Lotus clan.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1530,Look at the forest...how strange.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1540,Kenji...is that you?,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1540,Kenji...is that you?,健治……是你吗？,draft; name confirmed; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1550,You've grown up.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1560,He abuses your father's people.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1570,"His tax collectors take everything that's not nailed down, and...",,untranslated
@@ -1023,7 +1023,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry10,320,"Ah...get inside, my pretty, get
 Sound\Dialogue\Serpent_Dialogue.H2O#entry10,330,Most...persuasive.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry10,340,You've left me no choice.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,200,Perceptive.,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry26,210,I was sure Kenji would come looking for his clan's precious dragon.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry26,210,I was sure Kenji would come looking for his clan's precious dragon.,我就知道健治会来寻找他族里那条珍贵的龙。,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,220,Where is he?,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,230,"I, the Necromancer.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,240,I can help him.,,untranslated
@@ -1033,7 +1033,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry26,270,Time's a-wasting.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,280,Already the Wolf have the Orb.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,290,The dead talk to me.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,300,So he's returned to Serpentholm.,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry26,310,"Where Kenji goes, fresh corpses litter the ground.",,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry26,310,"Where Kenji goes, fresh corpses litter the ground.",健治所到之处，总有新添的尸体。,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,320,It is...most pleasant.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,330,"Lead on, then.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,340,Most pleasant...,,untranslated
@@ -1046,7 +1046,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry47,210,You're no villager.,,untranslate
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,220,Kill your share of peasants and I'll find you a place in Shinja's band.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,230,Hyah!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,240,You fight like the Serpent.,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,250,"You're Kenji, the Serpent's son.",,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,250,"You're Kenji, the Serpent's son.",你就是灵蛇之子健治。,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,260,But you carry the dark blade.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,270,And you are his heir.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,280,I meant no insult.,,untranslated
@@ -1067,7 +1067,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry47,420,Who are those lowlifes?,,untrans
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,430,D-Don’t kill me...He’s t-to the southeast!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,440,"Shinja’s to the east, scum.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,450,"T-to the North, sir!",,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry73,210,Lord Kenji...,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry73,210,Lord Kenji...,健治大人……,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,220,"I...had to warn you, Lord...",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,230,We are betrayed...,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,240,"Even now, he comes for you...",,untranslated
@@ -1126,7 +1126,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry132,210,As my lord commands.,,untransla
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,220,Weaklings!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,230,The Butcher is more deserving of my talents than you'll ever be!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,240,I reject your pathetic clan!,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry132,250,Kenji!  I am yours!,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry132,250,Kenji!  I am yours!,健治！我愿效忠于你！,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,260,How dare you!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,210,What have you done to Lord Garrin's town?,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,220,"You're in over your head, stranger.",,untranslated
@@ -1137,7 +1137,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry139,260,"Master Garrin rides from the h
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,270,"Protect me, and I'll lend my sword to your cause.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,280,"Who's master now, old fool?",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,200,Of course.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,210,"Kenji, Serpent's son.",,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,210,"Kenji, Serpent's son.",健治，灵蛇之子。,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,220,Once I knew a scared boy who ran from his accusers.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,230,I had to know if he was still that boy.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,240,Are you back to rule the Serpent clan?,,untranslated
@@ -1173,7 +1173,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,520,Rumors - gossip.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,530,"I used to stare at that thing for hours, searching for some spark of power.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,540,It's just a pretty stone.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,550,He's insane.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,560,Kenji!,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,560,Kenji!,健治！,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,570,A message from Riverside!,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,580,The Wolf clan is amassing their army to the southwest!,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,590,They're rallying at their camp!,,untranslated
@@ -1182,7 +1182,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,600,The Lotus clan are slaughtering th
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,610,A large army of bladesmen is camped on the hillside below the warlock's tower.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,615,We must attack before they move south!,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,620,"If the enemy can't hurt you, they'll hurt your people.",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,630,"It's a stone, Kenji!",,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,630,"It's a stone, Kenji!",那只是一块石头，健治！,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,640,"The peasants fought for you, not the Orb!",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,650,About time they decided to stand and fight.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,660,What would you do?,,untranslated
@@ -1200,7 +1200,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,760,We've no time for these fantasies 
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,770,You must restore the Serpent clan!,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,780,Then I will.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,790,"We have to move quickly, while the other clans are weak.",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,800,"Kenji's gone, and I have an empire to build.",,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,800,"Kenji's gone, and I have an empire to build.",健治已不在了，我得建立自己的帝国。,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,810,"Here, look.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,820,Serpentholm is safe for the moment.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,830,We'll set the engineers to rebuilding the walls in case our enemies return.,,untranslated
@@ -1215,7 +1215,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,910,Our enemies understand pain and sa
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,915,"They're doomed, of course, but at least they don't cower in their villages.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,920,Say?,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,930,I don't have anything to say.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,940,Kenji's gone.,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,940,Kenji's gone.,健治已不在了。,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,950,"The Serpent clan needs strong leaders, not weaklings.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,960,Take him.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,970,As you wish.,,untranslated
@@ -1229,7 +1229,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1040,They're mercenary scum who serve 
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1050,"We'd be better off going west, crossing the river here.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1060,"There's a Wolf clan shanty town on the other side, but a few well-trained soldiers could easily clear away that rabble.",,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1070,It's like old times - the Serpent clan fighting as one again.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1080,Kenji!,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1080,Kenji!,健治！,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1090,A message from Riverside!,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1100,The Wolf clan is preparing to counterattack.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1110,"We must head them off, or they'll sweep through the lowlands!",,untranslated
@@ -1251,8 +1251,8 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1250,How?,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1260,By killing his soldiers?,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1270,We have no need of your death magics.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1280,How could you know that?,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1290,What do you want with Kenji?,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1300,"If you're right about the Orb, Kenji will need every soldier he can get - even the dead ones.",,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1290,What do you want with Kenji?,你找健治做什么？,draft; name confirmed; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1300,"If you're right about the Orb, Kenji will need every soldier he can get - even the dead ones.",如果你说的宝珠是真的，健治会需要所有能找到的士兵——连死者也算。,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1310,Something's wrong.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1320,Otomo was supposed to be here by now.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1330,Where is his army?,,untranslated
@@ -1324,7 +1324,7 @@ Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,260,Sacrifice their blood...,,untra
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,270,Summon me.,,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,280,Forget the Orb...,,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,290,Become the Dragon...,,untranslated
-Sound\Dialogue\Unaligned_Dialogue.H2O#entry33,210,Kenji!  Thank the heavens!,,untranslated
+Sound\Dialogue\Unaligned_Dialogue.H2O#entry33,210,Kenji!  Thank the heavens!,健治！谢天谢地！,draft; name confirmed; not game-tested
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry33,220,You're just in time.,,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry33,230,"The Lotus are at the bridges, and they've brought the ninja with them.",,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry33,240,They're eager to settle old scores.,,untranslated
