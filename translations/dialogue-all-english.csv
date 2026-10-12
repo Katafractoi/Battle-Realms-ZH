@@ -1653,13 +1653,13 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93033,"As long as Yvaine is using 
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93038,You will need my help to keep Yvaine from freezing the land to death.,你需要我的帮助，才能阻止 Yvaine 把这片土地冻死。,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93040,I can lead you to her mountain fortress…I have seen the way in my dreams.,我可以带你去她的山中堡垒……我在梦里见过那条路。,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93050,But you are the Lord of the Wolves.,但你是恶狼族的领主。,draft; v45 WOTW Wolf; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1010,What else would you expect from a greedy Serpent taskmaster?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1020,"Still, I'm glad Yvaine and her Lotus goons have stopped watching us so closely.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1030,The Lotus are our true enemies.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1040,"No, but she's stopped fearing us.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1050,Yvaine seems to think that we've lost the strength to fight.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1060,Be patient…the day of our rebellion is coming.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1070,Quiet -- I hear footsteps!,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1010,What else would you expect from a greedy Serpent taskmaster?,贪婪的蛇族监工还能指望他做什么？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1020,"Still, I'm glad Yvaine and her Lotus goons have stopped watching us so closely.",不过，Yvaine 和她的莲花族走狗不再盯我们那么紧，我倒很高兴。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1030,The Lotus are our true enemies.,莲花族才是我们真正的敌人。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1040,"No, but she's stopped fearing us.",不，但她已经不再怕我们了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1050,Yvaine seems to think that we've lost the strength to fight.,Yvaine 似乎以为我们失去了反抗的力量。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1060,Be patient…the day of our rebellion is coming.,耐心点……起义的日子快到了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1070,Quiet -- I hear footsteps!,安静，我听见脚步声！,draft; v47 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1080,"We can't work without food, Budo.",没有米，我们就干不了活，武堂。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1090,That seems simple enough.,这听起来并不难。,draft; adjacent scene; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1100,Better head back to Budo and claim our rice...,还是回去找武堂领我们的米吧……,draft; confirmed hero name; not game-tested
@@ -1669,244 +1669,244 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1130,Budo's tasks just get harder�
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1140,"A Wolf's hunger gives him strength, not weakness. Where's our rice?",恶狼族越饿越有力气，而非越弱。我们的米在哪里？,draft; adjacent scene; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1150,Yvaine won't be too happy if you beat her starving slaves to death.,你若把 Yvaine 的奴隶打死，她可不会高兴。,draft; adjacent scene; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1160,Budo ordered us to search these tunnels for new shale to mine…,武堂命令我们到这些地道里寻找可开采的新页岩……,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1170,I thought the Skull of the White Wolf had been lost forever!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1180,"It's the last remnant of a forgotten spirit, and the greatest treasure of our Clan.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1190,"The Skull Totem has incredible powers, especially over weather and nature.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1200,"Long ago, our Druidess Order used its magic to bring our ancestors to these lands.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1210,What could Yvaine be planning to use this for…?,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1170,I thought the Skull of the White Wolf had been lost forever!,我以为白狼之颅早就永远遗失了！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1180,"It's the last remnant of a forgotten spirit, and the greatest treasure of our Clan.",它是远古神灵留下的最后遗物，也是我们一族最珍贵的宝物。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1190,"The Skull Totem has incredible powers, especially over weather and nature.",颅骨图腾拥有惊人的力量，尤其能掌控天气与自然。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1200,"Long ago, our Druidess Order used its magic to bring our ancestors to these lands.",很久以前，德鲁伊女祭司团用它的魔法将我们的祖先带到这片土地。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1210,What could Yvaine be planning to use this for…?,Yvaine 打算拿它做什么……？,draft; v47 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1220,I'm just following Budo's orders…is something wrong?,我只是按武堂的命令办事……有什么不对吗？,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1230,I must not die...my Clan still needs me…!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1300,"If I can't protect my Clan brothers, the rebellion is doomed…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2000,She's probably just waiting for a chance to kill us quietly.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2010,We've got to warn the other miners that we've been captured.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2020,"If we don't fight Yvaine now, we might not live to see another chance!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2030,Let's break this shale pile so that Yvaine doesn't become suspicious.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2040,We'll smuggle a warning to our allies afterwards.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2050,I expected Yvaine to be more subtle than this.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2060,"Obviously, she's no longer satisfied with simply working us to death.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2070,We must free our fellow prisoners and escape to the upper levels!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2080,The time to seize our freedom is now!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2085,Sounds like someone's in trouble to the north -- let's move!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2090,Longtooth! I didn't expect to find you here!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2100,"You're free now -- and I need your help, old friend.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2110,It's time to show the Lotus what we're made of.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2120,Are you ready to fight by my side?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2130,"I am Grayback, leader of the Wolf Clan. Call me 'slave' again, and you'll have death as your answer!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2140,She's going to fetch her warriors.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2150,We must rally our comrades in the upper mines. Follow me!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2160,What are you doing down here?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2170,Stop babbling. How many slaves are imprisoned down here?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2180,You're too pathetic to kill. Get out of here.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2190,Did you hear that? We've got to rescue all ten slaves before we escape…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2200,"Two warriors freed, eight to go…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2210,That's half of them…we must keep searching!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2220,"Just three more Wolf Clansmen to find, and we can leave this pit…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2230,There's only one prisoner left -- now where is he?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2240,That's the last of our captive brothers -- let's head for the upper mines.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2250,Stay alert. Yvaine won't let us escape these depths without a fight!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2260,Longtooth has fallen! Our cause seems hopeless now...,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3000,"To bring the Lotus down, we'll need the strength of every last Wolf Clansman.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3010,We must break their chains before Yvaine's troops arrive!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3015,"Yes, we'll need a Pitch Slinger to burn it away from a safe distance.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3020,I'm surprised there aren't any Pitch Slingers locked up nearby...,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3030,"Strike that lever, and we'll find out.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3035,It's locked…maybe a Sledger could break down the door.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3038,Our Pitch Slingers should be able to burn that gas away from a distance.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3040,Out of the way. Our business is with the Lotus.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3050,Too many of the Wolf Clan are still in chains.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3060,"As long as they remain here, so must I.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3070,"But there are other mines, and other slaves. We'll need their help, too.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3080,"You must reach the other mines and rally them to war, Longtooth.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3090,I'll stay behind and free the others.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3100,That's why you must spread word of our rebellion.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3110,We'll need all of the Wolf Clan's strength to win.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3120,Then I'll die as a warrior.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3130,I know you won't.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3140,And you're as fat as ever.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3150,"Throw off your chains, brothers! Your Clan is at war!",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1230,I must not die...my Clan still needs me…!,我不能死……族人还需要我！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1300,"If I can't protect my Clan brothers, the rebellion is doomed…",连族中兄弟都护不住，这场起义就没希望了……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2000,She's probably just waiting for a chance to kill us quietly.,她大概只是在等机会悄悄杀掉我们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2010,We've got to warn the other miners that we've been captured.,我们得通知其他矿工，我们已经被俘。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2020,"If we don't fight Yvaine now, we might not live to see another chance!",现在不反抗 Yvaine，恐怕就等不到下一次机会了！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2030,Let's break this shale pile so that Yvaine doesn't become suspicious.,先砸开这堆页岩，免得 Yvaine 起疑。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2040,We'll smuggle a warning to our allies afterwards.,之后再偷偷给盟友送信。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2050,I expected Yvaine to be more subtle than this.,我以为 Yvaine 会耍得更隐蔽些。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2060,"Obviously, she's no longer satisfied with simply working us to death.",显然，光把我们累死已经不能让她满足了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2070,We must free our fellow prisoners and escape to the upper levels!,必须救出其他囚徒，逃到矿坑上层！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2080,The time to seize our freedom is now!,现在就夺回自由！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2085,Sounds like someone's in trouble to the north -- let's move!,北边好像有人遇险，快走！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2090,Longtooth! I didn't expect to find you here!,Longtooth！没想到会在这里找到你！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2100,"You're free now -- and I need your help, old friend.",你自由了，老朋友，我需要你的帮助。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2110,It's time to show the Lotus what we're made of.,该让莲花族见识我们的厉害了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2120,Are you ready to fight by my side?,你准备好与我并肩作战了吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2130,"I am Grayback, leader of the Wolf Clan. Call me 'slave' again, and you'll have death as your answer!",我是灰背，恶狼族的首领。再叫我一声“奴隶”，我就让你以死回答！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2140,She's going to fetch her warriors.,她去叫她的战士了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2150,We must rally our comrades in the upper mines. Follow me!,我们必须召集上层矿坑的伙伴。跟我来！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2160,What are you doing down here?,你在下面做什么？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2170,Stop babbling. How many slaves are imprisoned down here?,别胡说八道。这里关了多少奴隶？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2180,You're too pathetic to kill. Get out of here.,你可怜得让我不屑杀你。滚吧。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2190,Did you hear that? We've got to rescue all ten slaves before we escape…,听到了吗？逃出去之前，我们得救出全部十名奴隶……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2200,"Two warriors freed, eight to go…",救出两名战士，还剩八名……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2210,That's half of them…we must keep searching!,救出一半了……继续找！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2220,"Just three more Wolf Clansmen to find, and we can leave this pit…",再找到三名族人，我们就能离开这座矿坑……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2230,There's only one prisoner left -- now where is he?,只剩最后一名囚徒了，他在哪儿？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2240,That's the last of our captive brothers -- let's head for the upper mines.,被俘的兄弟都救出来了，去上层矿坑吧。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2250,Stay alert. Yvaine won't let us escape these depths without a fight!,保持警惕。Yvaine 不会轻易让我们逃出深处！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2260,Longtooth has fallen! Our cause seems hopeless now...,Longtooth 倒下了！我们的事业怕是没希望了……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3000,"To bring the Lotus down, we'll need the strength of every last Wolf Clansman.",要推翻莲花族，我们需要每一位族人的力量。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3010,We must break their chains before Yvaine's troops arrive!,必须赶在 Yvaine 的部队到来前为他们挣断锁链！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3015,"Yes, we'll need a Pitch Slinger to burn it away from a safe distance.",没错，需要沥青投掷手在安全距离外把它烧掉。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3020,I'm surprised there aren't any Pitch Slingers locked up nearby...,附近居然没关着沥青投掷手，真奇怪……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3030,"Strike that lever, and we'll find out.",打一下那根拉杆就知道了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3035,It's locked…maybe a Sledger could break down the door.,锁住了……也许击石工能砸开门。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3038,Our Pitch Slingers should be able to burn that gas away from a distance.,沥青投掷手应该能在远处把那团气体烧掉。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3040,Out of the way. Our business is with the Lotus.,让开。我们要找的是莲花族。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3050,Too many of the Wolf Clan are still in chains.,还有太多族人戴着锁链。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3060,"As long as they remain here, so must I.",只要他们还在这里，我就不会离开。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3070,"But there are other mines, and other slaves. We'll need their help, too.",但还有其他矿场和奴隶。我们也需要他们帮忙。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3080,"You must reach the other mines and rally them to war, Longtooth.",Longtooth，你必须赶到其他矿场，号召他们参战。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3090,I'll stay behind and free the others.,我留下来解救其他人。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3100,That's why you must spread word of our rebellion.,所以你必须把起义的消息传出去。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3110,We'll need all of the Wolf Clan's strength to win.,我们需要全族之力才能赢。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3120,Then I'll die as a warrior.,那我也要像战士一样死去。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3130,I know you won't.,我知道你不会。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3140,And you're as fat as ever.,你还是和以前一样胖。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3150,"Throw off your chains, brothers! Your Clan is at war!",弟兄们，挣脱锁链！全族已经开战了！,draft; v47 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3160,"Budo, you swine! You'll pay for this!",武堂，你这恶徒！你会付出代价的！,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3165,"My poor, foolish brothers…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3167,I'm sorry I couldn't save you.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3200,Another wall of magic -- but there's no lever!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3210,It must be on the other side…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3220,Maybe a Digger could tunnel beneath this barrier and find the controls.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3300,We've rescued a Digger! We'll be able to tunnel under obstacles now…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3400,A Sledger could break open this cell in no time…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4000,"Everyone, run for the exit! We can't let the Lotus trap us here!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4010,"Honor, from a Lotus? That would be a first.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4020,My Clan will avenge me!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4040,What…? Yvaine!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4050,She's planning something. I must find another way out!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4060,It looks like this old air-shaft could be opened again.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4070,If only the Sledgers were at my side!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4080,I've never seen this part of the mine before…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4090,"It's a hidden Shalery and some workers! Hail, Wolf brothers!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4100,This is a wonderful discovery -- I'll be able to forge armor with these tools.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4110,"Excellent! With protection like this, I could take on the whole Lotus army!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4120,But we'll need to find more food in order to forge more armor.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4130,"Damn, it's more of that noxious gas…we'll need to blaze a trail with fire.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4140,I don't see a lever anywhere…we'll need a Digger to tunnel under this barrier.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4170,We've spent seven years in these mines.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4180,"No matter what happens, we will never wear chains again!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4190,We shouldn't give our Diggers Shale Armor…they'll be too bulky to dig!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5000,"Not yet, but we have little time…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5010,"Even now, Yvaine must be gathering her forces to wipe us out.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5020,Longtooth will bring reinforcements from the other shale mines.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5030,We must reach the signal tower above us.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5035,"If our Pitch Slinger climbs that tower, Longtooth will see his flames and head straight for us.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5040,Be careful! We don't have any other way to light the signal fires.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5050,"If you're killed by the Lotus, Longtooth will never reach us in time!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5055,That flame should be visible for miles around. Any sign of our allies?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5060,Longtooth has great courage...I knew he wouldn't fail us.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5070,Can you see anything else? We must know what Yvaine is planning.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5080,"That's where Yvaine will be…and perhaps our sacred totem, as well.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5090,First we'll head southwest and free the slaves in the town.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5100,The Lotus will seek revenge for our victories -- nobody must be left behind.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5200,Then we'll tear into that fortress and get some answers from Yvaine!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5210,"I haven't seen you in the mines, Wolf brother.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5220,You've been hunting the Lotus for all this time? Amazing!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5225,"Will you fight with us, and help us restore the Wolf Clan's freedom?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5227,"Then you're welcome at my side, friend Wildeye.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5230,"Together, we'll show Yvaine the Wolf's vengeance!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5240,"I can see the control lever from here, but only Longtooth could hit it from this distance!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5250,Yvaine has sealed the mountain pass to slow us down…we'll need blunt weapons to break through.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5260,"With blunt weapons, we could shatter this rockfall and take Yvaine by surprise!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5270,Enough. Your evil ends here.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5280,No more riddles! What are you doing with the Skull?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5300,"Nice throw, old friend!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5400,Our Pitch Slinger should climb this tower and signal to Longtooth…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5500,"Without the Pitch Slinger's fires, we can't give Longtooth the signal!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6000,What's going on here?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6010,Lead us there immediately.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6020,We'll defeat these murderous Witches and rescue Gaihla!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6030,You must be Utara.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6040,Gaihla's still alive? Where are you keeping her?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6050,I'll ask you one more time -- where is Gaihla imprisoned?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6060,"If you help us find her, I'll let you go.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6070,You disgust me. Get out of my sight.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6080,"Wildeye, can you find this laboratory?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6100,The Forest Temple has been destroyed…we've failed to protect the Druidess Order.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8000,What? I didn't understand a word of that!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8010,Do you think she's been murdered?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8020,Then we've got to keep searching.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8030,I'll head this way…you two keep scouting in the other direction.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8040,Be careful!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8050,"Need a hand, Wildeye?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8060,Sorry to keep you waiting.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8070,"You weren't going to run from those things, were you?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8080,Let's get to a safer place. We have much to discuss.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8100,That monster sacrificed himself for us…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8110,"We'll take him to our Keep, and try to revive him.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9000,The lake shore is just a little farther. Wildeye's meeting us there.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9010,I know.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9020,"Yvaine's blizzard is killing the land. As the land dies, so does Gaihla.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9030,Have you found any shelter nearby?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9040,"In other words, it's a trap.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9050,We don't have much of a choice…let's check it out.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9055,"Wildeye, take Gaihla around the south side of the lake, where it's safer.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9060,I'll scout out the main road and meet you at the Monastery.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9070,So you're behind this silly ambush.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9080,Who are you? You're not dressed like a Monk.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9090,"Tao, will you help us destroy Yvaine?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9100,"We've opened the gates! Rally to me, Wolves!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9110,That should take care of one of the barriers…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9120,The last barrier should be down -- let's move!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10000,"Taro, this blizzard is Yvaine's sorcery -- we're also here to stop it.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10010,"He's a pompous brat, but we shouldn't kill him -- his father is too powerful.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10020,I suppose there's no other way around the fool.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10030,"When we've dealt with his Guardians, the Prince will listen more carefully!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10040,You're not dead yet.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10050,Go home to your father. Tell him the Wolf Clan didn't cause this blizzard.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10060,"Let me put it this way: if I wanted war with the Serpent Empire, I'd kill you now.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10070,All I want is to settle our business with Yvaine before we all freeze to death.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10080,"Why not let us pass, and tell your father that you stopped the blizzard yourself?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10090,Then you can tell Lord Oja that you slew the evil Wolf rebels single-handedly.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10100,"If your brother has any wits at all, he'll outlive you, little Prince.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10200,That's one less den of snakes to trouble us.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10300,We'd better find the last Academy…Taro will discover our handiwork soon.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11000,"I'm sure Yvaine knows that we've beaten Issyl, Koril and Taro.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11010,She'll be gathering her powers for the final battle.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11020,Either Yvaine or the Lord of the Wolves must die today.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11030,They'll fall when her towns are destroyed. She can't power them alone.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11040,"Not if she intends to keep up this storm, as well.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11050,"Even gods can die. Come on, we have work to do.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11060,You are...I'm going down there alone.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11065,I don't know if we can beat Yvaine -- not when she's using that totem.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11070,"If I can win this fight, I will.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11080,"If I am fated to die, you two must survive to rule the Wolves.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11090,"Between your instincts and Longtooth's wits, I'm sure our Clan will survive.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11100,I'll try.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11200,We've disabled the first set of barriers…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11205,We must press our attack to the towns above!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11210,Another of Yvaine's barriers has fallen.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11220,That should take care of another barrier.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11300,We've opened a path to Yvaine's fortress! We must hurry!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12000,"All right, Yvaine…where are you hiding?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12010,"The enslavement, the war, the winter…all of your evils are about to end.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12015,Safety isn't freedom.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12020,What happened to you?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12030,"The White Wolf's Skull has destroyed your mind, Yvaine.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12040,Killing you will be an act of mercy.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13010,"What, and disobey my orders?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13020,"You still have a lot to learn, my friend!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13030,Thank you for believing in me.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13040,"When Yvaine died, she unleashed the full power of the White Wolf's Skull.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13050,"I thought the explosion would destroy us both, but I didn't feel any pain at all.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13055,Yvaine and the corrupted totem are nothing but ashes now.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13060,It was not my destiny to die today.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13070,"When he does, the Wolves will be ready for him.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,20000,Mmm…rice.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91010,"Long ago, life was better for the Wolf Clan.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91020,"Our ancestors lived on a faraway island, in peace and harmony.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91030,"They took care of the land, and the land gave them everything they needed.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91040,Everything was simple and good…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91050,"…until the storms came, and drowned our paradise.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91060,Our ancestors' simple magic was powerless to stop the destruction.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91070,They knew only that they had to flee…or perish.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91080,They never understood the disaster that almost destroyed them.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91090,"Half a world away, the Serpent Clan's founder used his Orb to reshape the world.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91100,"That act of desperation disrupted the balance of nature, and doomed our home.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91110,But how could our forefathers have imagined the source of their troubles?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91120,And how could they guess where their desperate prayers would take them?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91130,"Using our clan's most sacred totem, the White Wolf's Skull, our Druidess Order rescued us from death.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91140,"The totem brought us here, to the lands of the Serpent Empire.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91150,"Thankful for our salvation, we rebuilt our towns and our lives.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91160,"Our new neighbors, the devious Serpent and cold-hearted Lotus, welcomed us as allies and promised us safety.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91170,"Unfortunately, we trusted them.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91180,"For generations, our Clan tried to return to the simple life it left behind.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91190,"Our numbers slowly recovered, and our villages grew and thrived.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91200,Everything seemed simple and good again…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91210,Until a new disaster broke over our people -- a disaster of betrayal and fire.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91220,"Lord Zymeth of the Lotus Clan made a deal with the treacherous Serpent emperor, and attacked us by surprise.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91230,The Serpent looked the other way as the Lotus slaughtered our farmers and burned our homes.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91240,"Like the rest of my brothers, I fought to save our Clan, and I could not.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91250,The survivors of that battle have been slaves in the Lotus shale mines ever since.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91260,"For seven years, we've worked and died to make the Lotus wealthy.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91270,"The Lotus slavemaster, Mistress Yvaine, rules our Clan through fear.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91280,She believes we have lost the ability to dream of freedom.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91290,She is wrong.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91300,"I am Grayback, last heir to the Wolf Clan's throne.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91310,"For seven years, I've trained my fellow miners in the arts of war.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91320,"Hammers, picks and stones are our weapons…those, and our unending anger.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91330,A third disaster is coming -- a disaster for the murderers who dared to cross us.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91340,"Soon, the Wolf Clan will rise again.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92020,It is the Skull of the White Wolf -- a relic of our clan's guardian spirit.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92030,"Until our war against the Lotus, it was our greatest treasure.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92040,Only Gaihla and her Druidess Order knew how to harness its powers.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92045,"If they were alive, maybe they could tell us how to stop the Totem.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92050,But they died in the final battle.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92060,How can that be?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92070,Then we must find her.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92080,Gather the troops -- we're leaving at once.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92090,Another brave man has fallen.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92095,I hope he finds freedom.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92100,You're right…we'd better keep moving.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93000,Any enemy of the Lotus is welcome in my camp.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93010,The Shale Lord fights with us.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93020,Then I'll take the Skull of the White Wolf from her.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93030,Yvaine will expect me…I won't ask any of you to follow me into her traps.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93040,You don't have to call me that…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93050,"Thank you, my friends.",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3165,"My poor, foolish brothers…",我可怜又愚昧的兄弟们……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3167,I'm sorry I couldn't save you.,对不起，我没能救下你们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3200,Another wall of magic -- but there's no lever!,又是一道魔法墙，可这里没有拉杆！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3210,It must be on the other side…,拉杆一定在另一边……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3220,Maybe a Digger could tunnel beneath this barrier and find the controls.,也许掘地者能挖到屏障下方，找到控制机关。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3300,We've rescued a Digger! We'll be able to tunnel under obstacles now…,我们救出了一名掘地者！现在能从障碍物下挖过去了……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3400,A Sledger could break open this cell in no time…,击石工很快就能砸开这间牢房……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4000,"Everyone, run for the exit! We can't let the Lotus trap us here!",所有人，快跑向出口！不能让莲花族把我们困在这里！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4010,"Honor, from a Lotus? That would be a first.",莲花族也讲荣誉？这倒是头一回。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4020,My Clan will avenge me!,我的族人会为我报仇！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4040,What…? Yvaine!,什么……？Yvaine！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4050,She's planning something. I must find another way out!,她在谋划什么。我得另找出口！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4060,It looks like this old air-shaft could be opened again.,这条旧通风井似乎还能重新打开。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4070,If only the Sledgers were at my side!,要是击石工们在我身边就好了！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4080,I've never seen this part of the mine before…,这片矿坑我以前从没见过……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4090,"It's a hidden Shalery and some workers! Hail, Wolf brothers!",一间隐蔽的页岩工坊，还有工人！族中兄弟，你们好！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4100,This is a wonderful discovery -- I'll be able to forge armor with these tools.,发现得好！我可以用这些工具打造护甲。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4110,"Excellent! With protection like this, I could take on the whole Lotus army!",好极了！有这身防护，我能对付整支莲花族军队！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4120,But we'll need to find more food in order to forge more armor.,但要打造更多护甲，还得找到更多食物。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4130,"Damn, it's more of that noxious gas…we'll need to blaze a trail with fire.",该死，又是那种毒气……得用火烧出一条路。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4140,I don't see a lever anywhere…we'll need a Digger to tunnel under this barrier.,到处找不到拉杆……需要掘地者从屏障下面挖过去。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4170,We've spent seven years in these mines.,我们在这些矿坑里熬了七年。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4180,"No matter what happens, we will never wear chains again!",无论发生什么，我们再也不会戴上锁链！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,4190,We shouldn't give our Diggers Shale Armor…they'll be too bulky to dig!,别给掘地者穿页岩护甲……太笨重，挖不了地道！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5000,"Not yet, but we have little time…",还没有，但我们没多少时间了……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5010,"Even now, Yvaine must be gathering her forces to wipe us out.",Yvaine 现在肯定正集结部队，要消灭我们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5020,Longtooth will bring reinforcements from the other shale mines.,Longtooth 会从其他页岩矿场带来援军。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5030,We must reach the signal tower above us.,我们必须赶到头顶的信号塔。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5035,"If our Pitch Slinger climbs that tower, Longtooth will see his flames and head straight for us.",让沥青投掷手爬上塔，Longtooth 就能看到火光，径直来找我们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5040,Be careful! We don't have any other way to light the signal fires.,小心！我们没别的办法点燃信号火。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5050,"If you're killed by the Lotus, Longtooth will never reach us in time!",你若被莲花族杀了，Longtooth 就来不及救我们！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5055,That flame should be visible for miles around. Any sign of our allies?,几里外应该都看得见那团火。看见盟友了吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5060,Longtooth has great courage...I knew he wouldn't fail us.,Longtooth 勇气过人……我就知道他不会让我们失望。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5070,Can you see anything else? We must know what Yvaine is planning.,还能看到什么？我们得弄清 Yvaine 的打算。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5080,"That's where Yvaine will be…and perhaps our sacred totem, as well.",Yvaine 就在那里……也许我们的圣物图腾也在。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5090,First we'll head southwest and free the slaves in the town.,先往西南走，救出镇里的奴隶。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5100,The Lotus will seek revenge for our victories -- nobody must be left behind.,莲花族会为我们的胜利报复，不能留下任何人。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5200,Then we'll tear into that fortress and get some answers from Yvaine!,接着攻进那座堡垒，找 Yvaine 问个明白！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5210,"I haven't seen you in the mines, Wolf brother.",我在矿坑里没见过你，族中兄弟。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5220,You've been hunting the Lotus for all this time? Amazing!,你一直在猎杀莲花族？真了不起！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5225,"Will you fight with us, and help us restore the Wolf Clan's freedom?",你愿意与我们并肩作战，帮恶狼族重获自由吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5227,"Then you're welcome at my side, friend Wildeye.",那就欢迎你加入我们，Wildeye 朋友。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5230,"Together, we'll show Yvaine the Wolf's vengeance!",让我们一起叫 Yvaine 领教恶狼族的复仇！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5240,"I can see the control lever from here, but only Longtooth could hit it from this distance!",我从这里看得见控制拉杆，可只有 Longtooth 能在这么远的地方打中它！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5250,Yvaine has sealed the mountain pass to slow us down…we'll need blunt weapons to break through.,Yvaine 封住了山口，想拖住我们……需要钝器才能破开。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5260,"With blunt weapons, we could shatter this rockfall and take Yvaine by surprise!",有了钝器，就能砸碎这堆落石，打 Yvaine 一个措手不及！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5270,Enough. Your evil ends here.,够了。你的恶行到此为止。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5280,No more riddles! What are you doing with the Skull?,别再打哑谜！你拿白狼之颅做什么？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5300,"Nice throw, old friend!",投得漂亮，老朋友！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5400,Our Pitch Slinger should climb this tower and signal to Longtooth…,该让沥青投掷手爬上塔，向 Longtooth 发信号……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,5500,"Without the Pitch Slinger's fires, we can't give Longtooth the signal!",没有沥青投掷手点火，就无法向 Longtooth 发信号！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6000,What's going on here?,这里发生了什么？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6010,Lead us there immediately.,立刻带我们过去。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6020,We'll defeat these murderous Witches and rescue Gaihla!,我们会击败那些杀人的女巫，救出 Gaihla！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6030,You must be Utara.,你一定是 Utara。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6040,Gaihla's still alive? Where are you keeping her?,Gaihla 还活着？你们把她关在哪儿？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6050,I'll ask you one more time -- where is Gaihla imprisoned?,我再问你一次——Gaihla 被囚在哪里？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6060,"If you help us find her, I'll let you go.",帮我们找到她，我就放你走。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6070,You disgust me. Get out of my sight.,你让我恶心。滚出我的视线。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6080,"Wildeye, can you find this laboratory?",Wildeye，你能找到那间实验室吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,6100,The Forest Temple has been destroyed…we've failed to protect the Druidess Order.,森林神殿毁了……我们没能保护德鲁伊女祭司团。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8000,What? I didn't understand a word of that!,什么？我一个字也没听懂！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8010,Do you think she's been murdered?,你觉得她已经被杀了吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8020,Then we've got to keep searching.,那就继续找。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8030,I'll head this way…you two keep scouting in the other direction.,我往这边走……你们俩去另一个方向侦察。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8040,Be careful!,小心！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8050,"Need a hand, Wildeye?",Wildeye，需要帮忙吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8060,Sorry to keep you waiting.,抱歉让你久等了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8070,"You weren't going to run from those things, were you?",你该不会想从那些东西面前逃跑吧？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8080,Let's get to a safer place. We have much to discuss.,找个安全点的地方。我们有很多事要谈。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8100,That monster sacrificed himself for us…,那个怪物为我们牺牲了……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,8110,"We'll take him to our Keep, and try to revive him.",把他带回堡垒，试着救活他。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9000,The lake shore is just a little farther. Wildeye's meeting us there.,湖岸就在前面不远。Wildeye 在那里等我们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9010,I know.,我知道。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9020,"Yvaine's blizzard is killing the land. As the land dies, so does Gaihla.",Yvaine 的暴风雪正杀死这片土地。土地死去，Gaihla 也会死。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9030,Have you found any shelter nearby?,附近找到避难处了吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9040,"In other words, it's a trap.",换句话说，这是个陷阱。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9050,We don't have much of a choice…let's check it out.,我们没多少选择……去看看吧。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9055,"Wildeye, take Gaihla around the south side of the lake, where it's safer.",Wildeye，你带 Gaihla 沿湖的南岸走，那边安全些。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9060,I'll scout out the main road and meet you at the Monastery.,我去侦察大路，在寺院与你们会合。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9070,So you're behind this silly ambush.,原来这场拙劣的伏击是你安排的。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9080,Who are you? You're not dressed like a Monk.,你是谁？你的衣着可不像僧侣。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9090,"Tao, will you help us destroy Yvaine?",Tao，你愿意帮我们除掉 Yvaine 吗？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9100,"We've opened the gates! Rally to me, Wolves!",门打开了！恶狼族战士，到我身边集结！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9110,That should take care of one of the barriers…,这样应该能除掉一道屏障……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,9120,The last barrier should be down -- let's move!,最后一道屏障也该消失了，前进！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10000,"Taro, this blizzard is Yvaine's sorcery -- we're also here to stop it.",Taro，这场暴风雪是 Yvaine 的法术，我们也是来阻止它的。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10010,"He's a pompous brat, but we shouldn't kill him -- his father is too powerful.",他是个自大的小鬼，但不能杀他，他父亲权势太大。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10020,I suppose there's no other way around the fool.,看来只有先对付这个蠢货了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10030,"When we've dealt with his Guardians, the Prince will listen more carefully!",收拾掉他的守卫后，王子就会认真听我们说话！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10040,You're not dead yet.,你还没死呢。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10050,Go home to your father. Tell him the Wolf Clan didn't cause this blizzard.,回去见你父亲。告诉他这场暴风雪不是恶狼族造成的。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10060,"Let me put it this way: if I wanted war with the Serpent Empire, I'd kill you now.",这么说吧：我要是想和蛇族帝国开战，现在就会杀了你。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10070,All I want is to settle our business with Yvaine before we all freeze to death.,我只想在大家冻死前了结和 Yvaine 的恩怨。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10080,"Why not let us pass, and tell your father that you stopped the blizzard yourself?",何不放我们过去，再告诉你父亲是你亲手止住了暴风雪？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10090,Then you can tell Lord Oja that you slew the evil Wolf rebels single-handedly.,你还可以告诉 Oja 领主，说你独自杀光了邪恶的恶狼族叛军。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10100,"If your brother has any wits at all, he'll outlive you, little Prince.",小王子，只要你哥哥还有点脑子，他就会比你活得久。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10200,That's one less den of snakes to trouble us.,又少了一个找我们麻烦的蛇窝。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,10300,We'd better find the last Academy…Taro will discover our handiwork soon.,最好快找最后一座学院……Taro 很快会发现是我们干的。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11000,"I'm sure Yvaine knows that we've beaten Issyl, Koril and Taro.",Yvaine 一定知道我们击败了 Issyl、Koril 和 Taro。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11010,She'll be gathering her powers for the final battle.,她会积蓄力量，准备最后一战。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11020,Either Yvaine or the Lord of the Wolves must die today.,今天，不是 Yvaine 死，就是恶狼之主死。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11030,They'll fall when her towns are destroyed. She can't power them alone.,只要毁掉她的城镇，屏障就会倒下。她一个人供不了魔力。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11040,"Not if she intends to keep up this storm, as well.",更何况她还得维持这场暴风雪。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11050,"Even gods can die. Come on, we have work to do.",神也会死。走吧，还有事要做。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11060,You are...I'm going down there alone.,你们会……我要一个人下去。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11065,I don't know if we can beat Yvaine -- not when she's using that totem.,她掌握着那个图腾，我不知道我们能不能打败 Yvaine。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11070,"If I can win this fight, I will.",如果能赢，我会赢下这一战。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11080,"If I am fated to die, you two must survive to rule the Wolves.",如果我命中注定要死，你们俩必须活下来，统领恶狼族。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11090,"Between your instincts and Longtooth's wits, I'm sure our Clan will survive.",靠你的直觉和 Longtooth 的头脑，我们一族一定能存续。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11100,I'll try.,我会尽力。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11200,We've disabled the first set of barriers…,第一组屏障已经解除……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11205,We must press our attack to the towns above!,必须继续进攻上方的城镇！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11210,Another of Yvaine's barriers has fallen.,Yvaine 的又一道屏障倒下了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11220,That should take care of another barrier.,这样又能除掉一道屏障。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,11300,We've opened a path to Yvaine's fortress! We must hurry!,通往 Yvaine 堡垒的路打开了！快走！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12000,"All right, Yvaine…where are you hiding?",好了，Yvaine……你躲在哪儿？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12010,"The enslavement, the war, the winter…all of your evils are about to end.",奴役、战争、严冬……你的所有恶行就要结束了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12015,Safety isn't freedom.,安全不等于自由。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12020,What happened to you?,你怎么变成这样了？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12030,"The White Wolf's Skull has destroyed your mind, Yvaine.",白狼之颅毁掉了你的心智，Yvaine。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,12040,Killing you will be an act of mercy.,杀了你，也是对你的仁慈。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13010,"What, and disobey my orders?",怎么，想违抗我的命令？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13020,"You still have a lot to learn, my friend!",朋友，你要学的还多着呢！,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13030,Thank you for believing in me.,谢谢你相信我。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13040,"When Yvaine died, she unleashed the full power of the White Wolf's Skull.",Yvaine 死时，释放了白狼之颅的全部力量。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13050,"I thought the explosion would destroy us both, but I didn't feel any pain at all.",我以为爆炸会把我们俩都毁掉，可我一点也没觉得疼。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13055,Yvaine and the corrupted totem are nothing but ashes now.,Yvaine 和被腐化的图腾如今只剩灰烬。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13060,It was not my destiny to die today.,今天还不是我命尽之时。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,13070,"When he does, the Wolves will be ready for him.",等他真来了，恶狼族已做好准备。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,20000,Mmm…rice.,嗯……米饭。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91010,"Long ago, life was better for the Wolf Clan.",很久以前，恶狼族过着更好的生活。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91020,"Our ancestors lived on a faraway island, in peace and harmony.",我们的祖先住在遥远的岛上，安宁和睦。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91030,"They took care of the land, and the land gave them everything they needed.",他们照料土地，土地也供给他们所需的一切。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91040,Everything was simple and good…,一切都简单而美好……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91050,"…until the storms came, and drowned our paradise.",……直到风暴到来，淹没了我们的家园。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91060,Our ancestors' simple magic was powerless to stop the destruction.,祖先那点简单的法术，根本无法阻止灾难。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91070,They knew only that they had to flee…or perish.,他们只知道必须逃走……否则就会灭亡。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91080,They never understood the disaster that almost destroyed them.,他们始终不明白，那场几乎灭绝全族的灾难从何而来。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91090,"Half a world away, the Serpent Clan's founder used his Orb to reshape the world.",在世界的另一端，蛇族的创始人用宝珠重塑了世界。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91100,"That act of desperation disrupted the balance of nature, and doomed our home.",那绝望的一举打乱了自然平衡，也注定让我们的家园覆灭。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91110,But how could our forefathers have imagined the source of their troubles?,可祖先怎么可能想得到，祸端竟在那里？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91120,And how could they guess where their desperate prayers would take them?,他们又怎能料到，走投无路时的祈祷会把自己带向何方？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91130,"Using our clan's most sacred totem, the White Wolf's Skull, our Druidess Order rescued us from death.",德鲁伊女祭司团借助族中最神圣的图腾——白狼之颅，将我们从死亡边缘救了回来。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91140,"The totem brought us here, to the lands of the Serpent Empire.",图腾把我们带到这里，蛇族帝国的土地。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91150,"Thankful for our salvation, we rebuilt our towns and our lives.",感谢获救，我们重建了城镇与生活。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91160,"Our new neighbors, the devious Serpent and cold-hearted Lotus, welcomed us as allies and promised us safety.",新邻居——狡诈的蛇族与冷酷的莲花族——欢迎我们结盟，并许诺庇护。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91170,"Unfortunately, we trusted them.",可惜，我们信了他们。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91180,"For generations, our Clan tried to return to the simple life it left behind.",几代人以来，族人一直想找回昔日那种简单的生活。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91190,"Our numbers slowly recovered, and our villages grew and thrived.",人口慢慢恢复，村庄也日渐繁盛。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91200,Everything seemed simple and good again…,一切仿佛又简单而美好……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91210,Until a new disaster broke over our people -- a disaster of betrayal and fire.,直到另一场灾难降临族人：背叛与烈火。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91220,"Lord Zymeth of the Lotus Clan made a deal with the treacherous Serpent emperor, and attacked us by surprise.",莲花族的 Zymeth 领主与背信弃义的蛇族皇帝勾结，突然向我们发起进攻。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91230,The Serpent looked the other way as the Lotus slaughtered our farmers and burned our homes.,蛇族袖手旁观，任凭莲花族屠杀农夫、焚烧家园。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91240,"Like the rest of my brothers, I fought to save our Clan, and I could not.",我和所有兄弟一样，为拯救族人而战，却没能做到。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91250,The survivors of that battle have been slaves in the Lotus shale mines ever since.,那一战的幸存者从此沦为奴隶，被关进莲花族的页岩矿场。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91260,"For seven years, we've worked and died to make the Lotus wealthy.",七年来，我们拼命劳作、接连死去，只为让莲花族富有。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91270,"The Lotus slavemaster, Mistress Yvaine, rules our Clan through fear.",奴隶主 Yvaine 女主人靠恐惧统治我们一族。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91280,She believes we have lost the ability to dream of freedom.,她以为我们连向往自由的念头都失去了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91290,She is wrong.,她错了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91300,"I am Grayback, last heir to the Wolf Clan's throne.",我是灰背，恶狼族王位最后的继承人。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91310,"For seven years, I've trained my fellow miners in the arts of war.",七年来，我一直训练矿工同伴，教他们战斗。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91320,"Hammers, picks and stones are our weapons…those, and our unending anger.",锤子、镐头和石块就是我们的武器……还有永不止息的怒火。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91330,A third disaster is coming -- a disaster for the murderers who dared to cross us.,第三场灾难即将来临，这一次，灾难要落在胆敢迫害我们的凶手头上。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,91340,"Soon, the Wolf Clan will rise again.",恶狼族很快就会再度崛起。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92020,It is the Skull of the White Wolf -- a relic of our clan's guardian spirit.,那是白狼之颅，是我们一族守护神灵的遗物。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92030,"Until our war against the Lotus, it was our greatest treasure.",在与莲花族开战之前，它一直是我们最珍贵的宝物。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92040,Only Gaihla and her Druidess Order knew how to harness its powers.,只有 Gaihla 和她的德鲁伊女祭司团懂得驾驭它的力量。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92045,"If they were alive, maybe they could tell us how to stop the Totem.",如果她们还活着，或许能告诉我们如何阻止图腾。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92050,But they died in the final battle.,可她们死在最后一战了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92060,How can that be?,怎么会这样？,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92070,Then we must find her.,那我们必须找到她。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92080,Gather the troops -- we're leaving at once.,召集部队，立刻出发。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92090,Another brave man has fallen.,又一位勇士倒下了。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92095,I hope he finds freedom.,愿他获得自由。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,92100,You're right…we'd better keep moving.,你说得对……最好继续赶路。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93000,Any enemy of the Lotus is welcome in my camp.,任何莲花族的敌人都可以来我的营地。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93010,The Shale Lord fights with us.,页岩领主与我们并肩作战。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93020,Then I'll take the Skull of the White Wolf from her.,那我就从她手里夺回白狼之颅。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93030,Yvaine will expect me…I won't ask any of you to follow me into her traps.,Yvaine 会料到我来……我不会要求你们跟我走进她的陷阱。,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93040,You don't have to call me that…,你不必这么称呼我……,draft; v47 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93050,"Thank you, my friends.",谢谢你们，朋友们。,draft; v47 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2000,Can anyone hear me? Help!,有人听得见吗？救命！,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2010,Yvaine's had me locked in this stinking cell for days.,Yvaine 把我关在这间臭牢房里好几天了。,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2020,A few more seconds and I would've been torn to shreds!,再晚几秒，我就要被撕成碎片了！,draft; v45 WOTW Wolf; not game-tested
