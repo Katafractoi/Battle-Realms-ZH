@@ -1,0 +1,82 @@
+﻿source_file,string_id,english,chinese,status
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,210,Where is that cursed Vetkin?,那个该死的 Vetkin 在哪里？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,220,For six months he's kept me chained in my own cellar - but no longer!,他把我锁在自家地窖里整整六个月，但现在不会了！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,230,Lord Dragon?,神龙大人？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,240,Of course!,当然！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,250,I'll be right with you as soon as I rid my town of these interlopers!,等我把这些闯进镇子的外人赶走，就来找你！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,260,What's this?,这是什么？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,270,"Vetkin, you worm!",Vetkin，你这虫子！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry65,280,Turn on me after all I've done for you!,我为你做了那么多，你却反过来对付我！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2510,"While active, the Dragon Warrior outwardly focuses his life force to protect himself.",气盾生效时，神龙武士把生命力量向外凝聚，保护自己。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2520,"The concentration needed to maintain the Chi Shield renders him immobile, but he is completely impervious to damage.",维持气盾需要全神贯注，他无法移动，但任何攻击都伤不到他。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2530,"As a diversionary measure, the Chi Shield is unparalleled.",用气盾吸引敌人注意，效果无人能及。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2540,Notice that his stamina is steadily depleting.,看，他的体力正在慢慢减少。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2550,"The Chi Shield can be turned off whenever you wish, but will automatically dissipate when the Dragon Warrior's stamina is depleted.",您随时可以关闭气盾；体力耗尽时，它也会自动消失。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2555,Not all BattleGear use stamina.,并非所有战技都消耗体力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2556,"Some have unlimited use, some have strict limitations and some even consume the user's health.",有些能无限使用，有些限制严格，还有些会消耗使用者的生命。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2557,"For more information a BattleGear's function, place your cursor over the button and check the tooltip on the left side of the screen.",想了解战技的效果，把光标放在按钮上，看屏幕左侧的提示。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2560,"Each warrior type gets different abilities from the BattleGear buildings, so experiment and try training a variety of units.",不同战士在战技建筑里会得到不同能力，多试试各种兵种。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2570,On to the final improvement type.,接下来是最后一种强化方式。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2580,"During the previous battles, you were blessed with some points of Yang.",之前的战斗让您得到了一些阳之力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2590,These tokens of spiritual power are earned through battle.,这种灵力会在战斗中获得。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2595,The better our forces fight the faster we'll earn them.,我军打得越好，得到得就越快。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2600,"As a noble and enlightened clan, we received points of Yang.",我们是崇高明理的一族，因此获得的是阳之力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2605,These are denoted by the white tokens to the left of the interface's central Yin Yang icon.,界面中央阴阳图标左侧的白色点数就是阳之力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2610,"Darker clans, like our Serpent attackers, accrue black tokens of Yin.",像来犯的灵蛇族这样较黑暗的族群，积累的是黑色的阴之力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2620,"Once acquired, we can focus Yang to improve our forces' battle prowess.",有了阳之力，就能集中它来提高我军战力。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2630,Select the Dojo by Left-clicking it.,左键点击道场，选中它。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2635,"My lord, this is the Target Range.",大人，这是靶场。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2636,The Dojo is the building on the left.,道场是左边那座建筑。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2637,Please select the Dojo so you can continue to learn about techniques.,请选中道场，继续学习技法。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2640,You'll notice on the right side of the interface two icons.,看界面右侧，有两个图标。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2650,"Each of these is a 'Technique,' an enhancement purchased with Yin or Yang.",每个图标代表一种技法，可以用阴或阳之力购买。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2660,"Unlike BattleGear, which only improves an individual, Techniques upgrade entire ranks of soldiers!",战技只强化个别士兵，技法却能强化整类士兵！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2670,By moving your mouse over these icons you can read the effects of the technique in the tooltip on the left side of the screen.,把鼠标移到图标上，屏幕左侧提示会说明技法效果。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2680,Begin learning one of these techniques by Left-clicking its icon.,左键点击一个技法图标，开始学习。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2681,"I suppose there's no harm in learning one of the Target Range's techniques, my lord.",大人，先学靶场的一项技法也无妨。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2690,Good.,很好。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2700,"While a training building's masters meditate on the chosen technique they will be unable to admit new trainees, so plan ahead.",训练建筑的师傅冥想技法期间，无法接收新学员，得事先安排好。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2710,Excellent!,太好了！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2720,"All existing Spearmen have become stronger and all future Spearmen will benefit, as well.",现有长矛兵都变强了，以后训练的长矛兵也会受益。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2730,Effective use of Techniques can give you the edge over your opponent.,善用技法，就能在战斗中占上风。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2735,Use them wisely to complement your existing strategy.,要让技法配合既定战术，谨慎使用。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2740,"With upgrades out of the way, we've completed your training.",强化也讲完了，您的训练到此结束。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2750,Reflect on what you've learned today.,回想一下今天学到的东西。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2760,"If you forget something and would like to go through these lessons again, I'd be honored to review them with you.",如果忘了什么，想重新上一遍课，我很乐意再陪您回顾。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2770,My lord?,大人？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2780,Is everything all right?,一切都好吗？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2790,"Let's continue with your training, my lord.",大人，我们继续训练吧。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2800,"I'll repeat what I said, in case you forgot.",怕您忘了，我再说一次。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2810,"My lord, we should act quickly.",大人，我们得快些行动。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2820,"My lord, the unit is needed over here.",大人，这里需要那名单位。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,200,Your dragon is...cryptic.,你的神龙说话真难懂……,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,210,What's that?,那是什么？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,220,Otomo!  Who did this?,Otomo！谁干的？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,240,How did they get past Serpentholm?,他们怎么穿过 Serpentholm 的？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,250,"If we circle around, we can avoid them.",绕过去就能避开他们。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,260,I was hoping you'd say that.,我就盼着你这么说。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,280,But...the Serpent's ancestral seat...,可那是灵蛇族祖先的王城……,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,290,They're finished.  The Lotus has beaten them.,他们完了。莲花族打败了他们。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,300,Can we trust them?,能信任他们吗？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,310,There's still the Lotus to fight.  Look here.,还得对付莲花族。看这里。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,320,The Lotus crushed the last Wolf resistance in the mountains.,莲花族击溃了山里最后的恶狼族抵抗力量。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,330,They now control all the high ground and the richest mining regions.,他们现在控制了所有高地和最富饶的矿区。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,340,They haven't moved on these provinces yet.,他们还没向这些地方进军。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,350,The Lotus clan's victory over the Wolf has made them bold.,战胜恶狼族，让莲花族更加大胆。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,360,It's only a matter of time before they attack the monasteries.,他们攻打修道院只是迟早的事。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,370,The holy brothers would be valuable allies.,那些圣兄弟会是可靠的盟友。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,380,Hmph!  I've never trusted those assassins.,哼！我从来不信任那些刺客。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,390,They'd betray us as soon as the gold ran out.,金子一用完，他们就会背叛我们。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,400,Then how shall we proceed?,那接下来怎么办？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,410,We'll have to take the bridges if we want to cross the river.,要过河，就必须拿下那些桥。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,420,The river's low.  We can get the men across.,河水不深，可以带人过去。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,430,What's that?,那是什么？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,440,But you said the Orb doesn't matter.,但你说过宝珠不重要。,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,450,All hail the Dragon!,神龙万岁！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,460,<Groan>  Huh...?,<Groan> 呃……？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,470,What's going on here?,这里发生了什么？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,480,Get away from her!,离她远点！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,530,Did your dragon do all this?,这一切都是你的神龙做的？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,Soul Flame？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,毁掉另一座桥，把他们困在 High Plateau！,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",要不是我们毁了那些桥，莲花族早就夺下修道院了。,draft; Dragon continuation v33; font candidate pending; not game-tested
