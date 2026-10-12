@@ -416,10 +416,10 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,Soul Flame？,draft; 
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,毁掉另一座桥，把他们困在 High Plateau！,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",要不是我们毁了那些桥，莲花族早就夺下修道院了。,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的健治。我的祖先曾令世界分崩离析。,已确认专名离线修订，待实机验证
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",魔军所到之处尽成荒地，他便率领族人南逃，尽力保住仅存的一切。,draft; Horde term localized after live subtitle review; rebuilt offline
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",魔潮所到之处尽成荒地，他便率领族人南逃，尽力保住仅存的一切。,draft; Horde term user-confirmed as 魔潮; awaiting live subtitle check
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",可当他们抵达高原时，前方已无路可逃。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来究竟意味着什么。,draft; embedded-font revision; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道魔军只是灵蛇族日后众多灾祸中的第一个。,draft; Horde term localized after live subtitle review; rebuilt offline
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道魔潮只是灵蛇族日后众多灾祸中的第一个。,draft; Horde term user-confirmed as 魔潮; awaiting live subtitle check
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",他更不可能知道，失去宝珠的指引，后代会变得软弱而邪恶。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,他真的有过选择吗？,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",好久不见，大友。,已确认专名离线修订，待实机验证
