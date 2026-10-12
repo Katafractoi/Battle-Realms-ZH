@@ -1,0 +1,66 @@
+﻿layer,source_file,string_id,issues,english,chinese,review_status
+interface-next-review.csv,Text\ENG\Console_Tooltips.lte,181,space_by_cjk_punctuation,Enfeebles all adjacent enemies for a short time at the cost of stamina. ,消耗体力，使周围所有敌人暂时虚弱。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Console_Tooltips.lte,205,space_by_cjk_punctuation,"Stops the Musketeer, adding range and damage to shots; effective against mounted units. ",火枪兵停止移动，提升射击距离和伤害；对骑乘单位有效。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Console_Tooltips.lte,714,space_by_cjk_punctuation,Hotkey: ,快捷键： ,pending field-context review
+interface-next-review.csv,Text\ENG\Goals.lte,15,space_by_cjk_punctuation,"The keys to claiming this province are the two villages. I expect some kind of encounter in the second, given the guard's warnings about the Lotus. A display of power will sway the people here, but I mustn't get careless and die if we're to reclaim the Orb from the Geisha. ",夺取这片行省的关键在于两座村庄。卫兵警告过莲花族的事，第二座村庄恐怕会有一场冲突。展现实力才能赢得这里的民心；但若想从艺妓手中夺回宝珠，我就不能大意丧命。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Goals.lte,40,space_by_cjk_punctuation,"Many battles have been fought on these grounds, but none so fierce as this. As this will be the new seat of the Dragon Clan's republic, we must leave no trace of the opposition or we compromise the Clan's security forever. ",这片土地历经无数战役，但从未有过如此惨烈的一战。这里将成为神龙族共和国的新都城；我们必须彻底清除敌军，否则阵营的安全将永远受到威胁。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Goals.lte,80,space_by_cjk_punctuation,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。大友，信蛇要为他对你做的一切付出代价！ ,pending field-context review
+interface-next-review.csv,Text\ENG\Goals.lte,1000,space_by_cjk_punctuation,"These Peasants need to learn their place and serve as an example to others that might rebel. If I kill them all and survive the encounter, the Serpent Clan will live on. ",这些农民得学会自己的本分，也该给其他可能反抗的人做个榜样。只要杀光他们，并在这场交战中活下来，灵蛇族就能延续下去。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Overmap_Tooltips.lte,50,space_by_cjk_punctuation,"Attack the Wolf Clan from the flank, taking them unprepared. The swampy terrain and dense forests can be used to our advantage. ",从侧翼突袭恶狼族，打他们一个措手不及。沼泽地形和茂密森林都可为我方所用。 ,pending field-context review
+interface-next-review.csv,Text\ENG\Overmap_Tooltips.lte,120,space_by_cjk_punctuation,Crush the Wolf Clan forces that have taken residence in this province. ,消灭盘踞在这片行省的恶狼族部队。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Console_Tooltips.lte,714,space_by_cjk_punctuation,Hotkey: ,快捷键： ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Console_Tooltips.lte,2125,space_by_cjk_punctuation,Damage class: ,伤害类型： ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Console_Tooltips.lte,2137,space_by_cjk_punctuation,", ",， ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Goals.lte,15,space_by_cjk_punctuation,"The keys to claiming this province are the two villages. I expect some kind of encounter in the second, given the guard's warnings about the Lotus. A display of power will sway the people here, but I mustn't get careless and die if we're to reclaim the Orb from the Geisha. ",要拿下本省，关键是那两座村庄。卫兵警告过莲花族，我预计第二座村庄会遭遇些什么。展示实力就能赢得当地人，但若要从艺妓手中夺回宝珠，我可不能大意送命。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Goals.lte,40,space_by_cjk_punctuation,"Many battles have been fought on these grounds, but none so fierce as this. As this will be the new seat of the Dragon Clan's republic, we must leave no trace of the opposition or we compromise the Clan's security forever. ",这片土地经历过无数战役，却没有哪一场如此激烈。这里将成为神龙族共和国的新都，必须扫除所有敌对势力，否则氏族的安全将永远受到威胁。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Goals.lte,80,space_by_cjk_punctuation,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。大友，信蛇要为他对你做的一切付出代价！ ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Goals.lte,1000,space_by_cjk_punctuation,"These Peasants need to learn their place and serve as an example to others that might rebel. If I kill them all and survive the encounter, the Serpent Clan will live on. ",这些农民得学会自己的本分，也该给其他可能反抗的人做个榜样。只要杀光他们，并在这场交战中活下来，灵蛇族就能延续下去。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Goals.lte,2020,space_by_cjk_punctuation,"I had hoped to plan out our liberation more than this, but my hand has been forced; the time is now. We'll start our rebellion by freeing all of the slaves in this part of the mines. ",我原想更周密地筹划解放行动，可形势逼得我不得不动手——就是现在。先救出矿井这一带的所有奴隶，揭开反抗的序幕。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Overmap_Tooltips.lte,50,space_by_cjk_punctuation,"Attack the Wolf Clan from the flank, taking them unprepared. The swampy terrain and dense forests can be used to our advantage. ",从侧翼突袭恶狼族，打他们一个措手不及。沼泽地势与茂密森林可以为我们所用。 ,pending field-context review
+interface-next-review.csv,Text\ENG\WOTW_Overmap_Tooltips.lte,120,space_by_cjk_punctuation,Crush the Wolf Clan forces that have taken residence in this province. ,消灭盘踞在这片行省的恶狼族部队。 ,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,181,space_by_cjk_punctuation,,消耗体力，使周围所有敌人\n暂时虚弱。 ,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,205,space_by_cjk_punctuation,,火枪兵停止移动，\n提升射击距离和伤害；\n对骑乘单位有效。 ,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,502,space_at_line_break,,靶场 + 炼金屋 + 道场 + \n城镇广场,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,622,space_at_line_break,,将农民训练为神秘的 \nChanneler。,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,688,space_at_line_break,,莲花族之主 Zymeth \n为田地唤来雨水，\n为敌人招来闪电。,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,698,space_at_line_break,,身手敏捷的 Longtooth \n挥舞利刃回旋镖，\n扫荡远近敌人。,pending field-context review
+candidate_archive,Text\ENG\Console_Tooltips.lte,714,space_by_cjk_punctuation,,快捷键： ,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,15,space_by_cjk_punctuation,,夺取这片行省的关键在于两座村庄。\n卫兵警告过莲花族的事，\n第二座村庄恐怕会有一场冲突。\n展现实力才能赢得这里的民心；\n但若想从艺妓手中夺回宝珠，\n我就不能大意丧命。 ,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,16,space_at_line_break,,看来这一切的幕后主使就是 Vetkin……希望 \nGarrin 大人平安无事。我不明白高尚\n的恶狼族为何会与 Vetkin 为伍，\n但我们必须击退他们，继续前往 Swan's \nPool。艺妓信任我，所以我绝不能死\n在这一战。,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,35,space_at_line_break,,我离开后，恶狼族变了许多，\n实力也比从前更强。虽然令人痛心，\n我们仍必须击败他们，赶往 \nSerpentholm——宝珠正面临落入不轨之徒\n手中的危险。,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,40,space_by_cjk_punctuation,,这片土地历经无数战役，\n但从未有过如此惨烈的一战。\n这里将成为神龙族共和国的新都城；\n我们必须彻底清除敌军，\n否则阵营的安全将永远受到威胁。 ,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,80,space_by_cjk_punctuation,,必须打败叛徒信蛇！他重建了旧\n灵蛇卫队，修起一座像样的要塞，\n还与莲花族结盟——这些都必须摧毁。\n大友，信蛇要为他对你做的一切\n付出代价！ ,pending field-context review
+candidate_archive,Text\ENG\Goals.lte,1000,space_by_cjk_punctuation,,这些农民得学会自己的本分，\n也该给其他可能反抗的人做个榜样。\n只要杀光他们，并在这场交战中活下来，\n灵蛇族就能延续下去。 ,pending field-context review
+candidate_archive,Text\ENG\Overmap_Tooltips.lte,50,space_by_cjk_punctuation,,从侧翼突袭恶狼族，打他们一个措手不及。沼泽地形和茂密森林都可为我方所用。 ,pending field-context review
+candidate_archive,Text\ENG\Overmap_Tooltips.lte,120,space_by_cjk_punctuation,,消灭盘踞在这片行省的恶狼族部队。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,133,space_at_line_break,,缩短 Channeler \n的训练时间。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,502,space_at_line_break,,靶场 + 炼金屋 + 道场 + \n城镇广场,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,515,space_at_line_break,,将此单位转化为强大的 \nWarlock；转化后的 \nWarlock 起初只有一半\n生命值。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,536,space_at_line_break,,消耗 Warlock \n一半的体力，为任意一名\n莲花族友军补充相当于其\n体力一半的体力。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,622,space_at_line_break,,将农民训练为神秘的 \nChanneler。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,628,space_at_line_break,,两名 Warlock \n在其中决斗，可造就一名 \nMaster Warlock。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,688,space_at_line_break,,莲花族之主 Zymeth \n为田地唤来雨水，\n为敌人招来闪电。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,714,space_by_cjk_punctuation,,快捷键： ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2071,space_at_line_break,,带爆药的棍棒使 \nGuardian 和附近敌方单位\n眩晕并受伤。限用一次。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2072,space_at_line_break,,Battle Maiden \n消耗体力，分裂出两个力量\n减半的幻影。这是有效的脱\n身手段。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2074,space_at_line_break,,消耗体力，利用附近尸体\n制造一只丑陋的 \nShambler，为 Reaper \n效力。每名 Reaper \n限有一只。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2078,space_at_line_break,,这双战术靴永久提高 \nEnforcer 的移动速度，\n也使其能躲避远程攻击。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2079,space_at_line_break,,将 Witch 变成可怕的 \nDemoness。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2099,space_at_line_break,,训练遵循古老 Oja \n荣誉与勇气传统的单位。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2114,space_at_line_break,,来自遥远的 Malcolmson \n地区的发明家，\n精通科学与魔法；\n他的攻击对建筑尤其有效。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2118,space_at_line_break,,Zymeth 的得力助手 \nYvaine 镇守页岩矿坑，\n是一名擅长冰魔法的强大而\n狡黠的女巫。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2120,space_at_line_break,,狡黠的驯狼师团创始人 \nWildeye 用先祖之鼓\n召唤灵狼来到身边。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Console_Tooltips.lte,2125,space_by_cjk_punctuation,,伤害类型： ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,15,space_by_cjk_punctuation,,要拿下本省，关键是那两座村庄。\n卫兵警告过莲花族，我预计第二座村庄会遭遇\n些什么。展示实力就能赢得当地人，\n但若要从艺妓手中夺回宝珠，\n我可不能大意送命。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,16,space_at_line_break,,这么看来，幕后主使是 Vetkin……希望 \nGarrin 大人平安无事。我不明白高贵\n的恶狼族为何会站到 Vetkin 一边，\n但我们必须击退他们，继续前往天鹅池。\n艺妓信任我，因此这一仗我务必活下来。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,17,space_at_line_break,,莲花族……我从来不信任他们，\n如今看来我的怀疑没有错。\n若要解放本省，就必须击败控制当地人的 \nMaster Warlock。艺妓信任我；\n若要夺回宝珠，我得时时警惕……,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,40,space_by_cjk_punctuation,,这片土地经历过无数战役，\n却没有哪一场如此激烈。\n这里将成为神龙族共和国的新都，\n必须扫除所有敌对势力，\n否则氏族的安全将永远受到威胁。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,80,space_by_cjk_punctuation,,必须打败叛徒信蛇！他重建了旧\n灵蛇卫队，修起一座像样的要塞，\n还与莲花族结盟——这些都必须摧毁。\n大友，信蛇要为他对你做的一切\n付出代价！ ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,1000,space_by_cjk_punctuation,,这些农民得学会自己的本分，\n也该给其他可能反抗的人做个榜样。\n只要杀光他们，并在这场交战中活下来，\n灵蛇族就能延续下去。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,2020,space_by_cjk_punctuation,,我原想更周密地筹划解放行动，\n可形势逼得我不得不动手——就是现在。\n先救出矿井这一带的所有奴隶，\n揭开反抗的序幕。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,2060,space_at_line_break,,大雪仍下个不停。以温泉闻名的 Gaihla \n圣地也已冰封。Utara 和她的女巫正在攻击 \nGaihla 的女祭师与 Dryad。\n我们必须保护 Gaihla 的人，击败 Utara，\n否则就全完了——西面的台地可以建造城镇。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,2080,space_at_line_break,,经历 Soban 实验室的折磨，\n又在暴风雪中长途跋涉，\nGaihla 的状况很差。西边有座废弃寺院，\n她可以在那里安全休息。\n我们会留在寺院，等她恢复后再向 Yvaine \n的据点进发。要小心……Wildeye \n怀疑这是个陷阱。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,2081,space_at_line_break,,我们在寺院遇到一个半僧侣、半忍者的人，\n名叫 Tao。他说话古怪，不过要我说，\n他未必比 Wildeye 更疯——这话分量也有\n限！Tao 声称，只要击败巫师 Issyl 和 \nKoril，我们就能直接穿过 Yvaine \n的魔法屏障。不妨信他一次。\n毕竟，我们还有别的选择吗？,pending field-context review
+candidate_archive,Text\ENG\WOTW_Goals.lte,2100,space_at_line_break,,这场斗争快到尽头了。Yvaine \n的要塞就在山顶，周围还有那些可恨\n的魔法屏障保护。只要摧毁要塞周围的城镇，\n屏障应该就会消失。接下来，\n我们要拆掉要塞本身……并与 Yvaine \n彻底了结恩怨。,pending field-context review
+candidate_archive,Text\ENG\WOTW_Overmap_Tooltips.lte,50,space_by_cjk_punctuation,,从侧翼突袭恶狼族，打他们一个措手不及。沼泽地势与茂密森林可以为我们所用。 ,pending field-context review
+candidate_archive,Text\ENG\WOTW_Overmap_Tooltips.lte,120,space_by_cjk_punctuation,,消灭盘踞在这片行省的恶狼族部队。 ,pending field-context review

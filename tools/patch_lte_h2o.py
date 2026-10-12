@@ -95,7 +95,7 @@ def main():
     mapping=json.loads(args.entry_map.read_text(encoding='utf-8'))
     if any('#entry' in key for key in mapping):
         mapping={key:value for key,value in mapping.items()
-                 if args.archive.name+'#entry' in key}
+                 if key.rsplit('\\', 1)[-1].startswith(args.archive.name+'#entry')}
     if len(set(mapping.values()))!=len(mapping):p.error('duplicate archive entry mapping')
     edits={}
     for row in csv.DictReader(args.translations.open(encoding='utf-8-sig',newline='')):

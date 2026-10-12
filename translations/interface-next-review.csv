@@ -325,7 +325,7 @@ Text\ENG\Console_Tooltips.lte,322,Golem,魔像,兵种名初译待游戏验证,�
 Text\ENG\Console_Tooltips.lte,323,Wolf,狼,兵种名初译待游戏验证,按实际单位名称资源键；待游戏内字体与界面核验
 Text\ENG\Console_Tooltips.lte,324,Horse,马,兵种名初译待游戏验证,按实际单位名称资源键；待游戏内字体与界面核验
 Text\ENG\Console_Tooltips.lte,325,Kenji,健治,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval. | 2026-10-11 确认健治/信蛇
-Text\ENG\Console_Tooltips.lte,326,Otomo,Otomo,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
+Text\ENG\Console_Tooltips.lte,326,Otomo,大友,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval. | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Console_Tooltips.lte,327,Shinja,信蛇,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval. | 2026-10-11 确认健治/信蛇
 Text\ENG\Console_Tooltips.lte,328,Arah,Arah,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
 Text\ENG\Console_Tooltips.lte,329,Kazan,Kazan,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
@@ -339,7 +339,7 @@ Text\ENG\Console_Tooltips.lte,336,Vetkin,Vetkin,保留英文（专名或标记�
 Text\ENG\Console_Tooltips.lte,337,Zymeth,Zymeth,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
 Text\ENG\Console_Tooltips.lte,338,Koril,Koril,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
 Text\ENG\Console_Tooltips.lte,339,Issyl,Issyl,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
-Text\ENG\Console_Tooltips.lte,340,Grayback,Grayback,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
+Text\ENG\Console_Tooltips.lte,340,Grayback,灰背,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval. | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Console_Tooltips.lte,341,The Shale Lord,页岩领主,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,342,Longtooth,Longtooth,保留英文（专名或标记）,Draft translated from current Zen Edition source. Manually reviewed in source-file context. English retained: proper name or project-specific name pending approval.
 Text\ENG\Console_Tooltips.lte,343,Extra,,保留原文（无需翻译）,Repeated generic slot label; retain source until in-game UI confirms whether it is visible and what it labels.
@@ -394,12 +394,12 @@ Text\ENG\Console_Tooltips.lte,391,Stamina,体力,初译待审,Original Zen Editi
 Text\ENG\Console_Tooltips.lte,392,Training,训练,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,393,Enter Watchtower,进入哨塔,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,394,Exit Watchtower,离开哨塔,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
-Text\ENG\Console_Tooltips.lte,395,Toggle Peasant Creation,切换农民生产,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
+Text\ENG\Console_Tooltips.lte,395,Toggle Peasant Creation,开启／停止农民生产,用户实测机制复核，待游戏内排版验证,Original Zen Edition tooltip; terminology follows current clan names. | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\Console_Tooltips.lte,396,Repair,修复,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,397,Water Rice,灌溉稻田,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\Console_Tooltips.lte,398,Next Portrait,下一张肖像,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,399,Previous Portrait,上一张肖像,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
-Text\ENG\Console_Tooltips.lte,400,Only Peasant Hut Creating Peasants,只有农舍正在生产农民,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context. Literal UI wording; in-game context review needed.
+Text\ENG\Console_Tooltips.lte,400,Only Peasant Hut Creating Peasants,这是唯一仍在生产农民的农舍，无法停止生产。,用户实测机制复核，待游戏内排版验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. Literal UI wording; in-game context review needed. | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\Console_Tooltips.lte,401,Monk Progress,僧侣进度,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,402,Ninja Progress,忍者进度,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
 Text\ENG\Console_Tooltips.lte,403,Monks At Full Capacity,僧侣人数已达上限,初译待审,Original Zen Edition tooltip; terminology follows current clan names.
@@ -430,7 +430,8 @@ Text\ENG\Console_Tooltips.lte,427,Stand Guard,驻守,初译待审,Zen Edition so
 Text\ENG\Console_Tooltips.lte,428,Destroy Building,拆除建筑,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,429,Confirm Destroy,确认拆除,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,430,Cancel Destroy,取消拆除,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,431,Use 3 Yang to summon the Dragon's spirit,消耗 3 点阳，召唤神龙之魂,初译待审,Zen Edition source; candidate follows current clan naming.
+Text\ENG\Console_Tooltips.lte,431,Use 3 Yang to summon the Dragon's spirit,"消耗3点阳
+召唤神龙之魂",用户实测换行修订，待游戏内验证,Zen Edition source; candidate follows current clan naming. | 2026-10-12 用户要求数字单位同排，神龙之魂不拆词；两行语义断点。
 Text\ENG\Console_Tooltips.lte,432,Peasant Progress,农民进度,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\Console_Tooltips.lte,433,Click To Go To Peasant Hut,点击前往农舍,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,434,Dragon Unit Alchemy,神龙族兵种训练,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
@@ -440,8 +441,8 @@ Text\ENG\Console_Tooltips.lte,437,Wolf Unit Alchemy,恶狼族兵种训练,显示
 Text\ENG\Console_Tooltips.lte,438,Back,返回,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,439,Druidess blesses Berserker,女祭师祝福狂暴战士,初译待审,Zen Edition source; candidate follows current clan naming.
 Text\ENG\Console_Tooltips.lte,440,Berserker uses Lycanthropy,狂暴战士施展狼人变身,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,441,4x Ronin,4 名浪人,初译待审,Zen Edition source; candidate follows current clan naming.
-Text\ENG\Console_Tooltips.lte,442,2x Warlock,2 名魔法师,初译待审,Zen Edition source; candidate follows current clan naming.
+Text\ENG\Console_Tooltips.lte,441,4x Ronin,4名浪人,局部排版审校，待游戏内验证,Zen Edition source; candidate follows current clan naming. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Console_Tooltips.lte,442,2x Warlock,2名魔法师,局部排版审校，待游戏内验证,Zen Edition source; candidate follows current clan naming. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,443,Dragon Battle Gear,神龙族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\Console_Tooltips.lte,444,Lotus Battle Gear,莲花族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\Console_Tooltips.lte,445,Serpent Battle Gear,灵蛇族技能,显示反馈离线修订，待实机验证,Zen Edition source; candidate follows current clan naming. | 2026-10-11 显示反馈；按源字段修订
@@ -505,10 +506,10 @@ Text\ENG\Console_Tooltips.lte,506,Keep + Crypt,要塞 + 地穴,初译待游戏�
 Text\ENG\Console_Tooltips.lte,507,Tavern + Stables,酒馆 + 马厩,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,508,Thieves' Guild + Town Square,盗贼行会 + 城镇广场,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,509,Sharpshooter's Guild + Alchemist Hut,射击行会 + 炼金屋,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\Console_Tooltips.lte,510,Dragon Tech Tree,神龙族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\Console_Tooltips.lte,511,Lotus Tech Tree,莲花族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\Console_Tooltips.lte,512,Serpent Tech Tree,灵蛇族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\Console_Tooltips.lte,513,Wolf Tech Tree,恶狼族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订
+Text\ENG\Console_Tooltips.lte,510,Dragon Tech Tree,神龙族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Console_Tooltips.lte,511,Lotus Tech Tree,莲花族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Console_Tooltips.lte,512,Serpent Tech Tree,灵蛇族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Console_Tooltips.lte,513,Wolf Tech Tree,恶狼族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,514,Rite of Ascension,升华仪式,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,515,Transforms this unit into a powerful Warlock; Warlock has half health.,将这个单位变为强大的魔法师；变身后的魔法师只有一半生命值。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,516,Call Horse,呼唤马匹,初译待审,Zen Edition source; current user clan names applied.
@@ -555,8 +556,8 @@ Text\ENG\Console_Tooltips.lte,556,or,或,初译待审,Zen Edition source; curren
 Text\ENG\Console_Tooltips.lte,557,More Towers Require:,更多哨塔需要：,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,558,Stables are required to train horses,需要马厩才能训练马匹,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,559,A Wolves' Den is required for capturing horses,需要狼穴才能捕捉马匹,初译待审,Zen Edition source; current user clan names applied.
-Text\ENG\Console_Tooltips.lte,560,+1 Watchtower,+1 座哨塔,初译待审,Zen Edition source; current user clan names applied.
-Text\ENG\Console_Tooltips.lte,561,+2 Watchtowers,+2 座哨塔,初译待审,Zen Edition source; current user clan names applied.
+Text\ENG\Console_Tooltips.lte,560,+1 Watchtower,+1座哨塔,局部排版审校，待游戏内验证,Zen Edition source; current user clan names applied. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Console_Tooltips.lte,561,+2 Watchtowers,+2座哨塔,局部排版审校，待游戏内验证,Zen Edition source; current user clan names applied. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,562,Yin,阴,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,563,Yang,阳,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,564,Brother Is Already In Use,兄弟已在使用中,初译待审,Zen Edition source; current user clan names applied.
@@ -566,7 +567,7 @@ Text\ENG\Console_Tooltips.lte,570,Trains units skilled in projectile combat.,训
 Text\ENG\Console_Tooltips.lte,574,Trains units skilled with fire and gunpowder.,训练擅长火焰和火药的单位。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,578,Trades Peasants for artful Geisha.,将农民训练为技艺精湛的艺妓。,初译待审,Zen Edition source; current user clan names applied. Proper name or terminology should receive contextual review.
 Text\ENG\Console_Tooltips.lte,579,Allows units to guard an area; best suited for missile units.,供单位驻守一片区域；最适合远程单位。,初译待审,Zen Edition source; current user clan names applied.
-Text\ENG\Console_Tooltips.lte,580,Symbol of a town's development; increases Yang growth by 50% and stores rice.,城镇发展的象征；使阳的增长速度提高 50%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\Console_Tooltips.lte,580,Symbol of a town's development; increases Yang growth by 50% and stores rice.,城镇发展的象征；使阳的增长速度提高50%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,581,Symbol of a town's enlightenment; summons the clan's allies into battle at a cost.,城镇启迪的象征；消耗资源，召唤本族盟友参战。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,582,Allows units to mount horses collected by Peasants.,让单位骑乘农民收集的马匹。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,583,Unlocks a unit's hidden powers through meditation.,通过冥想发掘单位隐藏的力量。,初译待审,Zen Edition source; current user clan names applied.
@@ -579,7 +580,7 @@ Text\ENG\Console_Tooltips.lte,592,Trains units skilled in ranged warfare.,训练
 Text\ENG\Console_Tooltips.lte,596,Trains units skilled with fire and gunpowder.,训练擅长火焰和火药的单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\Console_Tooltips.lte,600,Trades Peasants for sultry Fan Geisha.,将农民训练为妖娆的扇舞艺妓。,初译待审,Zen Edition source; current user clan names applied. Proper name or terminology should receive contextual review.
 Text\ENG\Console_Tooltips.lte,601,Allows units to guard an area; best suited for missile units.,供单位驻守一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\Console_Tooltips.lte,602,Symbol of a town's development; increases Yin growth by 50% and stores rice.,城镇发展的象征；使阴的增长速度提高 50%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\Console_Tooltips.lte,602,Symbol of a town's development; increases Yin growth by 50% and stores rice.,城镇发展的象征；使阴的增长速度提高50%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,603,Symbol of a town's domination; summons the clan's allies into battle at a cost.,城镇统治的象征；消耗资源，召唤本族盟友参战。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,604,Allows units to mount horses collected by Peasants.,让单位骑乘农民收集的马匹。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\Console_Tooltips.lte,605,Trains units in surreptitious and sneaky techniques.,训练单位掌握秘密潜行技艺。,初译待审,Zen Edition source; current user clan names applied.
@@ -592,7 +593,7 @@ Text\ENG\Console_Tooltips.lte,614,Blesses units with the knowledge of the leaf.,
 Text\ENG\Console_Tooltips.lte,618,Endows units with the wisdom of the trunk.,赋予单位树干的智慧。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,622,Trades Peasants for mystical Channelers.,将农民训练为神秘的 Channeler。,初译待审,Zen Edition source; current user clan names applied. Proper name or terminology should receive contextual review.
 Text\ENG\Console_Tooltips.lte,623,Allows units to guard an area; best suited for missile units.,供单位驻守一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\Console_Tooltips.lte,624,Symbol of a town's knowledge; increases Yin growth by 50% and stores rice.,城镇知识的象征；使阴的增长速度提高 50%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\Console_Tooltips.lte,624,Symbol of a town's knowledge; increases Yin growth by 50% and stores rice.,城镇知识的象征；使阴的增长速度提高50%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,625,Symbol of a town's corruption; summons the clan's allies into battle at a cost.,城镇腐化的象征；消耗资源，召唤本族盟友参战。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,626,Allows units to mount horses collected by Peasants.,让单位骑乘农民收集的马匹。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\Console_Tooltips.lte,627,Yin offering summons the three Brothers to bestow new powers upon the clan.,献上阴，召唤三兄弟为莲花族赐予新力量。,初译待审,Zen Edition source; current user clan names applied.
@@ -604,7 +605,7 @@ Text\ENG\Console_Tooltips.lte,635,Units practice throwing here.,单位在此练�
 Text\ENG\Console_Tooltips.lte,639,Units dig and mine to build strength.,单位在此挖掘采矿，锻炼力量。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,643,Trades Peasants for matriarchal Druidesses.,将农民训练为女祭师。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,644,Allows units to guard an area; best suited for missile units.,供单位驻守一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\Console_Tooltips.lte,645,Symbol of a town's vigor; increases Yang growth by 50% and stores rice.,城镇活力的象征；使阳的增长速度提高 50%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\Console_Tooltips.lte,645,Symbol of a town's vigor; increases Yang growth by 50% and stores rice.,城镇活力的象征；使阳的增长速度提高50%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,646,Symbol of a town's freedom; summons the clan's allies into battle at a cost.,城镇自由的象征；消耗资源，召唤本族盟友参战。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,647,Allows units to befriend wolves; horses collected by Peasants feed wolf pups.,让单位与狼结为伙伴；农民收集的马匹可用于喂养幼狼。,初译待审,Zen Edition source; current user clan names applied.
 Text\ENG\Console_Tooltips.lte,648,Fits military units with sturdy shale armor.,为军事单位配备坚固的页岩护甲。,初译待审,Zen Edition source; current user clan names applied.
@@ -625,11 +626,12 @@ Text\ENG\Console_Tooltips.lte,662,Dismount,下马,初译待游戏内校验,Draft
 Text\ENG\Console_Tooltips.lte,663,"Stand Ground - Unit will hold location, attacking targets in missile range.",坚守阵地：单位守住当前位置，攻击射程内的目标。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,664,"Guard - Unit will guard an area, unit or building.",守卫：单位守护一片区域、一名单位或一座建筑。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\Console_Tooltips.lte,665,"Passive Mode - Unit will not actively seek targets, but will respond to attacks.",被动模式：单位不会主动寻找目标，但会反击。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
-Text\ENG\Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击：单位前往指定目标途中不会与敌方单位交战。,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订
+Text\ENG\Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,"强制攻击：前往目标途中
+不与敌方单位交战。",局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,667,Stop ,停止 ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\Console_Tooltips.lte,668,"Master of the Clan, Kenji is a fierce, inspiring warrior.",健治是本族之主，也是一位勇猛而善于鼓舞人心的战士。,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-11 确认健治/信蛇
 Text\ENG\Console_Tooltips.lte,669,Special Abilities: Critical Strike and Inspiration,特殊能力：致命一击、激励,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\Console_Tooltips.lte,670,"Kenji's loyal retainer, Otomo supports allies in battle.",健治的忠诚侍从 Otomo 在战斗中支援友军。,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-11 确认健治/信蛇
+Text\ENG\Console_Tooltips.lte,670,"Kenji's loyal retainer, Otomo supports allies in battle.",健治的忠诚侍从大友在战斗中支援友军。,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Console_Tooltips.lte,671,Special Abilities: Battle Cry and Battle Leader,特殊能力：战吼、战场领袖,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,672,"A tough Monk skilled with fire, Kazan burns buildings with ease.",Kazan 是精通火焰的强壮僧侣，能轻易焚毁建筑。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
 Text\ENG\Console_Tooltips.lte,673,Special Abilities: Flame Breath and Fire Wielder,特殊能力：火焰吐息、御火,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -641,7 +643,7 @@ Text\ENG\Console_Tooltips.lte,678,"Master of Balance, Tao is an able fighter and
 Text\ENG\Console_Tooltips.lte,679,Special Abilities: Reversal of Fortune and Monastic Influence,特殊能力：命运逆转、修行感召,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,680,"A fearsome warrior, Shinja slays enemies with twin poisoned blades.",信蛇是令人畏惧的战士，以两把淬毒刀刃斩杀敌人。,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-11 确认健治/信蛇
 Text\ENG\Console_Tooltips.lte,681,Special Abilities: Intimidation and Ye of Little Faith,特殊能力：威吓、信念薄弱者,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\Console_Tooltips.lte,682,"A lumbering slave driver, Budo ""encourages"" peasants with sharp whip and tongue.",武堂 是个身形笨重的奴隶监工，用利鞭和尖刻言辞“激励”农民。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
+Text\ENG\Console_Tooltips.lte,682,"A lumbering slave driver, Budo ""encourages"" peasants with sharp whip and tongue.",武堂是个身形笨重的奴隶监工，用利鞭和尖刻言辞“激励”农民。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Console_Tooltips.lte,683,Special Ability: Slave Driver,特殊能力：奴隶监工,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,684,"Lithe geisha of the dark, Utara's beauty and voice spell doom for her enemy.",Utara 是一名身姿轻盈的黑暗艺妓，她的美貌与歌声会为敌人招来厄运。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
 Text\ENG\Console_Tooltips.lte,685,Special Abilities: Song of Sorrow and Pleasure and Pain,特殊能力：哀伤之歌、痛并快乐,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -655,7 +657,7 @@ Text\ENG\Console_Tooltips.lte,692,"A scholar of space, Koril can teleport anywhe
 Text\ENG\Console_Tooltips.lte,693,Special Abilities: Teleport and Evasiveness,特殊能力：瞬移、闪避,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,694,"A scholar of matter, Soban can build helpful Golems from stone and mud.",Soban 研习物质之术，能用泥土和石头造出有用的魔像。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
 Text\ENG\Console_Tooltips.lte,695,Special Ability: Create Golem,特殊能力：制造魔像,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\Console_Tooltips.lte,696,"Leader of the Wolf Clan, Grayback is a noble and resilient warrior.",恶狼族领袖 Grayback 是一位高贵而坚韧的战士。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English.
+Text\ENG\Console_Tooltips.lte,696,"Leader of the Wolf Clan, Grayback is a noble and resilient warrior.",恶狼族领袖灰背是一位高贵而坚韧的战士。,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. Embedded proper name or project-specific name intentionally retained in English. | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Console_Tooltips.lte,697,Special Abilities: Wolf Howl and Alpha Male,特殊能力：狼嚎、头狼,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\Console_Tooltips.lte,698,"Armed with a bladed boomerang, nimble Longtooth ravages enemies near and far alike.",身手敏捷的 Longtooth 挥舞利刃回旋镖，扫荡远近敌人。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context. Embedded proper name or project-specific name intentionally retained in English.
 Text\ENG\Console_Tooltips.lte,699,Special Abilities: Razor-Edged Boomerang and Climbing,特殊能力：利刃回旋镖、攀爬,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -1358,7 +1360,7 @@ Text\ENG\Front_End.lte,242,Profile,档案,初译待审,UI draft; exact source ke
 Text\ENG\Front_End.lte,243,Save Password,保存密码,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,244,Login,登录,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,245,New Account,新建账号,初译待审,UI draft; exact source key
-Text\ENG\Front_End.lte,246,I certify that I am 13 years of age or older,我确认自己已年满 13 周岁,初译待审,UI/message draft; exact source key
+Text\ENG\Front_End.lte,246,I certify that I am 13 years of age or older,我确认自己已年满13周岁,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Front_End.lte,247,Quick Load,快速载入,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,248,Restart Mission,重新开始任务,初译待审,UI draft; exact source key
 Text\ENG\Front_End.lte,249,You must enter a player name.,必须输入玩家名称。,初译待审,UI draft; exact source key
@@ -1458,8 +1460,8 @@ Text\ENG\Front_End.lte,342,Purchase Battle Realms to experience the full depth o
 Text\ENG\Front_End.lte,343,"- Master all four Clans, including the honorable Wolf Clan and the corruptive Lotus Clan.",- 掌握四大阵营，包括崇尚荣誉的恶狼族和腐化堕落的莲花族。,初译待审,UI/message draft; exact source key
 Text\ENG\Front_End.lte,344,- Summon unique Zen Masters that wield fantastic powers.,- 召唤拥有非凡力量的各色禅师。,初译待审,UI/message draft; exact source key
 Text\ENG\Front_End.lte,345,- Earn Yin & Yang to acquire destructive new weapons and magic.,- 获取阴阳点数，解锁威力强大的新武器与法术。,初译待审,UI/message draft; exact source key
-Text\ENG\Front_End.lte,346,- Play in single-player through Kenji's Journey or in skirmish mode on over 35 different maps.,- 在单人模式中体验健治之旅，或在 35 张以上地图中展开遭遇战。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
-Text\ENG\Front_End.lte,347,- Stage epic battles with up to 8 players over the Internet or LAN.,- 通过互联网或局域网，与最多 8 名玩家展开史诗对决。,初译待审,UI/message draft; exact source key
+Text\ENG\Front_End.lte,346,- Play in single-player through Kenji's Journey or in skirmish mode on over 35 different maps.,- 在单人模式中体验健治之旅，或在35张以上地图中展开遭遇战。,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\Front_End.lte,347,- Stage epic battles with up to 8 players over the Internet or LAN.,- 通过互联网或局域网，与最多8名玩家展开史诗对决。,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\Front_End.lte,348,Available Now At Your Local Software Retailer,现已在当地软件零售商店发售,初译待审,UI/message draft; exact source key
 Text\ENG\Front_End.lte,349,"""It's the future of real-time strategy game design."" - Computer Gaming World",“这代表了即时战略游戏设计的未来。”——Computer Gaming World,初译待审,UI/message draft; exact source key
 Text\ENG\Front_End.lte,350,"Winner, Best PC Strategy Game - IGN.com",最佳 PC 策略游戏奖得主——IGN.com,初译待审,UI/message draft; exact source key
@@ -1640,7 +1642,7 @@ Text\ENG\Game_Keys.lte,1076,Scroll screen up,画面向上滚动,初译待审,UI 
 Text\ENG\Game_Keys.lte,1077,Scroll screen down,画面向下滚动,初译待审,UI draft; exact source key
 Text\ENG\Game_Keys.lte,1078,Toggle chat options,切换聊天选项,初译待审,UI draft; exact source key
 Text\ENG\Game_Keys.lte,1079,Lock camera on unit,将镜头锁定在单位上,初译待审,UI draft; exact source key
-Text\ENG\Game_Keys.lte,1080,Toggle peasant creation,切换农民生产,初译待审,UI draft; exact source key
+Text\ENG\Game_Keys.lte,1080,Toggle peasant creation,开启／停止农民生产,用户实测机制复核，待游戏内排版验证,UI draft; exact source key | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\Game_Keys.lte,1081,Demolish building,拆除建筑,初译待审,UI draft; exact source key
 Text\ENG\Game_Keys.lte,1082,Buy technique 1,购买技术1,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\Game_Keys.lte,1083,Buy technique 2,购买技术2,初译待审,按实际快捷键命令源键初译；待界面验证
@@ -1724,7 +1726,7 @@ Text\ENG\Game_Over.lte,1,Game Over,游戏结束,初译待审,UI draft; exact sou
 Text\ENG\Game_Over.lte,2,OK,确定,初译待游戏内校验,UI/key-label draft; exact source key
 Text\ENG\Goals.lte,0,"I hadn't yet decided what I would do once I had returned, but circumstances had conspired to force a choice upon me. Should I protect these helpless villagers by attacking the bandits or should I help the bandits keep these peasants in their place? No doubt my actions here will dictate the future of the land.",归来后该做什么，我原本还没有决定，局势却逼我作出选择：是攻击匪徒，保护这些无助的村民；还是帮助匪徒，让农民继续受他们压迫？毫无疑问，我在这里的所作所为将决定这片土地的未来。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Goals.lte,1,"This is the beginning of something new...something good. I went against my upbringing and attacked the bandits to protect the peasants. I've started something here, and I must finish the job: I must kill all attacking bandits and save the village, and not lose my life doing so.",一个新的开始……也许是好的开始。我违背了从小接受的教导，攻击匪徒，保护农民。既然已经走出这一步，我就必须把事情做完：杀死所有来犯的匪徒，拯救村庄，还得活下来。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
-Text\ENG\Goals.lte,10,"Otomo was right - Shinja intends to put up a fight. If I destroy his Keep and confront him, he should listen to reason - I am the heir to the Serpent empire, after all. My new clan lacks leadership, though, and will certainly crumble if I were to die.",Otomo 说得对——信蛇打算顽抗到底。只要摧毁他的要塞，当面与他交锋，他就该听得进道理。毕竟，我是灵蛇帝国的继承人。不过，我的新阵营缺乏领导；如果我死了，它必定分崩离析。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-11 确认健治/信蛇
+Text\ENG\Goals.lte,10,"Otomo was right - Shinja intends to put up a fight. If I destroy his Keep and confront him, he should listen to reason - I am the heir to the Serpent empire, after all. My new clan lacks leadership, though, and will certainly crumble if I were to die.",大友说得对——信蛇打算顽抗到底。只要摧毁他的要塞，当面与他交锋，他就该听得进道理。毕竟，我是灵蛇帝国的继承人。不过，我的新阵营缺乏领导；如果我死了，它必定分崩离析。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,11,"With Shinja's mercenaries out of the way, he has nowhere left to run. If we destroy his Keep to the North and defeat him, our hunt will end. He's still loyal to my family, so if I live through this battle he'll most certainly join us.",信蛇的雇佣兵已被扫清，他无处可逃。摧毁他在北方的要塞并击败他，这场追猎便会结束。他对我的家族仍有忠心；只要我活过这一战，他一定会加入我们。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-11 确认健治/信蛇
 Text\ENG\Goals.lte,12,"Shinja's mercenaries again...this rabble should fall easily. If I kill them all, this province will join my cause. If I survive, the Clan will grow.",又是信蛇的雇佣兵……这群乌合之众应该不难对付。杀光他们，这片行省就会支持我的事业。只要我活下来，阵营就能壮大。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-11 确认健治/信蛇
 Text\ENG\Goals.lte,13,"Shinja has always had a talent for escape, but we've cornered him now - that snake doesn't have anywhere else to run. If we defeat him in battle, I can surely sway him to our cause. I must survive if we're to enlist his aid.",信蛇一向善于逃脱，但这次我们把他逼到了绝境——那条蛇再也无处可逃。只要在战斗中击败他，我一定能说服他加入我们。要争取他的协助，我必须活下来。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-11 确认健治/信蛇
@@ -1742,7 +1744,7 @@ Text\ENG\Goals.lte,52,"The Lotus are shaping up to be quite the adversary. I'm s
 Text\ENG\Goals.lte,60,"I never remembered this province being so desolate. I know we're getting close, and it's not because of the smell of burning flesh. The Dragon is here, waiting for me at the spire...I just know it. I must meet with him - perhaps his power is the key to ending this war.",我不记得这片行省曾如此荒凉。我知道我们快到了，倒不是因为闻到了烧焦的血肉味。神龙就在这里，在尖塔等着我……我确信如此。我必须去见它，也许它的力量正是结束战争的关键。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Goals.lte,61,"The Dragon has issued a challenge - I must brave the gauntlet of the Dragon's Spire and meet it at the mountain's summit. This trial is sure to be difficult, but if I survive I'll have the Dragon's favor.",神龙向我发出了挑战。我必须闯过神龙尖塔的重重考验，在山顶与它相见。试炼必定艰难，但只要活下来，我就能得到神龙的眷顾。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Goals.lte,70,Betrayed! I should have seen this coming. There's a village to the East which can provide us with supplies and a work force. If we gain their support we should have no problem wiping out the Lotus and returning to Serpentholm and punishing those responsible.,被背叛了！我早该料到。东边有座村庄，可以为我们提供补给和人手。若能获得村民支持，我们便能消灭莲花族、重返 Serpentholm，惩罚那些罪魁祸首。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
-Text\ENG\Goals.lte,80,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。Otomo，信蛇要为他对你做的一切付出代价！ ,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
+Text\ENG\Goals.lte,80,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。大友，信蛇要为他对你做的一切付出代价！ ,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,90,"The Ninja are bound by the mysterious Soul Flame...if we destroy its pedestal to extinguish the flame, they'll be bound to us. We're not prepared to build a town here, so we must use our forces carefully.",忍者受到神秘魂火的束缚……只要摧毁底座、熄灭火焰，他们就会受我们驱使。我们无法在这里建造城镇，因此必须谨慎运用现有兵力。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,100,"The Lotus have allied with the Ninja and would prevent me from allying with the Monks. If we destroy the Lotus outpost and weather the Ninja's attacks we will be victorious, provided that the Monastery is still standing.",莲花族与忍者结盟，阻止我争取僧侣。只要摧毁莲花族的前哨，抵御忍者的进攻，并确保寺院仍然屹立，我们就能获胜。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,110,This is the last province before we arrive on the Lotus home plateau. Obliterating the Lotus here is the only option.,这是抵达莲花族故乡高原前的最后一个省份。除了在这里消灭莲花族，我们别无选择。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
@@ -1751,12 +1753,12 @@ Text\ENG\Goals.lte,121,"The Horde, the Dragon Clan's legendary foe, still lives 
 Text\ENG\Goals.lte,1000,"These Peasants need to learn their place and serve as an example to others that might rebel. If I kill them all and survive the encounter, the Serpent Clan will live on. ",这些农民得学会自己的本分，也该给其他可能反抗的人做个榜样。只要杀光他们，并在这场交战中活下来，灵蛇族就能延续下去。 ,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1010,"Shinja was always a little too headstrong for his own good. If I tear down his keep and I survive, surely he'll come to his senses and join me.",信蛇一向倔得对自己都没好处。只要拆了他的要塞，而我还能活下来，他一定会清醒过来，加入我。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\Goals.lte,1011,"A good general always has an escape route ready, and Shinja is certainly a good general. Fortunately, we've cornered him here. If we tear down his keep, defeat him in combat and I'm alive after it all, he'll have no choice but to join me...or die.",好将领总会给自己留条退路，信蛇无疑是个好将领。幸好我们已把他逼入绝境。只要拆掉他的要塞，在战斗中击败他，而我最后也活着，他就别无选择，只能加入我……或者死。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
-Text\ENG\Goals.lte,1012,"Poor Otomo, fighting his never-ending battle for what is ""right."" Well, that ends today - if we defeat all of his hired mercenaries and confront him, surely he'll join me and help rebuild the Serpent empire. Slaughtering these weaklings should be amusing, but I mustn't get get carried away and lose my life.",可怜的 Otomo，永远在为他所谓的“正义”而战。今天就让这一切结束吧——只要击败他雇来的所有佣兵，与他当面对质，他一定会加入我，协助重建灵蛇帝国。屠杀这些弱者想必很有趣，但我不能太得意忘形，把命也丢了。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
-Text\ENG\Goals.lte,1013,"Shinja has nowhere to run - if we defeat him, surely he'll come to his senses and service the Serpent Clan once again. Shinja and Otomo have always fought, so I'll have to stay alive to keep them in their places.",信蛇已无路可逃——只要击败他，他一定会清醒过来，重新效忠灵蛇族。信蛇和 Otomo 一直不和，所以我必须活着，才能管住他们。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
+Text\ENG\Goals.lte,1012,"Poor Otomo, fighting his never-ending battle for what is ""right."" Well, that ends today - if we defeat all of his hired mercenaries and confront him, surely he'll join me and help rebuild the Serpent empire. Slaughtering these weaklings should be amusing, but I mustn't get get carried away and lose my life.",可怜的大友，永远在为他所谓的“正义”而战。今天就让这一切结束吧——只要击败他雇来的所有佣兵，与他当面对质，他一定会加入我，协助重建灵蛇帝国。屠杀这些弱者想必很有趣，但我不能太得意忘形，把命也丢了。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\Goals.lte,1013,"Shinja has nowhere to run - if we defeat him, surely he'll come to his senses and service the Serpent Clan once again. Shinja and Otomo have always fought, so I'll have to stay alive to keep them in their places.",信蛇已无路可逃——只要击败他，他一定会清醒过来，重新效忠灵蛇族。信蛇和大友一直不和，所以我必须活着，才能管住他们。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,1020,"I used to respect the Wolf Clan, but now they're starting to annoy me. If we destroy their town and kill all of them, they should think twice before interfering with the Serpent Clan again. It's imperative that I stay alive if we're to reclaim the Orb from the Geisha.",我过去尊敬恶狼族，可如今他们越来越让我厌烦。只要摧毁他们的城镇，杀光他们，他们下次干涉灵蛇族之前就该三思了。若要从艺妓手中夺回宝珠，我必须活下来。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1024,"There are two towns here just waiting to submit. I expect a scuffle with the Wolf Clan, but a display of power is the only way we'll win this province over. I need to survive if we're to get anywhere with the Swan's Pool Geisha.",这里有两座城镇，正等着向我们臣服。我预计会与恶狼族发生冲突，但只有展示实力，才能赢得本省。我得活下来，才有机会从天鹅池的艺妓那里取得宝珠。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1025,"It's time Garrin's ""sense of justice"" got the better of him. If we crush his town and kill him, that should be just the kind of example we need to sway this province to our side.",该让 Garrin 的“正义感”害了他自己了。摧毁他的城镇，杀死他，正好可以杀鸡儆猴，让本省归附我们。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
-Text\ENG\Goals.lte,1027,"I'm not sure why Father trusted the Lotus, but we're all paying for it now. If we kill them and crush all of their buildings we can move on. The Geisha won't trust Shinja or Otomo, so I'll have to survive this encounter if we're to gain their support.",我不明白父亲为何信任莲花族，如今我们都在为此付出代价。杀光他们，夷平所有建筑，我们就能继续前进。艺妓不会信任信蛇或 Otomo，所以若要争取她们的支持，我必须在这场战斗中活下来。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
+Text\ENG\Goals.lte,1027,"I'm not sure why Father trusted the Lotus, but we're all paying for it now. If we kill them and crush all of their buildings we can move on. The Geisha won't trust Shinja or Otomo, so I'll have to survive this encounter if we're to gain their support.",我不明白父亲为何信任莲花族，如今我们都在为此付出代价。杀光他们，夷平所有建筑，我们就能继续前进。艺妓不会信任信蛇或大友，所以若要争取她们的支持，我必须在这场战斗中活下来。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,1030,"The Swan's Pool Geisha need protection yet again - if we're to get the Orb from them, we'll need to protect them from the Lotus onslaught and earn their trust.",天鹅池的艺妓又需要保护了——若要从她们手中取得宝珠，就必须挡住莲花族的进攻，赢得她们信任。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1040,"These flea-bitten miners make such terrible use of their freedom. If we destroy their towns and kill the rabble, surely they'll take note of the Serpent's power.",这些满身跳蚤的矿工，把自由糟蹋得一塌糊涂。摧毁他们的城镇，杀光那些乌合之众，他们就该知道灵蛇族有多强大了。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1050,The Lotus and their feeble tricks sicken me - kill them all and raze their towns and we can move on to Serpentholm.,莲花族那些软弱的伎俩令我作呕——杀光他们，夷平城镇，我们就能继续前往灵蛇城。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 Serpentholm 暂译灵蛇城。
@@ -1765,13 +1767,13 @@ Text\ENG\Goals.lte,1070,"The Wolf Clan have moved to the forefront of our battle
 Text\ENG\Goals.lte,1071,"This farce has gone on long enough. If we destroy their three shale mines and their place of magic, the Cairn, we can break the back of the Wolf Clan resistance. We can now build a Keep to house our Zen Masters, so the clan can press on if I am injured.",这场闹剧该结束了。只要摧毁他们的三座页岩矿井，以及那座施法之所——石冢，就能瓦解恶狼族的抵抗。现在我们能建造要塞供禅师驻守，即使我负伤，氏族也能继续前进。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1075,"The Lotus's original treachery took place in this decrepit province, and it will be their final resting place - leave no man or building standing! We can now build a Keep to house our Zen Masters, so the clan can press on if I am injured.",莲花族最初的背叛就发生在这个破败省份，这里也将成为他们最后的葬身之地——一个人、一座建筑都不要留下！现在我们能建造要塞供禅师驻守，即使我负伤，氏族也能继续前进。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1080,"I'm not the superstitious type, but something is wrong here. This area was said to be home to a benevolent Dragon, but something...darker is here now. My gaze is continually drawn to the top of the spire, and I believe I'll find some answers there. I must survive.",我不是迷信的人，但这里有些不对劲。据说这一带曾有一条仁慈的龙，如今却出现了某种……更黑暗的东西。我的目光总不由自主地投向尖塔顶端，我相信答案就在那里。我必须活下来。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
-Text\ENG\Goals.lte,1090,"This Necromancer will be a powerful ally, indeed - enemies that die in his presence are immediately recruited to our service as undead warriors. We have no peasants to build a town, but the Necromancer's powers should suffice to wipe out Otomo's pitiful rebels.",这名死灵法师将是一位强大的盟友——在他身边死去的敌人会立刻变成亡灵战士，为我们效力。我们没有农民建造城镇，但凭他的力量，应该足以消灭 Otomo 那群可怜的叛军。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 Necromancer 沿用术语基线死灵法师。 人名依术语基线暂保留英文。
-Text\ENG\Goals.lte,1095,"The traitor Otomo must die, as must his pathetic Wolf allies. Otomo is nowhere to be seen now, but he is sure to emerge if we slay enough of his friends.",叛徒 Otomo 必须死，他那些可悲的恶狼族盟友也一样。现在还看不到 Otomo，但只要杀够他的朋友，他一定会现身。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
+Text\ENG\Goals.lte,1090,"This Necromancer will be a powerful ally, indeed - enemies that die in his presence are immediately recruited to our service as undead warriors. We have no peasants to build a town, but the Necromancer's powers should suffice to wipe out Otomo's pitiful rebels.",这名死灵法师将是一位强大的盟友——在他身边死去的敌人会立刻变成亡灵战士，为我们效力。我们没有农民建造城镇，但凭他的力量，应该足以消灭大友那群可怜的叛军。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 Necromancer 沿用术语基线死灵法师。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\Goals.lte,1095,"The traitor Otomo must die, as must his pathetic Wolf allies. Otomo is nowhere to be seen now, but he is sure to emerge if we slay enough of his friends.",叛徒大友必须死，他那些可悲的恶狼族盟友也一样。现在还看不到大友，但只要杀够他的朋友，他一定会现身。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,1100,"So the Wolf want to enlist the Ninja's aid, do they? If we protect the Soul Flame from the Wolf the Ninja should join us instead. Or...we could probably catch the Ninja unprepared and destroy the Soul Flame first...",恶狼族想争取忍者相助，是吗？只要保护魂火，不让恶狼族毁掉它，忍者应该会转而加入我们。或者……我们也许能趁忍者没有防备，先摧毁魂火……,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1101,"With the Ninja on our side, it's time we eradicated the remaining Wolf forces.",忍者已站到我们这边，现在该消灭恶狼族剩下的部队了。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Goals.lte,1150,"These petulant Monks just don't know when to stop. If we demolish their precious monastery, we should have no trouble crushing their spirits and ""convincing"" them to join our cause. We can't build a town, but our starting forces should be adequate.",这些任性的僧侣真是不知适可而止。只要拆掉他们珍爱的寺院，打垮他们的斗志，“说服”他们加入我们就不难了。我们无法建造城镇，但初始兵力应该足够。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
-Text\ENG\Goals.lte,1201,This one province stands between me and Grayback. Liquidate the Wolf forces here and we'll be on our way.,只剩这一个省份挡在我与 Grayback 之间。清除这里的恶狼族部队，我们就能继续上路。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
-Text\ENG\Goals.lte,1301,The rebel Grayback is breathing his last breaths. Attacking his forces should draw him from the Keep. If we kill him the pathetic Wolf Clan will dissolve and we can recover the Serpent's Orb at long last.,叛军 Grayback 已是强弩之末。攻击他的部队，应该能把他从要塞引出来。只要杀了他，可悲的恶狼族便会瓦解，我们终于能夺回巨蛇宝珠。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
+Text\ENG\Goals.lte,1201,This one province stands between me and Grayback. Liquidate the Wolf forces here and we'll be on our way.,只剩这一个省份挡在我与灰背之间。清除这里的恶狼族部队，我们就能继续上路。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\Goals.lte,1301,The rebel Grayback is breathing his last breaths. Attacking his forces should draw him from the Keep. If we kill him the pathetic Wolf Clan will dissolve and we can recover the Serpent's Orb at long last.,叛军灰背已是强弩之末。攻击他的部队，应该能把他从要塞引出来。只要杀了他，可悲的恶狼族便会瓦解，我们终于能夺回巨蛇宝珠。,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Goals.lte,1302,"If we fight this abominable swarm of Hordelings their leader is sure to appear. Once this ""Nightvol"" reveals itself, we must kill it to complete our subjugation of this land.",只要与这群可憎的 Hordelings 交战，他们的首领一定会出现。等那个“Nightvol”现身，我们必须杀死它，才能完成对这片土地的征服。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 Hordelings 与 Nightvol 均暂留英文，需统一专名。 人名依术语基线暂保留英文。
 Text\ENG\Ingame_Menu.lte,0,XXX,,保留原文（无需翻译）,Internal placeholder/sentinel; do not invent display text.
 Text\ENG\Ingame_Menu.lte,1,Quick Save,快速保存,初译待游戏验证,
@@ -1902,12 +1904,12 @@ Text\ENG\Levels.lte,64,White Cliffs,白色悬崖,初译待审,地图名初译
 Text\ENG\Levels.lte,65,Archipelago ,群岛 ,初译待审,地图名初译；保留原文边缘空格供拼接。
 Text\ENG\Loadscreen_Quotes.lte,0,"Seven years away from the land had changed him.  When he spoke, he was always heard, and where he walked, the people followed.",离开这片土地七年，已使他判若两人。他一开口，总有人倾听；他走到哪里，民众就跟到哪里。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,1,"-- ""The Dragon's Return,"" from ""Serpent's Skin: A History of the Clan""",——《龙之归来》，摘自《蛇之皮：氏族史》,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 书名暂译，属引语出处而非官方书名。
-Text\ENG\Loadscreen_Quotes.lte,10,"You would be more useful to me, Otomo, if you were a callous man.",Otomo，如果你能变得冷酷些，对我会更有用。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
+Text\ENG\Loadscreen_Quotes.lte,10,"You would be more useful to me, Otomo, if you were a callous man.",大友，如果你能变得冷酷些，对我会更有用。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,11,-- Lord Oja,——Oja 大人,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,20,Bow to that child?  Never!,要我向那个孩子低头？绝不！,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,21,"-- Shinja, Captain of the Serpent Guard",——灵蛇卫队队长信蛇,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\Loadscreen_Quotes.lte,30,"Ours is a fertile land, rich and good.  The Serpent Clan is truly blessed.",我们的土地肥沃富饶。灵蛇族真是蒙受了福泽。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
-Text\ENG\Loadscreen_Quotes.lte,31,-- Otomo,——Otomo,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,31,-- Otomo,——大友,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,40,"Servant, master, then servant again - ah, well, it is the way of things.",仆人、主人，而后又成了仆人——唉，世事就是这样。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,41,-- Shinja,——信蛇,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\Loadscreen_Quotes.lte,50,Heavens - that man's dead!  Doesn't this game have any rules?,天哪，那人死了！这比赛就没有规矩吗？,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
@@ -1921,7 +1923,7 @@ Text\ENG\Loadscreen_Quotes.lte,81,-- Shinja,——信蛇,已确认专名离线�
 Text\ENG\Loadscreen_Quotes.lte,90,"Drinking, dancing, and the sweet lovelies at the Swan's Pool - what more to life is there?",美酒、歌舞，还有 Swan's Pool 的可人姑娘——人生还有什么可求的？,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,91,-- Kazan,——Kazan,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,100,"Stay clear of the Dragon's Spire, boys.  There's nothing but death up there.",孩子们，离神龙尖塔远点。那里只有死亡。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
-Text\ENG\Loadscreen_Quotes.lte,101,"-- Grayback, Lord of the Wolf Clan",——恶狼族领袖 Grayback,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,101,"-- Grayback, Lord of the Wolf Clan",——恶狼族领袖灰背,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,110,"That plateau, next to the river - it's there we'll build Serpentholm.",河边的那片高地——我们将在那里建起 Serpentholm。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,111,-- Tarrant the Younger,——小 Tarrant,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,120,"The Wolf made poor slaves, as the Lotus quickly discovered - they were far too inquisitive.",莲花族很快发现，恶狼族并不是好奴隶——他们太爱追根究底了。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
@@ -1932,7 +1934,7 @@ Text\ENG\Loadscreen_Quotes.lte,140,"Delicate, frail, ever servile and fawning - 
 Text\ENG\Loadscreen_Quotes.lte,141,"-- ""The Wizards,"" from ""Serpent's Skin""",——《巫师》，摘自《蛇之皮》,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 出处原文逗号位置与另一条不同，译文统一。
 Text\ENG\Loadscreen_Quotes.lte,150,"If the Tree willed it, I would spend a lifetime serving my betters.  Fortunately, I have no betters.",如果神树愿意，我可以终生侍奉比我高贵的人。幸好，没人比我高贵。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,151,"-- Zymeth, Grand Wizard",——大巫师 Zymeth,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
-Text\ENG\Loadscreen_Quotes.lte,160,"Be careful what you say to me, Otomo, or you might wake the Dragon.",Otomo，说话小心些，不然你会唤醒神龙。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
+Text\ENG\Loadscreen_Quotes.lte,160,"Be careful what you say to me, Otomo, or you might wake the Dragon.",大友，说话小心些，不然你会唤醒神龙。,已确认专名离线修订，待实机验证,Narrative draft; names retained in English; paired quote attribution remains separate | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,161,-- Lord Oja,——Oja 大人,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,170,The cowards and weaklings are all gone now.,懦夫和弱者如今都已不在。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Loadscreen_Quotes.lte,171,-- Shinja,——信蛇,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
@@ -1951,7 +1953,7 @@ Text\ENG\Loadscreen_Quotes.lte,1011,-- Lord Oja,——Oja 大人,初译待游戏
 Text\ENG\Loadscreen_Quotes.lte,1020,"Prove yourself, Serpent's Son.",证明自己的本事，灵蛇之子。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1021,"-- Shinja, Captain of the Serpent Guard",——灵蛇卫队队长信蛇,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\Loadscreen_Quotes.lte,1030,"Ours is a fertile land, rich and good.  The Serpent Clan is truly blessed.",我们的土地肥沃富饶。灵蛇族真是得天独厚。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。
-Text\ENG\Loadscreen_Quotes.lte,1031,-- Otomo,——Otomo,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,1031,-- Otomo,——大友,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,1040,"Servant, master, then servant again - ah, well, it is the way of things.",先为仆，再为主，转眼又成仆人——唉，世事就是如此。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。
 Text\ENG\Loadscreen_Quotes.lte,1041,-- Shinja,——信蛇,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\Loadscreen_Quotes.lte,1050,I want nothing to do with those Wolf brutes.,我不想和那些恶狼族蛮子有任何瓜葛。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
@@ -1965,7 +1967,7 @@ Text\ENG\Loadscreen_Quotes.lte,1081,-- Shinja,——信蛇,已确认专名离线
 Text\ENG\Loadscreen_Quotes.lte,1090,The art of conversation is not easily mastered by men.,谈话的艺术可不是男人轻易就能掌握的。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1091,-- Geisha saying,——艺妓的俗语,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1110,"Castles, horses, and steel - the Serpent's strength!",城堡、骏马和钢铁——灵蛇族的力量！,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
-Text\ENG\Loadscreen_Quotes.lte,1111,-- Otomo,——Otomo,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,1111,-- Otomo,——大友,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,1120,"The Wolf made poor slaves, as the Lotus quickly discovered - they were far too inquisitive.",莲花族很快发现，恶狼族不适合做奴隶——他们太爱刨根问底了。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。；已确认氏族名称；引语上下文指氏族而非动物或地名。
 Text\ENG\Loadscreen_Quotes.lte,1121,"""The Miners,"" from ""Serpent's Skin""",《矿工》，摘自《蛇之皮》,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。
 Text\ENG\Loadscreen_Quotes.lte,1130,"If our god needed all these pretty stones, why did he bury them so deep?",如果我们的神需要这些漂亮石头，为什么把它们埋得这么深？,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。
@@ -1973,11 +1975,11 @@ Text\ENG\Loadscreen_Quotes.lte,1131,-- Wolf Miner saying,——恶狼族矿工�
 Text\ENG\Loadscreen_Quotes.lte,1140,Tarrant broke the world because he was afraid.  I will build the Great Fleet because I am not.,Tarrant 因为恐惧而毁了世界。我要建造大舰队，因为我无所畏惧。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,1141,-- Lord Oja,——Oja 大人,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
 Text\ENG\Loadscreen_Quotes.lte,1150,"The Serpent have the valley, and the Lotus have the high plateau.  Are we less deserving?  Grant us lands of our own!",灵蛇族有河谷，莲花族有高原。难道我们就不配拥有土地吗？给我们自己的领地！,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
-Text\ENG\Loadscreen_Quotes.lte,1151,-- Grayback,——Grayback,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,1151,-- Grayback,——灰背,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,1160,I can afford to be patient.  You'll all come to me in the end.,我等得起。你们终究都会来找我。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1161,-- The Necromancer,——死灵法师,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1170,Better no clan at all than the clan Kenji wants!,宁可没有氏族，也不要健治想要的那种氏族！,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 人名依术语基线暂保留英文。 | 2026-10-11 确认健治/信蛇
-Text\ENG\Loadscreen_Quotes.lte,1171,-- Otomo,——Otomo,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,1171,-- Otomo,——大友,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Loadscreen_Quotes.lte,1180,He was his father reborn.,他宛如父亲再世。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1181,"-- ""The Serpent's Return,"" from Serpent's Skin",——《灵蛇归来》，摘自《蛇之皮》,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 此处原文为 Serpent’s Return，与 Dragon’s Return 不同，暂分别翻译。
 Text\ENG\Loadscreen_Quotes.lte,1190,Wretched monks and their cursed war - such a mess!  What I wouldn't give to be rid of them!,可恶的僧侣，还有他们那场该死的战争——真是一团糟！要是能摆脱他们，我什么都愿意付出！,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。
@@ -1987,7 +1989,7 @@ Text\ENG\Loadscreen_Quotes.lte,1201,-- Lord Oja,——Oja 大人,初译待游戏
 Text\ENG\Loadscreen_Quotes.lte,1210,"Playful yet hard-working, they were a proud people - far too proud to serve any master for long.",他们爱玩闹，也肯勤劳做事，是个骄傲的民族——骄傲到不可能长久侍奉任何主人。,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
 Text\ENG\Loadscreen_Quotes.lte,1211,"-- ""The Miners,"" from Serpent's Skin",——《矿工》，摘自《蛇之皮》,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 出处原文逗号位置与另一条不同，译文统一。
 Text\ENG\Loadscreen_Quotes.lte,1220,"To arms, brothers!  We'll not be slaves to the Serpent again!",兄弟们，拿起武器！我们再也不要做灵蛇族的奴隶！,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。
-Text\ENG\Loadscreen_Quotes.lte,1221,-- Grayback,——Grayback,初译待游戏内校验,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。
+Text\ENG\Loadscreen_Quotes.lte,1221,-- Grayback,——灰背,已确认专名离线修订，待实机验证,与 WOTW 对应条目英文原文完全相同，复用逐条审阅的译文。 相同英文引语复用已核对译文。 人名依术语基线暂保留英文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Main_Menu.lte,0,XXX,,保留原文（无需翻译）,Internal placeholder/sentinel; do not invent display text.
 Text\ENG\Main_Menu.lte,1,New Game,新游戏,初译待游戏验证,
 Text\ENG\Main_Menu.lte,2,Load Game,读取存档,初译待游戏验证,
@@ -2097,7 +2099,7 @@ Text\ENG\Overmap_Tooltips.lte,70,The scheming Lotus plot something here. Discove
 Text\ENG\Overmap_Tooltips.lte,80,Confront the mercenary Ninja and obtain their services before attacking the Lotus.,先与雇佣忍者交涉并获得他们的效力，再进攻莲花族。,初译待审,UI/message draft; exact source key
 Text\ENG\Overmap_Tooltips.lte,90,Reestablish contact with the Monks and enlist their aid to defeat the Lotus menace.,重新联系僧侣，争取他们的协助，击败莲花族的威胁。,初译待审,UI/message draft; exact source key
 Text\ENG\Overmap_Tooltips.lte,100,Attack Shinja's Keep to wrest this province from his grip and place it in your own.,进攻信蛇的要塞，从他手中夺取这片行省。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
-Text\ENG\Overmap_Tooltips.lte,110,Defeat Otomo's hired archers and raze the village to claim the province for your own.,击败 Otomo 雇用的弓箭手，夷平村庄，夺取这片行省。,初译待审,UI/message draft; exact source key
+Text\ENG\Overmap_Tooltips.lte,110,Defeat Otomo's hired archers and raze the village to claim the province for your own.,击败大友雇用的弓箭手，夷平村庄，夺取这片行省。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\Overmap_Tooltips.lte,120,Crush the Wolf Clan forces that have taken residence in this province. ,消灭盘踞在这片行省的恶狼族部队。 ,初译待审,UI/message draft; exact source key；保留原文边缘空格供拼接。
 Text\ENG\Overmap_Tooltips.lte,130,"A mercenary trade town that services both the Wolf and Lotus. This is the most direct route, but perhaps the most difficult.",这座雇佣兵贸易城镇同时服务恶狼族与莲花族。这里是最直接的路线，也可能是最难走的一条。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
 Text\ENG\Overmap_Tooltips.lte,140,"Lotus Warlocks have enslaved the locals, but the cover of forest should help us obliterate them and reclaim the peasants.",莲花族术士奴役了当地人。借助森林掩护，我们应该能消灭他们，救回农民。,初译待审,Narrative draft; names retained in English; paired quote attribution remains separate
@@ -2310,7 +2312,9 @@ Text\ENG\WOTW_Console_Tooltips.lte,199,The Samurai takes no damage from missile 
 Text\ENG\WOTW_Console_Tooltips.lte,200,Sacrifice,献祭,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,201,Surrenders the Geisha's life to completely heal nearby allies.,牺牲艺妓的生命，完全治愈附近友军。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,202,Fire Shield,火焰护盾,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,203,"Grants a bit of protection against all attacks (except magic), damages enemies with explosives during melee combat; continually drains stamina.",略微抵御除魔法外的所有攻击，并在近战中以爆炸伤害攻击敌人；持续消耗体力。,初译待审,
+Text\ENG\WOTW_Console_Tooltips.lte,203,"Grants a bit of protection against all attacks (except magic), damages enemies with explosives during melee combat; continually drains stamina.","减轻非魔法伤害；
+近战爆炸伤敌，
+持续消耗体力。",局部排版审校，待游戏内验证, | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,204,Sniper Scope,狙击镜,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,205,Adds range to Musketeer's shots and prevents him from running. Costs stamina to activate.,增加火枪兵的射程，但使其无法奔跑。启动时消耗体力。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,206,Blast Shot,爆裂射击,初译待审,
@@ -2433,7 +2437,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,322,Golem,魔像,兵种名初译待游戏验�
 Text\ENG\WOTW_Console_Tooltips.lte,323,Wolf,狼,兵种名初译待游戏验证,按实际单位名称资源键；待游戏内字体与界面核验
 Text\ENG\WOTW_Console_Tooltips.lte,324,Horse,马,兵种名初译待游戏验证,按实际单位名称资源键；待游戏内字体与界面核验
 Text\ENG\WOTW_Console_Tooltips.lte,325,Kenji,健治,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval. | 2026-10-11 确认健治/信蛇
-Text\ENG\WOTW_Console_Tooltips.lte,326,Otomo,Otomo,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
+Text\ENG\WOTW_Console_Tooltips.lte,326,Otomo,大友,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval. | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Console_Tooltips.lte,327,Shinja,信蛇,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval. | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Console_Tooltips.lte,328,Arah,Arah,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
 Text\ENG\WOTW_Console_Tooltips.lte,329,Kazan,Kazan,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
@@ -2447,7 +2451,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,336,Vetkin,Vetkin,保留英文（专名或标
 Text\ENG\WOTW_Console_Tooltips.lte,337,Zymeth,Zymeth,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
 Text\ENG\WOTW_Console_Tooltips.lte,338,Koril,Koril,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
 Text\ENG\WOTW_Console_Tooltips.lte,339,Issyl,Issyl,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
-Text\ENG\WOTW_Console_Tooltips.lte,340,Grayback,Grayback,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
+Text\ENG\WOTW_Console_Tooltips.lte,340,Grayback,灰背,已确认专名离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval. | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Console_Tooltips.lte,341,The Shale Lord,页岩领主,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
 Text\ENG\WOTW_Console_Tooltips.lte,342,Longtooth,Longtooth,保留英文（专名或标记）,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. English retained: proper name or project-specific name pending approval.
 Text\ENG\WOTW_Console_Tooltips.lte,343,Extra,,保留原文（无需翻译）,Repeated generic slot label; retain source until in-game UI confirms whether it is visible and what it labels.
@@ -2502,12 +2506,12 @@ Text\ENG\WOTW_Console_Tooltips.lte,391,Stamina,体力,初译待游戏内校验,D
 Text\ENG\WOTW_Console_Tooltips.lte,392,Training,训练,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,393,Enter Watchtower,进入哨塔,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,394,Exit Watchtower,离开哨塔,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,395,Toggle Peasant Creation,切换农民生产,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\WOTW_Console_Tooltips.lte,395,Toggle Peasant Creation,开启／停止农民生产,用户实测机制复核，待游戏内排版验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\WOTW_Console_Tooltips.lte,396,Repair,修复,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,397,Water Rice,灌溉稻田,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,398,Next Portrait,下一张肖像,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,399,Previous Portrait,上一张肖像,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,400,Only Peasant Hut Creating Peasants,只有农舍正在生产农民,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. Literal UI wording; in-game context review needed.
+Text\ENG\WOTW_Console_Tooltips.lte,400,Only Peasant Hut Creating Peasants,这是唯一仍在生产农民的农舍，无法停止生产。,用户实测机制复核，待游戏内排版验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. Literal UI wording; in-game context review needed. | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\WOTW_Console_Tooltips.lte,401,Monk Progress,僧侣进度,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,402,Ninja Progress,忍者进度,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,403,Monks At Full Capacity,僧侣人数已达上限,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -2538,7 +2542,8 @@ Text\ENG\WOTW_Console_Tooltips.lte,427,Stand Guard,驻守,初译待游戏内校�
 Text\ENG\WOTW_Console_Tooltips.lte,428,Destroy Building,拆除建筑,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,429,Confirm Destroy,确认拆除,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,430,Cancel Destroy,取消拆除,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,431,Use 3 Yang to summon the Dragon's spirit,消耗 3 点阳，召唤神龙之魂,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\WOTW_Console_Tooltips.lte,431,Use 3 Yang to summon the Dragon's spirit,"消耗3点阳
+召唤神龙之魂",用户实测换行修订，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 用户要求数字单位同排，神龙之魂不拆词；两行语义断点。
 Text\ENG\WOTW_Console_Tooltips.lte,432,Peasant Progress,农民进度,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,433,Click To Go To Peasant Hut,点击前往农舍,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,434,Dragon Unit Alchemy,神龙族兵种训练,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
@@ -2548,8 +2553,8 @@ Text\ENG\WOTW_Console_Tooltips.lte,437,Wolf Unit Alchemy,恶狼族兵种训练,�
 Text\ENG\WOTW_Console_Tooltips.lte,438,Back,返回,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,439,Druidess blesses Berserker,女祭师祝福狂暴战士,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,440,Berserker uses Lycanthropy,狂暴战士施展狼人变身,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,441,4x Ronin,4 名浪人,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,442,2x Warlock,2 名魔法师,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\WOTW_Console_Tooltips.lte,441,4x Ronin,4名浪人,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,442,2x Warlock,2名魔法师,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,443,Dragon Battle Gear,神龙族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\WOTW_Console_Tooltips.lte,444,Lotus Battle Gear,莲花族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
 Text\ENG\WOTW_Console_Tooltips.lte,445,Serpent Battle Gear,灵蛇族技能,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-11 显示反馈；按源字段修订
@@ -2613,10 +2618,10 @@ Text\ENG\WOTW_Console_Tooltips.lte,506,Keep + Crypt,要塞 + 地穴,初译待游
 Text\ENG\WOTW_Console_Tooltips.lte,507,Tavern + Stables,酒馆 + 马厩,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
 Text\ENG\WOTW_Console_Tooltips.lte,508,Metal Shop + Town Square,金属工坊 + 城镇广场,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,509,Sharpshooter's Guild + Alchemist Hut,射击行会 + 炼金屋,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
-Text\ENG\WOTW_Console_Tooltips.lte,510,Dragon Tech Tree,神龙族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\WOTW_Console_Tooltips.lte,511,Lotus Tech Tree,莲花族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\WOTW_Console_Tooltips.lte,512,Serpent Tech Tree,灵蛇族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订
-Text\ENG\WOTW_Console_Tooltips.lte,513,Wolf Tech Tree,恶狼族科技树,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订
+Text\ENG\WOTW_Console_Tooltips.lte,510,Dragon Tech Tree,神龙族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,511,Lotus Tech Tree,莲花族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,512,Serpent Tech Tree,灵蛇族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,513,Wolf Tech Tree,恶狼族建筑树,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip. | 2026-10-11 显示反馈；按源字段修订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,514,Rite of Ascension,升华仪式,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,515,Transforms this unit into a powerful Warlock; Warlock has half health initially.,将此单位转化为强大的 Warlock；转化后的 Warlock 起初只有一半生命值。,初译待审,Warlock 暂留英文，待阵营单位命名统一。
 Text\ENG\WOTW_Console_Tooltips.lte,516,Call Horse,召唤马匹,初译待审,
@@ -2663,8 +2668,8 @@ Text\ENG\WOTW_Console_Tooltips.lte,556,or,或,初译待游戏内校验,Draft tra
 Text\ENG\WOTW_Console_Tooltips.lte,557,More Towers Require:,更多哨塔需要：,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,558,Stables are required to train horses,训练马匹需要马厩。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,559,A Wolves' Den is required for capturing horses,捕捉马匹需要狼穴。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,560,+1 Watchtower,+1 座哨塔,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
-Text\ENG\WOTW_Console_Tooltips.lte,561,+2 Watchtowers,+2 座哨塔,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
+Text\ENG\WOTW_Console_Tooltips.lte,560,+1 Watchtower,+1座哨塔,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,561,+2 Watchtowers,+2座哨塔,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Exact same English in matched tooltip context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,562,Yin,阴,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,563,Yang,阳,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
 Text\ENG\WOTW_Console_Tooltips.lte,564,Brother Is Already In Use,兄弟已在使用中,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in matched tooltip context.
@@ -2674,7 +2679,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,570,Trains units skilled in projectile combat
 Text\ENG\WOTW_Console_Tooltips.lte,574,Trains units skilled with fire and gunpowder.,训练擅长使用火焰和火药的单位。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,578,Trades Peasants for artful Geisha.,将农民训练为技艺精湛的艺妓。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,579,Allows units to guard an area; best suited for missile units.,使单位能够守卫一片区域；最适合远程单位。,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,580,Symbol of a town's development; increases Yang growth by 25% and stores rice.,城镇发展的象征；使阳的增长速度提高 25%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,580,Symbol of a town's development; increases Yang growth by 25% and stores rice.,城镇发展的象征；使阳的增长速度提高25%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,581,Symbol of a town's enlightenment; summons the clan's allies into battle at a cost.,城镇开悟的象征；付出代价，召唤本族盟友参战。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,582,Allows military units to mount horses collected by Peasants. Peasants can also take horses to aid them in collecting more resources. Horses can be found roaming in the wild.,军事单位可骑乘农民收集的马匹。农民也能用马协助采集更多资源。马匹可在野外找到。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,583,Unlocks a unit's hidden powers through meditation.,通过冥想解锁单位潜藏的力量。,初译待审,
@@ -2687,7 +2692,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,592,Trains units skilled in ranged warfare.,�
 Text\ENG\WOTW_Console_Tooltips.lte,596,Trains units skilled with fire and gunpowder.,训练擅长使用火焰和火药的单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\WOTW_Console_Tooltips.lte,600,Trades Peasants for sultry Fan Geisha.,将农民训练为魅惑的扇舞艺妓。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,601,Allows units to guard an area; best suited for missile units.,使单位能够守卫一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\WOTW_Console_Tooltips.lte,602,Symbol of a town's development; increases Yin growth by 25% and stores rice.,城镇发展的象征；使阴的增长速度提高 25%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,602,Symbol of a town's development; increases Yin growth by 25% and stores rice.,城镇发展的象征；使阴的增长速度提高25%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,603,Symbol of a town's domination; summons the clan's allies into battle at a cost.,城镇统治的象征；付出代价，召唤本族盟友参战。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,604,Allows military units to mount horses collected by Peasants. Peasants can also take horses to aid them in collecting more resources. Horses can be found roaming in the wild.,军事单位可骑乘农民收集的马匹。农民也能用马协助采集更多资源。马匹可在野外找到。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\WOTW_Console_Tooltips.lte,605,Trains units in surreptitious and sneaky techniques.,训练擅长潜行和隐秘技巧的单位。,初译待审,
@@ -2700,7 +2705,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,614,Blesses units with the knowledge of the l
 Text\ENG\WOTW_Console_Tooltips.lte,618,Endows units with the wisdom of the trunk.,赋予单位树干的智慧。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,622,Trades Peasants for mystical Channelers.,将农民训练为神秘的 Channeler。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,623,Allows units to guard an area; best suited for missile units.,使单位能够守卫一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\WOTW_Console_Tooltips.lte,624,Symbol of a town's knowledge; increases Yin growth by 25% and stores rice.,城镇知识的象征；使阴的增长速度提高 25%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,624,Symbol of a town's knowledge; increases Yin growth by 25% and stores rice.,城镇知识的象征；使阴的增长速度提高25%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,625,Symbol of a town's corruption; summons the clan's allies into battle at a cost.,城镇腐化的象征；付出代价，召唤本族盟友参战。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,626,Allows military units to mount horses collected by Peasants. Peasants can also take horses to aid them in collecting more resources. Horses can be found roaming in the wild.,军事单位可骑乘农民收集的马匹。农民也能用马协助采集更多资源。马匹可在野外找到。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
 Text\ENG\WOTW_Console_Tooltips.lte,627,Yin offering summons the three Brothers to bestow new powers upon the clan.,献上阴，召唤三兄弟为本族赋予新的力量。,初译待审,
@@ -2712,7 +2717,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,635,Units practice throwing here.,单位在�
 Text\ENG\WOTW_Console_Tooltips.lte,639,Units dig and mine to build strength.,单位在这里挖掘采矿，锻炼力量。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,643,Trades Peasants for matriarchal Druidesses.,将农民训练为女祭师。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,644,Allows units to guard an area; best suited for missile units.,使单位能够守卫一片区域；最适合远程单位。,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in this source file; same context.
-Text\ENG\WOTW_Console_Tooltips.lte,645,Symbol of a town's vigor; increases Yang growth by 25% and stores rice.,城镇活力的象征；使阳的增长速度提高 25%，并储存稻米。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,645,Symbol of a town's vigor; increases Yang growth by 25% and stores rice.,城镇活力的象征；使阳的增长速度提高25%，并储存稻米。,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,646,Symbol of a town's freedom; summons the clan's allies into battle at a cost.,城镇自由的象征；付出代价，召唤本族盟友参战。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,647,Allows units to feed horses collected by peasants to wolf pups in order to befriend wolf packs; Horses can be found roaming in the wild.,用农民收集的马匹喂养幼狼，以结交狼群；马匹可在野外找到。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,648,Fits military units with sturdy shale armor that grants units additional protection.,为军事单位穿上坚固的页岩护甲，提供额外防护。,初译待审,
@@ -2730,14 +2735,20 @@ Text\ENG\WOTW_Console_Tooltips.lte,659,"A ""gift"" from the Monks. The tortured 
 Text\ENG\WOTW_Console_Tooltips.lte,660,Monastery,修道院,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
 Text\ENG\WOTW_Console_Tooltips.lte,661,This ancient monastery has long been a tranquil bastion of peace despite the war around it.,尽管战火环绕，这座古老寺院长久以来仍是宁静的避风港。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,662,Dismount,下马,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
-Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).",原地坚守（切换）：单位会守住位置，攻击射程内的目标。再次切换或下达攻击命令前，此命令持续有效（远程单位除外）。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
-Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.",守卫／跟随：单位会在小范围内守卫一片区域、一个单位或一座建筑。也可用于守卫或跟随指定单位。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).","原地坚守：守住原位，
+攻击射程内目标。
+再次切换或下达攻击命令前
+持续有效（远程单位除外）。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.","守卫／跟随：在小范围内
+守护区域、单位或建筑，
+也可跟随指定单位。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,665,"Passive Mode (Toggle) - Unit will not attack, but will respond to melee engagement. Unit will retain the order until it's toggled off or attack order is issued.",被动模式（切换）：单位不会主动攻击，但遭遇近战攻击时会还手。再次切换或下达攻击命令前，此命令持续有效。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
-Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击：单位前往指定目标途中不会与敌方单位交战。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
+Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,"强制攻击：前往目标途中
+不与敌方单位交战。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,667,Stop - Unit will momentarily stop performing any orders.,停止：单位会暂时停止执行所有命令。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,668,"Master of the Clan, Kenji is a fierce, inspiring warrior.",健治是本族之主，也是一位勇猛而善于鼓舞人心的战士。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Console_Tooltips.lte,669,Special Abilities: Critical Strike and Inspiration,特殊能力：致命一击、激励,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,670,"Wise and honorable warrior, Otomo wields a massive nodachi effective both against units and buildings. His fighting abilities inspire allies in battle.",Otomo 睿智而正直，挥舞巨大的野太刀，对单位和建筑都很有效。他的战斗本领能鼓舞友军。,初译待审,
+Text\ENG\WOTW_Console_Tooltips.lte,670,"Wise and honorable warrior, Otomo wields a massive nodachi effective both against units and buildings. His fighting abilities inspire allies in battle.",大友睿智而正直，挥舞巨大的野太刀，对单位和建筑都很有效。他的战斗本领能鼓舞友军。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Console_Tooltips.lte,671,Special Abilities: Battle Cry and Battle Leader,特殊能力：战吼、战场领袖,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,672,"A tough Monk skilled with fire, Kazan burns buildings with ease.",Kazan 是精通火焰的强壮僧侣，能轻易焚毁建筑。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,673,Special Abilities: Flame Breath and Fire Wielder,特殊能力：火焰吐息、御火,初译待审,
@@ -2749,7 +2760,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,678,"Master of Balance, Tao is an able fighte
 Text\ENG\WOTW_Console_Tooltips.lte,679,Special Abilities: Reversal of Fortune and Monastic Influence,特殊能力：命运逆转、修行感召,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,680,"A fearsome warrior, Shinja slays enemies with twin poisoned blades.",信蛇是令人畏惧的战士，以两把淬毒刀刃斩杀敌人。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Console_Tooltips.lte,681,Special Abilities: Intimidation and Ye of Little Faith,特殊能力：威吓、信念薄弱者,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,682,"A lumbering slave driver, Budo ""encourages"" peasants with sharp whip and tongue.",武堂 是个身形笨重的奴隶监工，用利鞭和尖刻言辞“激励”农民。,初译待审,
+Text\ENG\WOTW_Console_Tooltips.lte,682,"A lumbering slave driver, Budo ""encourages"" peasants with sharp whip and tongue.",武堂是个身形笨重的奴隶监工，用利鞭和尖刻言辞“激励”农民。,局部排版审校，待游戏内验证, | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,683,Special Ability: Slave Driver,特殊能力：奴隶监工,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,684,"Lithe geisha of the dark, Utara's beauty and voice spell doom for her enemy.",Utara 是一名身姿轻盈的黑暗艺妓，她的美貌与歌声会为敌人招来厄运。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,685,Special Abilities: Song of Sorrow and Pleasure and Pain,特殊能力：哀伤之歌、痛并快乐,初译待审,
@@ -2763,7 +2774,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,692,"A scholar of space, Koril can teleport a
 Text\ENG\WOTW_Console_Tooltips.lte,693,Special Abilities: Teleport and Evasiveness,特殊能力：瞬移、闪避,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,694,"A scholar of matter, Soban can build helpful Golems from stone and mud.",Soban 研习物质之术，能用泥土和石头造出有用的魔像。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,695,Special Ability: Create Golem,特殊能力：制造魔像,初译待审,
-Text\ENG\WOTW_Console_Tooltips.lte,696,"Leader of the Wolf Clan, Grayback is a noble and resilient warrior.",恶狼族领袖 Grayback 是一位高贵而坚韧的战士。,初译待审,
+Text\ENG\WOTW_Console_Tooltips.lte,696,"Leader of the Wolf Clan, Grayback is a noble and resilient warrior.",恶狼族领袖灰背是一位高贵而坚韧的战士。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Console_Tooltips.lte,697,Special Abilities: Wolf Howl and Alpha Male,特殊能力：狼嚎、头狼,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,698,"Armed with a bladed boomerang effective both against units and buildings, nimble Longtooth ravages enemies near and far alike.",Longtooth 身手敏捷，手持带刃回旋镖，对单位和建筑都很有效，远近敌人皆难逃其锋。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,699,Special Abilities: Razor-Edged Boomerang and Climbing,特殊能力：利刃回旋镖、攀爬,初译待审,
@@ -2952,7 +2963,7 @@ Text\ENG\WOTW_Console_Tooltips.lte,2120,"Wily founder of the Packmaster's Order,
 Text\ENG\WOTW_Console_Tooltips.lte,2121,"Special Abilities: Ancestral Call, Grant Wolf and Lupine Kinsmanship",特殊能力：先祖召唤、赠予狼、狼类亲缘,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2122,Last Stand,背水一战,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2123,"Fills the Guardian with rage when close to death, allowing a few more seconds of intense fighting.",守护者濒死时会怒火迸发，得以再激战数秒。,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
-Text\ENG\WOTW_Console_Tooltips.lte,2124,4x Dragon Warrior,4 名神龙武士,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
+Text\ENG\WOTW_Console_Tooltips.lte,2124,4x Dragon Warrior,4名神龙武士,局部排版审校，待游戏内验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,2125,Damage class: ,伤害类型： ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
 Text\ENG\WOTW_Console_Tooltips.lte,2126,Resists ,抗性 ,显示反馈离线修订，待实机验证,Draft translated from current Zen Edition source. Manually reviewed in source-file context. | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,2127,Weak against ,弱点 ,初译待游戏内校验,Draft translated from current Zen Edition source. Manually reviewed in source-file context.
@@ -3615,7 +3626,7 @@ Text\ENG\WOTW_Front_End.lte,242,Profile,档案,初译待审,UI draft; exact sour
 Text\ENG\WOTW_Front_End.lte,243,Save Password,保存密码,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,244,Login,登录,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,245,New Account,新建账号,初译待审,UI draft; exact source key
-Text\ENG\WOTW_Front_End.lte,246,I certify that I am 13 years of age or older,我确认自己已年满 13 周岁,初译待审,UI/message draft; exact source key
+Text\ENG\WOTW_Front_End.lte,246,I certify that I am 13 years of age or older,我确认自己已年满13周岁,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Front_End.lte,247,Quick Load,快速载入,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,248,Restart Mission,重新开始任务,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,249,You must enter a player name.,必须输入玩家名称。,初译待审,UI draft; exact source key
@@ -3715,8 +3726,8 @@ Text\ENG\WOTW_Front_End.lte,342,Purchase Battle Realms to experience the full de
 Text\ENG\WOTW_Front_End.lte,343,"- Master all four Clans, including the honorable Wolf Clan and the corruptive Lotus Clan.",- 掌握四大阵营，包括崇尚荣誉的恶狼族和腐化堕落的莲花族。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,344,- Summon unique Zen Masters that wield fantastic powers.,- 召唤拥有非凡力量的各色禅师。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,345,- Earn Yin & Yang to acquire destructive new weapons and magic.,- 获取阴阳点数，解锁威力强大的新武器与法术。,初译待审,UI/message draft; exact source key
-Text\ENG\WOTW_Front_End.lte,346,- Play in single-player through Kenji's Journey or in skirmish mode on over 35 different maps.,- 在单人模式中体验健治之旅，或在 35 张以上地图中展开遭遇战。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
-Text\ENG\WOTW_Front_End.lte,347,- Stage epic battles with up to 8 players over the Internet or LAN.,- 通过互联网或局域网，与最多 8 名玩家展开史诗对决。,初译待审,UI/message draft; exact source key
+Text\ENG\WOTW_Front_End.lte,346,- Play in single-player through Kenji's Journey or in skirmish mode on over 35 different maps.,- 在单人模式中体验健治之旅，或在35张以上地图中展开遭遇战。,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Front_End.lte,347,- Stage epic battles with up to 8 players over the Internet or LAN.,- 通过互联网或局域网，与最多8名玩家展开史诗对决。,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Front_End.lte,348,Available Now At Your Local Software Retailer,现已在当地软件零售商店发售,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,349,"""It's the future of real-time strategy game design."" - Computer Gaming World",“这代表了即时战略游戏设计的未来。”——Computer Gaming World,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,350,"Winner, Best PC Strategy Game - IGN.com",最佳 PC 策略游戏奖得主——IGN.com,初译待审,UI/message draft; exact source key
@@ -3754,7 +3765,7 @@ Text\ENG\WOTW_Front_End.lte,381,You must have Winter of the Wolf installed to lo
 Text\ENG\WOTW_Front_End.lte,433,Host has allowed start point picking,房主已允许选择起始位置,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,434,Host has disabled start point picking,房主已禁止选择起始位置,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,435,Choose as starting point,选为起始位置,初译待审,UI draft; exact source key
-Text\ENG\WOTW_Front_End.lte,1000,Grayback's Journey,Grayback 之旅,初译待审,UI/message draft; exact source key
+Text\ENG\WOTW_Front_End.lte,1000,Grayback's Journey,灰背之旅,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Front_End.lte,1001,,,无需翻译（原文为空）,源 LTE 条目为空；保留空字符串。
 Text\ENG\WOTW_Front_End.lte,1002,Create Game,创建游戏,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,1003,,,无需翻译（原文为空）,源 LTE 条目为空；保留空字符串。
@@ -3797,7 +3808,7 @@ Text\ENG\WOTW_Front_End.lte,1039,You have exceeded your Steam Cloud quota. Pleas
 Text\ENG\WOTW_Front_End.lte,1040,The uploaded file could not be found or the content folder is not valid.,找不到上传文件，或内容文件夹无效。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,1041,This file was already successfully uploaded.,此文件已成功上传。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,1042,"You already have a Steam Workshop item named ""%s"".",你已有一个名为“%s”的 Steam 创意工坊项目。,初译待审,UI/message draft; exact source key
-Text\ENG\WOTW_Front_End.lte,1043,"Due to a recent password or email change, you are not allowed to upload new content. This restriction expires in 5 days, but can last up to 30 days if the account has been inactive.",由于最近更改了密码或电子邮箱，你暂时无法上传新内容。此限制通常在 5 天后解除；若账号曾长期未活动，最长可能持续 30 天。,初译待审,UI/message draft; exact source key
+Text\ENG\WOTW_Front_End.lte,1043,"Due to a recent password or email change, you are not allowed to upload new content. This restriction expires in 5 days, but can last up to 30 days if the account has been inactive.",由于最近更改了密码或电子邮箱，你暂时无法上传新内容。此限制通常在5天后解除；若账号曾长期未活动，最长可能持续30天。,局部排版审校，待游戏内验证,UI/message draft; exact source key | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Front_End.lte,1044,"There was an unexpected error trying to upload ""%s"".",上传“%s”时发生意外错误。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Front_End.lte,1045,Uploading...,正在上传……,初译待审,UI draft; exact source key
 Text\ENG\WOTW_Front_End.lte,1046,It seems the Workshop EULA terms have changed. Please confirm you accepted the new terms.,创意工坊的最终用户许可协议似乎已更新。请确认你已接受新条款。,初译待审,UI/message draft; exact source key
@@ -3937,7 +3948,7 @@ Text\ENG\WOTW_Game_Keys.lte,1076,Scroll screen up,向上移动画面,初译待�
 Text\ENG\WOTW_Game_Keys.lte,1077,Scroll screen down,向下移动画面,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\WOTW_Game_Keys.lte,1078,Toggle chat options,切换聊天选项,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\WOTW_Game_Keys.lte,1079,Lock camera on unit,将镜头锁定在单位上,初译待审,按实际快捷键命令源键初译；待界面验证
-Text\ENG\WOTW_Game_Keys.lte,1080,Toggle peasant creation,切换农民生产,初译待审,按实际快捷键命令源键初译；待界面验证
+Text\ENG\WOTW_Game_Keys.lte,1080,Toggle peasant creation,开启／停止农民生产,用户实测机制复核，待游戏内排版验证,按实际快捷键命令源键初译；待界面验证 | 2026-10-12 用户实测：其余农舍已停产时，本农舍为唯一生产者，停止按钮禁用；395/1080 为启停切换动作。
 Text\ENG\WOTW_Game_Keys.lte,1081,Demolish building,拆除建筑,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\WOTW_Game_Keys.lte,1082,Buy technique 1,购买技术1,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\WOTW_Game_Keys.lte,1083,Buy technique 2,购买技术2,初译待审,按实际快捷键命令源键初译；待界面验证
@@ -4018,7 +4029,7 @@ Text\ENG\WOTW_Game_Keys.lte,2085,Build Wolf Well,建造恶狼族水井,初译待
 Text\ENG\WOTW_Game_Keys.lte,2086,Build Wolf Wolves' Den,建造恶狼族狼穴,初译待审,按实际快捷键命令源键初译；待界面验证
 Text\ENG\WOTW_Goals.lte,0,"I hadn't yet decided what I would do once I had returned, but circumstances had conspired to force a choice upon me. Should I protect these helpless villagers by attacking the bandits or should I help the bandits keep these peasants in their place? No doubt my actions here will dictate the future of the land.",我尚未决定归来后要做什么，可眼前的局势逼我作出选择。是攻击匪徒，保护这些无助的村民；还是帮助匪徒，让这些农民继续受他们压迫？毫无疑问，我在这里的举动将决定这片土地的未来。,初译待游戏内校验,同源异译审校：keep these peasants in their place 的施压主体是匪徒；原译误归因于农民。
 Text\ENG\WOTW_Goals.lte,1,"This is the beginning of something new...something good. I went against my upbringing and attacked the bandits to protect the peasants. I've started something here, and I must finish the job: I must kill all attacking bandits and save the village, and not lose my life doing so.",这是一个崭新的开始……一个好的开始。我背弃了从小接受的教导，攻击匪徒，保护农民。既然已经迈出这一步，就必须把事做完：杀死所有来犯匪徒，拯救村庄，而且自己也得活下来。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,10,"Otomo was right - Shinja intends to put up a fight. If I destroy his Keep and confront him, he should listen to reason - I am the heir to the Serpent empire, after all. My new clan lacks leadership, though, and will certainly crumble if I were to die.",Otomo 说得对——信蛇打算抵抗。如果摧毁他的要塞，与他当面对质，他应该会听我讲道理——毕竟我是灵蛇帝国的继承人。不过我的新氏族缺少领袖；如果我死了，他们必然分崩离析。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
+Text\ENG\WOTW_Goals.lte,10,"Otomo was right - Shinja intends to put up a fight. If I destroy his Keep and confront him, he should listen to reason - I am the heir to the Serpent empire, after all. My new clan lacks leadership, though, and will certainly crumble if I were to die.",大友说得对——信蛇打算抵抗。如果摧毁他的要塞，与他当面对质，他应该会听我讲道理——毕竟我是灵蛇帝国的继承人。不过我的新氏族缺少领袖；如果我死了，他们必然分崩离析。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,11,"With Shinja's mercenaries out of the way, he has nowhere left to run. If we destroy his Keep to the North and defeat him, our hunt will end. He's still loyal to my family, so if I live through this battle he'll most certainly join us.",信蛇的雇佣兵已被清除，他无处可逃了。只要摧毁北面的要塞并打败他，这场追捕就结束了。他仍忠于我的家族，只要我在此战中活下来，他一定会加入我们。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Goals.lte,12,"Shinja's mercenaries again...this rabble should fall easily. If I kill them all, this province will join my cause. If I survive, the Clan will grow.",又是信蛇的雇佣兵……这群乌合之众应该不难对付。杀光他们，本省便会归附我。只要我活下来，氏族就能壮大。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Goals.lte,13,"Shinja has always had a talent for escape, but we've cornered him now - that snake doesn't have anywhere else to run. If we defeat him in battle, I can surely sway him to our cause. I must survive if we're to enlist his aid.",信蛇一向擅长逃脱，但现在我们把他逼入了绝境——那条蛇再也无处可逃。只要在战斗中打败他，我一定能劝他加入我们。若要得到他的帮助，我必须活下来。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
@@ -4036,7 +4047,7 @@ Text\ENG\WOTW_Goals.lte,52,"The Lotus are shaping up to be quite the adversary. 
 Text\ENG\WOTW_Goals.lte,60,"I never remembered this province being so desolate. I know we're getting close, and it's not because of the smell of burning flesh. The Dragon is here, waiting for me at the spire...I just know it. I must meet with him - perhaps his power is the key to ending this war.",我记忆中的这个省份从未如此荒凉。我知道我们已经接近目标，但这不是因为烧焦血肉的气味。龙就在这里，在尖塔等着我……我确信如此。我必须见到他——也许他的力量正是结束这场战争的关键。,初译待游戏内校验,同源异译审校：not because 是否定气味为依据，原译“不只是因为”改变了逻辑。
 Text\ENG\WOTW_Goals.lte,61,"The Dragon has issued a challenge - I must brave the gauntlet of the Dragon's Spire and meet it at the mountain's summit. This trial is sure to be difficult, but if I survive I'll have the Dragon's favor.",龙向我发出了挑战——我必须闯过龙之尖塔的重重考验，在山顶与它相见。试炼肯定艰险，但只要活下来，我便能得到龙的眷顾。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,70,Betrayed! I should have seen this coming. There's a village to the East which can provide us with supplies and a work force. If we gain their support we should have no problem wiping out the Lotus and returning to Serpentholm and punishing those responsible.,遭到背叛！我早该料到的。东面有座村庄，能为我们提供补给和人手。只要赢得他们的支持，我们就能扫平莲花族，返回灵蛇城，惩罚那些幕后元凶。,初译待游戏内校验,Serpentholm 暂译灵蛇城，待世界观专名统一。
-Text\ENG\WOTW_Goals.lte,80,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。Otomo，信蛇要为他对你做的一切付出代价！ ,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
+Text\ENG\WOTW_Goals.lte,80,"The traitor Shinja must be defeated! He's resurrected the old Serpent guard, built himself a fine Keep and allied himself with the Lotus - all must fall. Shinja will pay for what he did to you, Otomo! ",必须打败叛徒信蛇！他重建了旧灵蛇卫队，修起一座像样的要塞，还与莲花族结盟——这些都必须摧毁。大友，信蛇要为他对你做的一切付出代价！ ,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,90,"The Ninja are bound by the mysterious Soul Flame...if we destroy its pedestal to extinguish the flame, they'll be bound to us. We're not prepared to build a town here, so we must use our forces carefully.",忍者受到神秘魂火的束缚……只要摧毁底座、熄灭火焰，他们就会受我们驱使。我们无法在这里建造城镇，因此必须谨慎运用现有兵力。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,100,"The Lotus have allied with the Ninja and would prevent me from allying with the Monks. If we destroy the Lotus outpost and weather the Ninja's attacks we will be victorious, provided that the Monastery is still standing.",莲花族与忍者结盟，阻止我争取僧侣。只要摧毁莲花族的前哨，抵御忍者的进攻，并确保寺院仍然屹立，我们就能获胜。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,110,This is the last province before we arrive on the Lotus home plateau. Obliterating the Lotus here is the only option.,这是抵达莲花族故乡高原前的最后一个省份。除了在这里消灭莲花族，我们别无选择。,初译待游戏内校验,
@@ -4045,12 +4056,12 @@ Text\ENG\WOTW_Goals.lte,121,"The Horde, the Dragon Clan's legendary foe, still l
 Text\ENG\WOTW_Goals.lte,1000,"These Peasants need to learn their place and serve as an example to others that might rebel. If I kill them all and survive the encounter, the Serpent Clan will live on. ",这些农民得学会自己的本分，也该给其他可能反抗的人做个榜样。只要杀光他们，并在这场交战中活下来，灵蛇族就能延续下去。 ,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1010,"Shinja was always a little too headstrong for his own good. If I tear down his keep and I survive, surely he'll come to his senses and join me.",信蛇一向倔得对自己都没好处。只要拆了他的要塞，而我还能活下来，他一定会清醒过来，加入我。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Goals.lte,1011,"A good general always has an escape route ready, and Shinja is certainly a good general. Fortunately, we've cornered him here. If we tear down his keep, defeat him in combat and I'm alive after it all, he'll have no choice but to join me...or die.",好将领总会给自己留条退路，信蛇无疑是个好将领。幸好我们已把他逼入绝境。只要拆掉他的要塞，在战斗中击败他，而我最后也活着，他就别无选择，只能加入我……或者死。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
-Text\ENG\WOTW_Goals.lte,1012,"Poor Otomo, fighting his never-ending battle for what is ""right."" Well, that ends today - if we defeat all of his hired mercenaries and confront him, surely he'll join me and help rebuild the Serpent empire. Slaughtering these weaklings should be amusing, but I mustn't get get carried away and lose my life.",可怜的 Otomo，永远在为他所谓的“正义”而战。今天就让这一切结束吧——只要击败他雇来的所有佣兵，与他当面对质，他一定会加入我，协助重建灵蛇帝国。屠杀这些弱者想必很有趣，但我不能太得意忘形，把命也丢了。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,1013,"Shinja has nowhere to run - if we defeat him, surely he'll come to his senses and service the Serpent Clan once again. Shinja and Otomo have always fought, so I'll have to stay alive to keep them in their places.",信蛇已无路可逃——只要击败他，他一定会清醒过来，重新效忠灵蛇族。信蛇和 Otomo 一直不和，所以我必须活着，才能管住他们。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
+Text\ENG\WOTW_Goals.lte,1012,"Poor Otomo, fighting his never-ending battle for what is ""right."" Well, that ends today - if we defeat all of his hired mercenaries and confront him, surely he'll join me and help rebuild the Serpent empire. Slaughtering these weaklings should be amusing, but I mustn't get get carried away and lose my life.",可怜的大友，永远在为他所谓的“正义”而战。今天就让这一切结束吧——只要击败他雇来的所有佣兵，与他当面对质，他一定会加入我，协助重建灵蛇帝国。屠杀这些弱者想必很有趣，但我不能太得意忘形，把命也丢了。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\WOTW_Goals.lte,1013,"Shinja has nowhere to run - if we defeat him, surely he'll come to his senses and service the Serpent Clan once again. Shinja and Otomo have always fought, so I'll have to stay alive to keep them in their places.",信蛇已无路可逃——只要击败他，他一定会清醒过来，重新效忠灵蛇族。信蛇和大友一直不和，所以我必须活着，才能管住他们。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,1020,"I used to respect the Wolf Clan, but now they're starting to annoy me. If we destroy their town and kill all of them, they should think twice before interfering with the Serpent Clan again. It's imperative that I stay alive if we're to reclaim the Orb from the Geisha.",我过去尊敬恶狼族，可如今他们越来越让我厌烦。只要摧毁他们的城镇，杀光他们，他们下次干涉灵蛇族之前就该三思了。若要从艺妓手中夺回宝珠，我必须活下来。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1024,"There are two towns here just waiting to submit. I expect a scuffle with the Wolf Clan, but a display of power is the only way we'll win this province over. I need to survive if we're to get anywhere with the Swan's Pool Geisha.",这里有两座城镇，正等着向我们臣服。我预计会与恶狼族发生冲突，但只有展示实力，才能赢得本省。我得活下来，才有机会从天鹅池的艺妓那里取得宝珠。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1025,"It's time Garrin's ""sense of justice"" got the better of him. If we crush his town and kill him, that should be just the kind of example we need to sway this province to our side.",该让 Garrin 的“正义感”害了他自己了。摧毁他的城镇，杀死他，正好可以杀鸡儆猴，让本省归附我们。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,1027,"I'm not sure why Father trusted the Lotus, but we're all paying for it now. If we kill them and crush all of their buildings we can move on. The Geisha won't trust Shinja or Otomo, so I'll have to survive this encounter if we're to gain their support.",我不明白父亲为何信任莲花族，如今我们都在为此付出代价。杀光他们，夷平所有建筑，我们就能继续前进。艺妓不会信任信蛇或 Otomo，所以若要争取她们的支持，我必须在这场战斗中活下来。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
+Text\ENG\WOTW_Goals.lte,1027,"I'm not sure why Father trusted the Lotus, but we're all paying for it now. If we kill them and crush all of their buildings we can move on. The Geisha won't trust Shinja or Otomo, so I'll have to survive this encounter if we're to gain their support.",我不明白父亲为何信任莲花族，如今我们都在为此付出代价。杀光他们，夷平所有建筑，我们就能继续前进。艺妓不会信任信蛇或大友，所以若要争取她们的支持，我必须在这场战斗中活下来。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,1030,"The Swan's Pool Geisha need protection yet again - if we're to get the Orb from them, we'll need to protect them from the Lotus onslaught and earn their trust.",天鹅池的艺妓又需要保护了——若要从她们手中取得宝珠，就必须挡住莲花族的进攻，赢得她们信任。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1040,"These flea-bitten miners make such terrible use of their freedom. If we destroy their towns and kill the rabble, surely they'll take note of the Serpent's power.",这些满身跳蚤的矿工，把自由糟蹋得一塌糊涂。摧毁他们的城镇，杀光那些乌合之众，他们就该知道灵蛇族有多强大了。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1050,The Lotus and their feeble tricks sicken me - kill them all and raze their towns and we can move on to Serpentholm.,莲花族那些软弱的伎俩令我作呕——杀光他们，夷平城镇，我们就能继续前往灵蛇城。,初译待游戏内校验,Serpentholm 暂译灵蛇城。
@@ -4059,22 +4070,22 @@ Text\ENG\WOTW_Goals.lte,1070,"The Wolf Clan have moved to the forefront of our b
 Text\ENG\WOTW_Goals.lte,1071,"This farce has gone on long enough. If we destroy their three shale mines and their place of magic, the Cairn, we can break the back of the Wolf Clan resistance. We can now build a Keep to house our Zen Masters, so the clan can press on if I am injured.",这场闹剧该结束了。只要摧毁他们的三座页岩矿井，以及那座施法之所——石冢，就能瓦解恶狼族的抵抗。现在我们能建造要塞供禅师驻守，即使我负伤，氏族也能继续前进。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1075,"The Lotus's original treachery took place in this decrepit province, and it will be their final resting place - leave no man or building standing! We can now build a Keep to house our Zen Masters, so the clan can press on if I am injured.",莲花族最初的背叛就发生在这个破败省份，这里也将成为他们最后的葬身之地——一个人、一座建筑都不要留下！现在我们能建造要塞供禅师驻守，即使我负伤，氏族也能继续前进。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1080,"I'm not the superstitious type, but something is wrong here. This area was said to be home to a benevolent Dragon, but something...darker is here now. My gaze is continually drawn to the top of the spire, and I believe I'll find some answers there. I must survive.",我不是迷信的人，但这里有些不对劲。据说这一带曾有一条仁慈的龙，如今却出现了某种……更黑暗的东西。我的目光总不由自主地投向尖塔顶端，我相信答案就在那里。我必须活下来。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,1090,"This Necromancer will be a powerful ally, indeed - enemies that die in his presence are immediately recruited to our service as undead warriors. We have no peasants to build a town, but the Necromancer's powers should suffice to wipe out Otomo's pitiful rebels.",这名死灵法师将是一位强大的盟友——在他身边死去的敌人会立刻变成亡灵战士，为我们效力。我们没有农民建造城镇，但凭他的力量，应该足以消灭 Otomo 那群可怜的叛军。,初译待游戏内校验,Necromancer 沿用术语基线死灵法师。
-Text\ENG\WOTW_Goals.lte,1095,"The traitor Otomo must die, as must his pathetic Wolf allies. Otomo is nowhere to be seen now, but he is sure to emerge if we slay enough of his friends.",叛徒 Otomo 必须死，他那些可悲的恶狼族盟友也一样。现在还看不到 Otomo，但只要杀够他的朋友，他一定会现身。,初译待游戏内校验,
+Text\ENG\WOTW_Goals.lte,1090,"This Necromancer will be a powerful ally, indeed - enemies that die in his presence are immediately recruited to our service as undead warriors. We have no peasants to build a town, but the Necromancer's powers should suffice to wipe out Otomo's pitiful rebels.",这名死灵法师将是一位强大的盟友——在他身边死去的敌人会立刻变成亡灵战士，为我们效力。我们没有农民建造城镇，但凭他的力量，应该足以消灭大友那群可怜的叛军。,已确认专名离线修订，待实机验证,Necromancer 沿用术语基线死灵法师。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\WOTW_Goals.lte,1095,"The traitor Otomo must die, as must his pathetic Wolf allies. Otomo is nowhere to be seen now, but he is sure to emerge if we slay enough of his friends.",叛徒大友必须死，他那些可悲的恶狼族盟友也一样。现在还看不到大友，但只要杀够他的朋友，他一定会现身。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,1100,"So the Wolf want to enlist the Ninja's aid, do they? If we protect the Soul Flame from the Wolf the Ninja should join us instead. Or...we could probably catch the Ninja unprepared and destroy the Soul Flame first...",恶狼族想争取忍者相助，是吗？只要保护魂火，不让恶狼族毁掉它，忍者应该会转而加入我们。或者……我们也许能趁忍者没有防备，先摧毁魂火……,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1101,"With the Ninja on our side, it's time we eradicated the remaining Wolf forces.",忍者已站到我们这边，现在该消灭恶狼族剩下的部队了。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,1150,"These petulant Monks just don't know when to stop. If we demolish their precious monastery, we should have no trouble crushing their spirits and ""convincing"" them to join our cause. We can't build a town, but our starting forces should be adequate.",这些任性的僧侣真是不知适可而止。只要拆掉他们珍爱的寺院，打垮他们的斗志，“说服”他们加入我们就不难了。我们无法建造城镇，但初始兵力应该足够。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,1201,This one province stands between me and Grayback. Liquidate the Wolf forces here and we'll be on our way.,只剩这一个省份挡在我与 Grayback 之间。清除这里的恶狼族部队，我们就能继续上路。,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,1301,The rebel Grayback is breathing his last breaths. Attacking his forces should draw him from the Keep. If we kill him the pathetic Wolf Clan will dissolve and we can recover the Serpent's Orb at long last.,叛军 Grayback 已是强弩之末。攻击他的部队，应该能把他从要塞引出来。只要杀了他，可悲的恶狼族便会瓦解，我们终于能夺回巨蛇宝珠。,初译待游戏内校验,
+Text\ENG\WOTW_Goals.lte,1201,This one province stands between me and Grayback. Liquidate the Wolf forces here and we'll be on our way.,只剩这一个省份挡在我与灰背之间。清除这里的恶狼族部队，我们就能继续上路。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
+Text\ENG\WOTW_Goals.lte,1301,The rebel Grayback is breathing his last breaths. Attacking his forces should draw him from the Keep. If we kill him the pathetic Wolf Clan will dissolve and we can recover the Serpent's Orb at long last.,叛军灰背已是强弩之末。攻击他的部队，应该能把他从要塞引出来。只要杀了他，可悲的恶狼族便会瓦解，我们终于能夺回巨蛇宝珠。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,1302,"If we fight this abominable swarm of Hordelings their leader is sure to appear. Once this ""Nightvol"" reveals itself, we must kill it to complete our subjugation of this land.",只要与这群可憎的 Hordelings 交战，他们的首领一定会出现。等那个“Nightvol”现身，我们必须杀死它，才能完成对这片土地的征服。,初译待游戏内校验,Hordelings 与 Nightvol 均暂留英文，需统一专名。
-Text\ENG\WOTW_Goals.lte,2010,"Our cruel taskmaster, Budo, has refused to feed his workers for many days. We must not let him starve us, or we won't have the strength to rebel against our masters! Budo claims he'll give us a sack of rice if we break some shale for him. We'll see if he lives up to his promises.",残酷的监工 武堂 已多日不肯给工人食物。不能让他把我们饿垮，否则我们就没有力气反抗主人！武堂 声称，只要替他凿下一些页岩，就给我们一袋稻米。且看他是否守信。,初译待游戏内校验,
+Text\ENG\WOTW_Goals.lte,2010,"Our cruel taskmaster, Budo, has refused to feed his workers for many days. We must not let him starve us, or we won't have the strength to rebel against our masters! Budo claims he'll give us a sack of rice if we break some shale for him. We'll see if he lives up to his promises.",残酷的监工武堂已多日不肯给工人食物。不能让他把我们饿垮，否则我们就没有力气反抗主人！武堂声称，只要替他凿下一些页岩，就给我们一袋稻米。且看他是否守信。,局部排版审校，待游戏内验证, | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Goals.lte,2020,"I had hoped to plan out our liberation more than this, but my hand has been forced; the time is now. We'll start our rebellion by freeing all of the slaves in this part of the mines. ",我原想更周密地筹划解放行动，可形势逼得我不得不动手——就是现在。先救出矿井这一带的所有奴隶，揭开反抗的序幕。 ,初译待游戏内校验,
-Text\ENG\WOTW_Goals.lte,2021,"Budo set us up, and now we're the target of Yvaine's limitless ire. This certainly complicates things - escaping from the deep mines will not be easy. All of this must wait, though...I'd best break down this shale pile before Yvaine changes her mind and kills us.",武堂 设下圈套，如今我们成了 Yvaine 怒火的目标。事情麻烦了——要从深矿里逃出去可不容易。不过这些都得先放一边……我最好赶在 Yvaine 改变主意、杀死我们之前，打碎这堆页岩。,初译待游戏内校验,
+Text\ENG\WOTW_Goals.lte,2021,"Budo set us up, and now we're the target of Yvaine's limitless ire. This certainly complicates things - escaping from the deep mines will not be easy. All of this must wait, though...I'd best break down this shale pile before Yvaine changes her mind and kills us.",武堂设下圈套，如今我们成了 Yvaine 怒火的目标。事情麻烦了——要从深矿里逃出去可不容易。不过这些都得先放一边……我最好赶在 Yvaine 改变主意、杀死我们之前，打碎这堆页岩。,局部排版审校，待游戏内验证, | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Goals.lte,2030,"It's good to have Longtooth at my side again - we'll need his strength as we fight for liberation. Magic barriers and other obstacles stand in our way, but we must reach the other side of this part of the mines. The air is cleaner here and there's a faint smell of trees...freedom is near!",Longtooth 再次与我并肩，真好——争取自由少不了他的力量。魔法屏障和其他障碍挡着路，但我们必须抵达这片矿井的另一侧。这里的空气更清新，还隐隐有树木的气息……自由近在眼前！,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,2040,"That witch and her cursed magicks! I've been trapped here, alone...at least my men escaped safely. There's another exit around here somewhere, so it's just a matter of finding it. I've never been in this part of the mines before, but if Yvaine's here I expect she'll be attended by plenty of Lotus warriors. I'm sure there are more slaves nearby, and I'll need their help if I'm to succeed.",那个女巫，还有她该死的魔法！我被独自困在这里……至少我的手下安全逃了出去。附近一定还有另一个出口，只要找到它就行。我从没来过矿井的这一带，不过既然 Yvaine 在这里，莲花族战士肯定少不了。附近应该还有更多奴隶；若要成功，我需要他们的帮助。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,2050,"I've escaped from the mines, much to the relief of my fellow Wolves. Just in time, too - we're under attack by Lotus troops! Fortunately, Longtooth is waiting nearby with reinforcements. If our Pitch Slinger signals from the tower above, Longtooth will see his flames and join forces with us. Then we can take the fight to Yvaine herself...",我终于逃出了矿井，同胞们也松了口气。真是及时——莲花族部队正向我们进攻！幸好 Longtooth 带着援军在附近待命。只要我们的沥青投掷手从上方塔楼发信号，Longtooth 就会看到火光，加入我们。接下来，就能主动迎战 Yvaine 了……,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,2060,"The snow continues unabated. Even Gaihla's Sanctuary, known for its hot springs, has frozen over. Utara and her Witches are attacking Gaihla's Druidesses and Dryads. We must protect Gaihla's people and defeat Utara, or all is lost - we can set up a town on the western terrace.",大雪仍下个不停。以温泉闻名的 Gaihla 圣地也已冰封。Utara 和她的女巫正在攻击 Gaihla 的女祭师与 Dryad。我们必须保护 Gaihla 的人，击败 Utara，否则就全完了——西面的台地可以建造城镇。,初译待游戏内校验,Dryad 属新增单位，暂留英文。
-Text\ENG\WOTW_Goals.lte,2070,"We must hold out until Grayback returns. This invisible laboratory must be hiding Gaihla. With just the two of us, though, things are going to be tricky. If we push boulders and destroy enough buildings, surely the commotion will delay the town's disappearance.",我们必须坚持到 Grayback 回来。Gaihla 一定被藏在那座隐形实验室里。可我们只有两个人，事情会很棘手。只要推动巨石并摧毁足够多的建筑，造成的骚动应该能拖延城镇消失。,初译待游戏内校验,
+Text\ENG\WOTW_Goals.lte,2070,"We must hold out until Grayback returns. This invisible laboratory must be hiding Gaihla. With just the two of us, though, things are going to be tricky. If we push boulders and destroy enough buildings, surely the commotion will delay the town's disappearance.",我们必须坚持到灰背回来。Gaihla 一定被藏在那座隐形实验室里。可我们只有两个人，事情会很棘手。只要推动巨石并摧毁足够多的建筑，造成的骚动应该能拖延城镇消失。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Goals.lte,2071,"Wildeye has done well, but I hope that we're not too late. Gaihla is trapped inside that abominable laboratory, and it's up to us to tear it down and remove her from its twisted confines.",Wildeye 干得不错，但愿我们还不算太迟。Gaihla 被困在那座可憎的实验室里，我们得把它拆了，让她离开那个扭曲的牢笼。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,2080,"After her ordeal in Soban's Laboratory and the long trek through the blizzard, Gaihla is in bad shape. There's an abandoned monastery to the west where she can rest safely. We'll take shelter in the monastery until she recovers, and then press on towards Yvaine's stronghold. Be wary...Wildeye suspects a trap.",经历 Soban 实验室的折磨，又在暴风雪中长途跋涉，Gaihla 的状况很差。西边有座废弃寺院，她可以在那里安全休息。我们会留在寺院，等她恢复后再向 Yvaine 的据点进发。要小心……Wildeye 怀疑这是个陷阱。,初译待游戏内校验,
 Text\ENG\WOTW_Goals.lte,2081,"At the monastery, we met a half-monk, half-ninja named Tao. He spoke strangely, but I don't think he's any crazier than Wildeye - for what that's worth! Tao claims that if we defeat the sorcerors Issyl and Koril, we'll be able to walk right through Yvaine's magical barriers. We may as well trust him. After all, what choice do we have?",我们在寺院遇到一个半僧侣、半忍者的人，名叫 Tao。他说话古怪，不过要我说，他未必比 Wildeye 更疯——这话分量也有限！Tao 声称，只要击败巫师 Issyl 和 Koril，我们就能直接穿过 Yvaine 的魔法屏障。不妨信他一次。毕竟，我们还有别的选择吗？,初译待游戏内校验,
@@ -4242,12 +4253,12 @@ Text\ENG\WOTW_Levels.lte,1300,Watery Grave,水中坟墓,初译待审,资料片�
 Text\ENG\WOTW_Levels.lte,1310,Winter Cataclysm,冬日浩劫,初译待审,资料片地图名初译待审
 Text\ENG\WOTW_Loadscreen_Quotes.lte,0,"Seven years away from the land had changed him.  When he spoke, he was always heard, and where he walked, the people followed.",离开这片土地的七年改变了他。他一开口，众人便倾听；他走到哪里，人们便追随到哪里。,初译待审,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1,"-- ""The Dragon's Return,"" from ""Serpent's Skin: A History of the Clan""",——《龙之归来》，摘自《蛇之皮：氏族史》,初译待游戏内校验,书名暂译，属引语出处而非官方书名。
-Text\ENG\WOTW_Loadscreen_Quotes.lte,10,"You would be more useful to me, Otomo, if you were a callous man.",Otomo，要是你心肠再硬一些，对我会更有用。,初译待审,
+Text\ENG\WOTW_Loadscreen_Quotes.lte,10,"You would be more useful to me, Otomo, if you were a callous man.",大友，要是你心肠再硬一些，对我会更有用。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,11,-- Lord Oja,——Oja 大人,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,20,Bow to that child?  Never!,要我向那个孩子低头？绝不！,初译待审,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,21,"-- Shinja, Captain of the Serpent Guard",——灵蛇卫队队长信蛇,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Loadscreen_Quotes.lte,30,"Ours is a fertile land, rich and good.  The Serpent Clan is truly blessed.",我们的土地肥沃富饶。灵蛇族真是得天独厚。,初译待审,阵营译名按用户决定统一
-Text\ENG\WOTW_Loadscreen_Quotes.lte,31,-- Otomo,——Otomo,初译待游戏内校验,
+Text\ENG\WOTW_Loadscreen_Quotes.lte,31,-- Otomo,——大友,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,40,"Servant, master, then servant again - ah, well, it is the way of things.",先为仆，再为主，转眼又成仆人——唉，世事就是如此。,初译待审,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,41,-- Shinja,——信蛇,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Loadscreen_Quotes.lte,50,Heavens - that man's dead!  Doesn't this game have any rules?,天哪，那个人死了！这比赛难道没有规则吗？,初译待审,
@@ -4261,7 +4272,7 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,81,-- Shinja,——信蛇,已确认专名离
 Text\ENG\WOTW_Loadscreen_Quotes.lte,90,"Drinking, dancing, and the sweet lovelies at the Swan's Pool - what more to life is there?",美酒、歌舞，还有天鹅池的可人儿——人生还有什么可求的？,初译待审,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,91,-- Kazan,——Kazan,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,100,"Stay clear of the Dragon's Spire, boys.  There's nothing but death up there.",小子们，离龙之尖塔远点。那上面只有死路一条。,初译待审,
-Text\ENG\WOTW_Loadscreen_Quotes.lte,101,"-- Grayback, Lord of the Wolf Clan",——恶狼族领袖 Grayback,初译待游戏内校验,
+Text\ENG\WOTW_Loadscreen_Quotes.lte,101,"-- Grayback, Lord of the Wolf Clan",——恶狼族领袖灰背,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,110,"That plateau, next to the river - it's there we'll build Serpentholm.",河边的那片高地——我们就在那儿建立蛇族城。,初译待审,Serpentholm 暂作意译，专名待统一。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,111,-- Tarrant the Younger,——小 Tarrant,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,120,"The Wolf made poor slaves, as the Lotus quickly discovered - they were far too inquisitive.",莲花族很快发现，恶狼族不适合做奴隶——他们太爱刨根问底了。,初译待审,已确认氏族名称；引语上下文指氏族而非动物或地名。
@@ -4272,7 +4283,7 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,140,"Delicate, frail, ever servile and fawni
 Text\ENG\WOTW_Loadscreen_Quotes.lte,141,"-- ""The Wizards,"" from ""Serpent's Skin""",——《巫师》，摘自《蛇之皮》,初译待游戏内校验,出处原文逗号位置与另一条不同，译文统一。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,150,"If the Tree willed it, I would spend a lifetime serving my betters.  Fortunately, I have no betters.",如果圣树有意，我愿终生侍奉地位高于我的人。幸好，没人比我地位更高。,初译待审,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,151,"-- Zymeth, Grand Wizard",——大巫师 Zymeth,初译待游戏内校验,
-Text\ENG\WOTW_Loadscreen_Quotes.lte,160,"Be careful what you say to me, Otomo, or you might wake the Dragon.",Otomo，跟我说话小心些，否则你可能会唤醒龙。,初译待审,
+Text\ENG\WOTW_Loadscreen_Quotes.lte,160,"Be careful what you say to me, Otomo, or you might wake the Dragon.",大友，跟我说话小心些，否则你可能会唤醒龙。,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,161,-- Lord Oja,——Oja 大人,初译待游戏内校验,相同英文引语复用已核对译文。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,170,The cowards and weaklings are all gone now.,胆小鬼和弱者如今都走光了。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,171,-- Shinja,——信蛇,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-11 确认健治/信蛇
@@ -4291,7 +4302,7 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,1011,-- Lord Oja,——Oja 大人,初译待�
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1020,"Prove yourself, Serpent's Son.",证明自己的本事，灵蛇之子。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1021,"-- Shinja, Captain of the Serpent Guard",——灵蛇卫队队长信蛇,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1030,"Ours is a fertile land, rich and good.  The Serpent Clan is truly blessed.",我们的土地肥沃富饶。灵蛇族真是得天独厚。,初译待游戏内校验,相同英文引语复用已核对译文。
-Text\ENG\WOTW_Loadscreen_Quotes.lte,1031,-- Otomo,——Otomo,初译待游戏内校验,相同英文引语复用已核对译文。
+Text\ENG\WOTW_Loadscreen_Quotes.lte,1031,-- Otomo,——大友,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1040,"Servant, master, then servant again - ah, well, it is the way of things.",先为仆，再为主，转眼又成仆人——唉，世事就是如此。,初译待游戏内校验,相同英文引语复用已核对译文。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1041,-- Shinja,——信蛇,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1050,I want nothing to do with those Wolf brutes.,我不想和那些恶狼族蛮子有任何瓜葛。,初译待游戏内校验,
@@ -4305,7 +4316,7 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,1081,-- Shinja,——信蛇,已确认专名�
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1090,The art of conversation is not easily mastered by men.,谈话的艺术可不是男人轻易就能掌握的。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1091,-- Geisha saying,——艺妓的俗语,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1110,"Castles, horses, and steel - the Serpent's strength!",城堡、骏马和钢铁——灵蛇族的力量！,初译待游戏内校验,
-Text\ENG\WOTW_Loadscreen_Quotes.lte,1111,-- Otomo,——Otomo,初译待游戏内校验,相同英文引语复用已核对译文。
+Text\ENG\WOTW_Loadscreen_Quotes.lte,1111,-- Otomo,——大友,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1120,"The Wolf made poor slaves, as the Lotus quickly discovered - they were far too inquisitive.",莲花族很快发现，恶狼族不适合做奴隶——他们太爱刨根问底了。,初译待游戏内校验,相同英文引语复用已核对译文。；已确认氏族名称；引语上下文指氏族而非动物或地名。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1121,"""The Miners,"" from ""Serpent's Skin""",《矿工》，摘自《蛇之皮》,初译待游戏内校验,相同英文引语复用已核对译文。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1130,"If our god needed all these pretty stones, why did he bury them so deep?",如果我们的神需要这些漂亮石头，为什么把它们埋得这么深？,初译待游戏内校验,相同英文引语复用已核对译文。
@@ -4313,11 +4324,11 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,1131,-- Wolf Miner saying,——恶狼族矿
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1140,Tarrant broke the world because he was afraid.  I will build the Great Fleet because I am not.,Tarrant 因为恐惧而毁了世界。我要建造大舰队，因为我无所畏惧。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1141,-- Lord Oja,——Oja 大人,初译待游戏内校验,相同英文引语复用已核对译文。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1150,"The Serpent have the valley, and the Lotus have the high plateau.  Are we less deserving?  Grant us lands of our own!",灵蛇族有河谷，莲花族有高原。难道我们就不配拥有土地吗？给我们自己的领地！,初译待游戏内校验,
-Text\ENG\WOTW_Loadscreen_Quotes.lte,1151,-- Grayback,——Grayback,初译待游戏内校验,
+Text\ENG\WOTW_Loadscreen_Quotes.lte,1151,-- Grayback,——灰背,已确认专名离线修订，待实机验证, | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1160,I can afford to be patient.  You'll all come to me in the end.,我等得起。你们终究都会来找我。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1161,-- The Necromancer,——死灵法师,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1170,Better no clan at all than the clan Kenji wants!,宁可没有氏族，也不要健治想要的那种氏族！,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
-Text\ENG\WOTW_Loadscreen_Quotes.lte,1171,-- Otomo,——Otomo,初译待游戏内校验,相同英文引语复用已核对译文。
+Text\ENG\WOTW_Loadscreen_Quotes.lte,1171,-- Otomo,——大友,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1180,He was his father reborn.,他宛如父亲再世。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1181,"-- ""The Serpent's Return,"" from Serpent's Skin",——《灵蛇归来》，摘自《蛇之皮》,初译待游戏内校验,此处原文为 Serpent’s Return，与 Dragon’s Return 不同，暂分别翻译。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1190,Wretched monks and their cursed war - such a mess!  What I wouldn't give to be rid of them!,可恶的僧侣，还有他们那场该死的战争——真是一团糟！要是能摆脱他们，我什么都愿意付出！,初译待游戏内校验,相同英文引语复用已核对译文。
@@ -4327,7 +4338,7 @@ Text\ENG\WOTW_Loadscreen_Quotes.lte,1201,-- Lord Oja,——Oja 大人,初译待�
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1210,"Playful yet hard-working, they were a proud people - far too proud to serve any master for long.",他们爱玩闹，也肯勤劳做事，是个骄傲的民族——骄傲到不可能长久侍奉任何主人。,初译待游戏内校验,
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1211,"-- ""The Miners,"" from Serpent's Skin",——《矿工》，摘自《蛇之皮》,初译待游戏内校验,出处原文逗号位置与另一条不同，译文统一。
 Text\ENG\WOTW_Loadscreen_Quotes.lte,1220,"To arms, brothers!  We'll not be slaves to the Serpent again!",兄弟们，拿起武器！我们再也不要做灵蛇族的奴隶！,初译待游戏内校验,
-Text\ENG\WOTW_Loadscreen_Quotes.lte,1221,-- Grayback,——Grayback,初译待游戏内校验,相同英文引语复用已核对译文。
+Text\ENG\WOTW_Loadscreen_Quotes.lte,1221,-- Grayback,——灰背,已确认专名离线修订，待实机验证,相同英文引语复用已核对译文。 | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Overmap_Tooltips.lte,0,Enlist Shinja's aid by attacking his keep and defeating him in battle.,攻击信蛇的要塞并在战斗中击败他，赢得他的协助。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Overmap_Tooltips.lte,10,Free the province from Shinja's mercenary thugs.,击败信蛇的雇佣兵，解放这片行省。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Overmap_Tooltips.lte,20,The woefully underprepared Wolf Clan has driven the local farmers out. Rout them to clear the road to the north and meet the Geisha.,准备不足的恶狼族已经赶走当地农民。击溃他们，打通北上的道路，与艺妓会合。,初译待审,资料片路线说明初译；地名与术士称呼待游戏内审校
@@ -4339,7 +4350,7 @@ Text\ENG\WOTW_Overmap_Tooltips.lte,70,The scheming Lotus plot something here. Di
 Text\ENG\WOTW_Overmap_Tooltips.lte,80,Confront the mercenary Ninja and obtain their services before attacking the Lotus.,先与雇佣忍者交涉并获得他们的效力，再进攻莲花族。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Overmap_Tooltips.lte,90,Reestablish contact with the Monks and enlist their aid to defeat the Lotus menace.,重新联系僧侣，争取他们的协助，击败莲花族的威胁。,初译待审,UI/message draft; exact source key
 Text\ENG\WOTW_Overmap_Tooltips.lte,100,Attack Shinja's Keep to wrest this province from his grip and place it in your own.,进攻信蛇的要塞，从他手中夺取这片行省。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-11 确认健治/信蛇
-Text\ENG\WOTW_Overmap_Tooltips.lte,110,Defeat Otomo's hired archers and raze the village to claim the province for your own.,击败 Otomo 雇用的弓箭手，夷平村庄，夺取这片行省。,初译待审,UI/message draft; exact source key
+Text\ENG\WOTW_Overmap_Tooltips.lte,110,Defeat Otomo's hired archers and raze the village to claim the province for your own.,击败大友雇用的弓箭手，夷平村庄，夺取这片行省。,已确认专名离线修订，待实机验证,UI/message draft; exact source key | 2026-10-12 已确认 Otomo=大友、Grayback=灰背；原英文键不变。
 Text\ENG\WOTW_Overmap_Tooltips.lte,120,Crush the Wolf Clan forces that have taken residence in this province. ,消灭盘踞在这片行省的恶狼族部队。 ,初译待审,UI/message draft; exact source key；保留原文边缘空格供拼接。
 Text\ENG\WOTW_Overmap_Tooltips.lte,130,"A mercenary trade town that services both the Wolf and Lotus. This is the most direct route, but perhaps the most difficult.",这座佣兵贸易城镇为恶狼族和莲花族双方提供服务。这条路最直接，却也可能最难走。,初译待审,资料片路线说明初译；地名与术士称呼待游戏内审校
 Text\ENG\WOTW_Overmap_Tooltips.lte,140,"Lotus Warlocks have enslaved the locals, but the cover of forest should help us obliterate them and reclaim the peasants.",莲花族术士奴役了当地人，但森林的掩护应能帮助我们消灭他们，解救农民。,初译待审,资料片路线说明初译；地名与术士称呼待游戏内审校

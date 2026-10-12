@@ -42,7 +42,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry43,210,Run!  Shinja's men are coming!,�
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,220,Do what you will.,随你怎么做。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,230,He goes to take the ancestral keep from the false Serpent.,他要从那个假灵蛇手里夺回祖先的要塞。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,240,The Wolf clan marches to join him.,恶狼族正在进军，与他会合。,draft; campaign v28; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,250,I would die a hundred deaths for Otomo!,为了 Otomo，我死一百次也愿意！,draft; v29 exact wording; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,250,I would die a hundred deaths for Otomo!,为了大友，我死一百次也愿意！,已确认专名离线修订，待实机验证
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,260,"Please, help us!",求你救救我们！,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,270,Lord Shinja has taken all our horses!,信蛇大人把我们的马全带走了！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,280,"Without them, we'll starve when winter comes!",没了马匹，冬天一来我们就会饿死！,draft; campaign v28; not game-tested
@@ -95,7 +95,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,290,"If you want to unselect Kenji, L
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,300,We've arrived.,我们到了。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,310,This was once peaceful Issen village.,这里曾是宁静的 Issen 村。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,320,Do you remember it?,你还记得这里吗？,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,330,"It used to be one of our most beautiful towns, but the Lotus destroyed it five years ago.",它曾是我们最美的村镇之一，但 5 年前被莲花族摧毁了。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,330,"It used to be one of our most beautiful towns, but the Lotus destroyed it five years ago.",它曾是我们最美的村镇之一，但五年前被莲花族摧毁了。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,340,"This Peasant, Sperri, has been waiting for your return.",这位农民叫 Sperri，一直在等你回来。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,350,He's eager to serve you and rebuild his town.,他很想为你效力，重建自己的村庄。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,360,Select him.,选中他。,draft; not game-tested
@@ -384,7 +384,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2810,"My lord, we should act quickly.
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,2820,"My lord, the unit is needed over here.",大人，这里需要那名单位。,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,200,Your dragon is...cryptic.,你的神龙说话真难懂……,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,210,What's that?,那是什么？,draft; Dragon continuation v33; font candidate pending; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry90,220,Otomo!  Who did this?,Otomo！谁干的？,draft; Dragon continuation v33; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,220,Otomo!  Who did this?,大友！谁干的？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,230,Kenji!  Lotus soldiers!,健治！莲花族士兵来了！,draft; name confirmed; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,240,How did they get past Serpentholm?,他们怎么穿过 Serpentholm 的？,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,250,"If we circle around, we can avoid them.",绕过去就能避开他们。,draft; Dragon continuation v33; font candidate pending; not game-tested
@@ -422,7 +422,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what h
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道 Horde 只是灵蛇族日后众多灾祸中的第一个。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",他更不可能知道，失去宝珠的指引，后代会变得软弱而邪恶。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,他真的有过选择吗？,draft; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",好久不见，Otomo。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",好久不见，大友。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,480,Don't call me that.,别那么叫我。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,490,That blade has been my burden for seven years.,这把刀，我已背负了七年。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,500,"If you're so eager to avenge the Serpent, pick it up.",若你真想替巨蛇雪恨，就拿起它。,draft; not game-tested
@@ -448,7 +448,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,690,For now.,暂时如此。,draft; not
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,700,You mean you'll rule.,你的意思是，你要统治他们。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,710,Not the way father fights it.,但不能用父亲那套办法。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,720,There must be a better way.,一定还有更好的办法。,draft; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,730,"I'm not my father, Otomo.",我不是我父亲，Otomo。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,730,"I'm not my father, Otomo.",我不是我父亲，大友。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,740,Not many.,不多。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,750,Does it matter?,那重要吗？,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,760,No.,不。,draft; not game-tested
@@ -548,10 +548,10 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1670,No.,不。,draft; Kenji Serpent br
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1680,The Serpent is dead.,巨蛇死了。,draft; Kenji Serpent branch; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1690,What if I am?,就算我是，又怎样？,draft; Kenji Serpent branch; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1700,Would you betray your lord so casually?,你就这样轻易背叛你的领主？,draft; Kenji Serpent branch; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1710,Shinja and Otomo fight each other?,信蛇和 Otomo 在互相争斗？,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1710,Shinja and Otomo fight each other?,信蛇和大友在互相争斗？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1720,Why do my father's lap dogs tear at the scraps of his empire?,我父亲的手下为何要争抢他帝国剩下的东西？,draft; Kenji Serpent branch; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1730,"True...the peasants are an ill-mannered bunch, in need of schooling.",没错……农民这群人没规矩，得好好教训。,draft; Kenji Serpent branch; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1740,"And Shinja and Otomo are weaklings, not fit to rule.",信蛇和 Otomo 都是弱者，不配统治。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1740,"And Shinja and Otomo are weaklings, not fit to rule.",信蛇和大友都是弱者，不配统治。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1750,Submit or I'll take your head.,臣服，否则我砍下你的头。,draft; Kenji Serpent branch; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1760,You know who I am.,你知道我是谁。,draft; Kenji Serpent branch; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1770,Why did you keep fighting?,你们为什么一直打下去？,draft; Kenji Serpent branch; not game-tested
@@ -604,12 +604,12 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2220,These lands were once loyal to the
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2230,They must be brought back under control.,必须让它们重新服从。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2240,"Shinja, take your men south toward the Dragon's Spire and pacify the villages along the way.",信蛇，带你的人向南前往龙之尖塔，一路平定各村庄。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2250,Burn them to the ground if they resist.,他们要是反抗，就把村子烧光。,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2260,Otomo will follow behind and clean up the surviving rabble.,Otomo 会跟在后面，清理剩下的乌合之众。,draft; Kenji campaign v25; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2260,Otomo will follow behind and clean up the surviving rabble.,大友会跟在后面，清理剩下的乌合之众。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2270,"If they're loyal, they have nothing to fear from me.",只要他们忠诚，就不必怕我。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2280,I kill to make the clan stronger.,我杀人是为了让族人更强大。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2290,I carve away the fat and save the lean.,我除掉无用之人，留下精兵。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2300,I won't tolerate cowards or shirkers.,我不会容忍胆小鬼和不肯出力的人。,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2310,"Which one are you, Otomo?",Otomo，你是哪一种？,draft; Kenji campaign v25; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2310,"Which one are you, Otomo?",大友，你是哪一种？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2320,Then do what I say.,那就照我说的做。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2330,Watch him.,看住他。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2340,"Since the Lotus were beaten at the Swan's Pool, they have lost every battle.",自从莲花族在天鹅池战败，他们就一战接一战地输。,draft; Kenji campaign v25; not game-tested
@@ -621,15 +621,15 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2390,"They would be forced to shift tro
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2400,"Pull, damn you!",用力拉，该死的！,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2410,That's twice now.,这已经是第二次了。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2420,Set an example.,拿他做个例子。,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2430,You're one of Otomo's men.,你是 Otomo 的人。,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2440,By Otomo?,Otomo 干的？,draft; Kenji campaign v25; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2430,You're one of Otomo's men.,你是大友的人。,已确认专名离线修订，待实机验证
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2440,By Otomo?,大友干的？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2450,And Shinja?  Where's Shinja?,信蛇？信蛇在哪里？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2460,To your posts!,各就各位！,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2470,"Otomo, Otomo, Otomo...",Otomo，Otomo，Otomo……,draft; Kenji campaign v25; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2470,"Otomo, Otomo, Otomo...",大友，大友，大友……,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2480,Why are you so eager to die?,你为什么这么想死？,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2490,"I would have let you live another year, perhaps even two.",我本来还会让你多活一两年。,draft; Kenji campaign v25; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2500,Not bad.,还不错。,draft; Kenji campaign v25; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2510,And Otomo's head?,Otomo 的头在哪里？,draft; campaign v26; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2510,And Otomo's head?,大友的头在哪里？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2520,Good.,很好。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2530,This necromancer you found...can he be trusted?,你找到的那个死灵法师……能信吗？,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2540,Then he'll be loyal for a while yet.,那他暂时还会忠诚。,draft; campaign v26; not game-tested
@@ -658,7 +658,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2760,"I am Kenji, Lord of the Serpent c
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2770,"For two centuries, my people hid, praying for the Dragon's protection.",两个世纪以来，我的族人一直藏身，求神龙保护。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2780,But the Dragon was only a myth.,但神龙只是传说。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2790,The meek and useless are all gone now.,软弱无用的人都不在了。,draft; campaign v26; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2800,The last of the cowards died with the traitor Otomo.,最后的胆小鬼和叛徒 Otomo 一同死了。,draft; campaign v26; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2800,The last of the cowards died with the traitor Otomo.,最后的胆小鬼和叛徒大友一同死了。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2810,We are purified at last.,我们终于得到净化。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2820,It's time to make the shadows afraid.,该让阴影害怕我们了。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2830,Left-click me to select me.,左键点击我，选中我。,draft; not game-tested
@@ -712,7 +712,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3330,What are you?,你到底是什么�
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3340,You and your kind died centuries ago!,你和你的同类早在数个世纪前就死了！,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3350,Tarrant killed you!,Tarrant 杀了你们！,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3360,Hunt him down!,追上他！,draft; campaign v27; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3370,"It's been a long time, Otomo.",好久不见了，Otomo。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3370,"It's been a long time, Otomo.",好久不见了，大友。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3380,Why are you attacking Shinja's men?,你为什么攻击信蛇的人？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3390,The peasants of the southern provinces should obey him.,南方各地的农民本该听他的。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3400,He is captain of the Serpent guard.,他是灵蛇族卫队的队长。,draft; campaign v27; not game-tested
@@ -750,7 +750,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3730,Or you could fight for me instead.
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3740,"When I sit on the Serpent's throne, the faithful will be well rewarded.",等我坐上灵蛇的王座，忠诚的人必得厚礼。,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3750,Name it.,说出你想要的。,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3760,That could be arranged.,这可以办到。,draft; campaign v28; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3870,"You die today, Otomo!",Otomo，今天就是你的死期！,draft; campaign v28; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3870,"You die today, Otomo!",大友，今天就是你的死期！,已确认专名离线修订，待实机验证
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3880,Wait!,等等！,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3890,I want to talk to you!,我想和你谈谈！,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3900,Soul Flame?,Soul Flame？,draft; campaign v28; not game-tested
@@ -1052,13 +1052,13 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry47,270,And you are his heir.,你也是�
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,280,I meant no insult.,我没有冒犯的意思。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,290,"If you say the word, we're yours.",只要你一声令下，我们就是你的人。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,300,Shinja is no leader.,信蛇根本不是领袖。,draft; confirmed hero name; not game-tested
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,310,He squanders my men against Otomo's peasant rebels.,他把我的人浪费在对付 Otomo 的农民叛军上。,draft; Serpent campaign v34; font candidate pending; not game-tested
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,310,He squanders my men against Otomo's peasant rebels.,他把我的人浪费在对付大友的农民叛军上。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,320,The clan has fallen far since the Serpent's time.,灵蛇在世时，族人可没落到这种地步。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,330,They need a firm hand to guide them.,他们需要强硬的人带领。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,340,"Please, lord...let me show you how easy it would be to take it back.",大人，让我告诉你，夺回这一切有多容易。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,350,Shinja has ruled these three provinces since your father's death.,你父亲死后，信蛇一直统治着这三个行省。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,360,"With his army of horsemen, he controls Hilltop Village.",信蛇手下有一支骑兵，控制着 Hilltop Village。,draft; Serpent campaign v34; font candidate pending; not game-tested
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,370,Otomo and his band of hired archers have set up camp here.,Otomo 和他雇来的弓箭手在这里扎营。,draft; Serpent campaign v34; font candidate pending; not game-tested
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,370,Otomo and his band of hired archers have set up camp here.,大友和他雇来的弓箭手在这里扎营。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,380,"He cowers deep in the forest, afraid to attack.",他躲在密林深处，不敢进攻。,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,390,"Strike now, and let the people know the Serpent has returned!",现在出手，让大家知道灵蛇回来了！,draft; Serpent campaign v34; font candidate pending; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,400,Where are all the villagers?,村民都去哪里了？,draft; Serpent campaign v34; font candidate pending; not game-tested
@@ -1121,7 +1121,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry122,250,His men watch us all the time f
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,260,The Butcher is coming!  Run!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,270,Oh no - it's The Butcher!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,280,We are loyal to the Serpent!,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry122,290,Otomo drove us from our homes!,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry122,290,Otomo drove us from our homes!,大友把我们赶出了家园！,已确认专名离线修订，待实机验证
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,210,As my lord commands.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,220,Weaklings!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry132,230,The Butcher is more deserving of my talents than you'll ever be!,,untranslated
@@ -1142,7 +1142,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,220,Once I knew a scared boy who ran f
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,230,I had to know if he was still that boy.,我得知道他是否还是当年的那个男孩。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,240,Are you back to rule the Serpent clan?,你回来统治灵蛇族了？,draft; adjacent scene; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,250,"Going to break the world, then?",那么，你要毁掉这个世界吗？,draft; adjacent scene; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,260,"As you wish, Otomo.",如你所愿，Otomo。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,260,"As you wish, Otomo.",如你所愿，大友。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,270,At the Swan's Pool.,在天鹅池。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,280,The old man was more perceptive than we thought.,那老头比我们想的更有远见。,draft; Shinja campaign arc; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,290,He knew Serpentholm would fall.,他知道 Serpentholm 会陷落。,draft; Shinja campaign arc; not game-tested
@@ -1254,13 +1254,13 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1280,How could you know that?,你怎�
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1290,What do you want with Kenji?,你找健治做什么？,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1300,"If you're right about the Orb, Kenji will need every soldier he can get - even the dead ones.",如果你说的宝珠是真的，健治会需要所有能找到的士兵——连死者也算。,draft; name confirmed; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1310,Something's wrong.,不对劲。,draft; campaign v26; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1320,Otomo was supposed to be here by now.,Otomo 早该到了。,draft; campaign v26; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1320,Otomo was supposed to be here by now.,大友早该到了。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1330,Where is his army?,他的军队在哪里？,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1340,Rebels.,叛军。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1350,They know me.,他们认得我。,draft; campaign v26; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1360,They're Otomo's men.,他们是 Otomo 的人。,draft; campaign v26; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1360,They're Otomo's men.,他们是大友的人。,已确认专名离线修订，待实机验证
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1370,We've been betrayed.,我们被背叛了。,draft; campaign v26; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1380,Where is Otomo?,Otomo 在哪里？,draft; campaign v26; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1380,Where is Otomo?,大友在哪里？,已确认专名离线修订，待实机验证
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1390,He abandoned you.,他抛下了你们。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1400,He left you here to die.,他把你们留在这里等死。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1410,One will do.,一个就够。,draft; campaign v26; not game-tested
@@ -1292,7 +1292,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1660,This province is already claimed.
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1670,"If you have a quarrel with me, send your leader.",如果你要找我算账，就派你的首领来。,draft; campaign v27; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1680,They've been busy.,他们做了不少事。,draft; campaign v27; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1690,Fight through to Serpentholm!,一路杀到 Serpentholm！,draft; campaign v27; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1700,A prize for the man who takes Otomo's head!,谁取下 Otomo 的头，我就给他重金！,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1700,A prize for the man who takes Otomo's head!,谁取下大友的头，我就给他重金！,已确认专名离线修订，待实机验证
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,0,"You've done well, Serpent's Son.",,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,10,Ask your questions now.,,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,20,It rests with the Lotus clan.,,untranslated
@@ -1568,9 +1568,9 @@ Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3110,"Amazing what a few grains 
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11010,You're sure they made it this far?,你确定他们已经到了这里？,draft; Serpent mines v35; font candidate pending; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11020,I thought our army would stop the Wolves below.,我以为我军会在下面挡住恶狼族。,draft; Serpent mines v35; font candidate pending; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11030,This rebellion threatens everything that the Serpent Clan has become.,这场叛乱威胁着灵蛇族如今的一切。,draft; Serpent mines v35; font candidate pending; not game-tested
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11040,"If Taro won't kill Grayback, I'll do it myself!",Taro 不杀 Grayback，我就亲自动手！,draft; Serpent mines v35; font candidate pending; not game-tested
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11050,"Oja can feed me to his hounds, as long as Grayback dies beneath my whip.",只要 Grayback 死在我的鞭下，就算 Oja 把我喂狗也无所谓。,draft; Serpent mines v35; font candidate pending; not game-tested
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11060,"Save it for Grayback, my charming murderess.",留给 Grayback 吧，我迷人的女杀手。,draft; Serpent mines v35; font candidate pending; not game-tested
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11040,"If Taro won't kill Grayback, I'll do it myself!",Taro 不杀灰背，我就亲自动手！,已确认专名离线修订，待实机验证
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11050,"Oja can feed me to his hounds, as long as Grayback dies beneath my whip.",只要灰背死在我的鞭下，就算 Oja 把我喂狗也无所谓。,已确认专名离线修订，待实机验证
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11060,"Save it for Grayback, my charming murderess.",留给灰背吧，我迷人的女杀手。,已确认专名离线修订，待实机验证
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11070,"Right now, it's time for us to trap a Wolf.",眼下该设圈套抓一头狼了。,draft; Serpent mines v35; font candidate pending; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10000,I see that Budo and Utara spoke the truth…,看来武堂和 Utara 说的是真的……,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10010,…the Wolf Clan is running rampant across the land.,,untranslated
