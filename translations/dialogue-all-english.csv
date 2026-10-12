@@ -1619,12 +1619,12 @@ Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11020,Sometimes I think he's mo
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11030,Even if it means disobeying Lord Oja's firstborn son?,就算这意味着违抗 Oja 大人的长子？,draft; v43 WOTW Serpent; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11040,"Mmm…you and I enjoy the same hobbies, Budo.",啊……武堂，你我有相同的爱好。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11050,We could play delightful games together if you weren't so revolting…,要不是你这么恶心，我们本可以一起玩些有趣的游戏……,draft; v43 WOTW Serpent; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,3010,(excited gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8000,(gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8005,(gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8010,(gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8012,(panicked gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8020,(gibberish),,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,3010,(excited gibberish),（兴奋的呓语）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8000,(gibberish),（含混的呓语）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8005,(gibberish),（含混的呓语）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8010,(gibberish),（含混的呓语）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8012,(panicked gibberish),（惊慌的呓语）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8020,(gibberish),（含混的呓语）,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6000,"Help! Please, somebody save us!",救命！谁来救救我们！,draft; WOTW Wolf rescue v38; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6010,"High Druidess Gaihla has been kidnapped, and the Forest Temple is under attack!",大祭师 Gaihla 被抓走了，森林神殿正遭受攻击！,draft; WOTW Wolf rescue v38; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6020,The Lotus aren't attacking us -- Utara and her Witches are behind this.,袭击我们的不是莲花族，是 Utara 和她的女巫！,draft; WOTW Wolf rescue v38; not game-tested
@@ -1632,27 +1632,27 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6030,"Sometimes they raid our fores
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6040,But they've never attacked us so savagely before!,可她们从未如此凶狠地袭击过我们！,draft; WOTW Wolf rescue v38; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6050,"We drove back their first assault, but Gaihla disappeared in the confusion.",我们击退了她们的第一波进攻，但 Gaihla 在混乱中失踪了。,draft; WOTW Wolf rescue v38; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6060,"If they succeed in destroying the Forest Temple, all will be lost!",要是森林神殿被毁，一切就全完了！,draft; WOTW Wolf rescue v38; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8010,I will be. Thank you for rescuing me.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8020,You have come to ask for my help against Yvaine.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8030,You are courageous and strong...I will do what I can.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9000,I'm so cold…maybe we should rest here…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9010,"This snow is killing me, Grayback.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9020,It is completely deserted?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9030,I can't go on any longer…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13010,No.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13020,I can feel the natural balance returning...Yvaine is gone.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13030,The White Wolf himself must have protected you.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13040,"This is a great victory, but we will face new challenges someday.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13050,"Yvaine was Lord Zymeth's mistress…someday, they might have ruled the Clan together.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13060,I'm sure Zymeth will try to avenge her death.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93000,Soban called him the Shale Lord…he doesn't speak often.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93010,I believe he used to be a Wolf slave.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93020,All things are part of the natural order -- even this strange being.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93030,No…I could not even protect my own Sanctuary.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93033,"As long as Yvaine is using our own Clan's magic, I am powerless.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93038,You will need my help to keep Yvaine from freezing the land to death.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93040,I can lead you to her mountain fortress…I have seen the way in my dreams.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93050,But you are the Lord of the Wolves.,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8010,I will be. Thank you for rescuing me.,我会照顾好自己。谢谢你救了我。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8020,You have come to ask for my help against Yvaine.,你来找我，是想请我帮忙对付 Yvaine。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8030,You are courageous and strong...I will do what I can.,你勇敢又坚强……我会尽我所能。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9000,I'm so cold…maybe we should rest here…,好冷……也许我们该在这里休息……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9010,"This snow is killing me, Grayback.",这场雪快要了我的命，灰背。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9020,It is completely deserted?,这里完全没人吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,9030,I can't go on any longer…,我再也走不动了……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13010,No.,不。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13020,I can feel the natural balance returning...Yvaine is gone.,我能感觉到自然的平衡正在恢复……Yvaine 已经不在了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13030,The White Wolf himself must have protected you.,一定是白狼亲自护佑了你。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13040,"This is a great victory, but we will face new challenges someday.",这是一次伟大的胜利，但总有一天，我们会迎来新的挑战。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13050,"Yvaine was Lord Zymeth's mistress…someday, they might have ruled the Clan together.",Yvaine 是 Zymeth 领主的情人……有朝一日，他们可能会共同统治全族。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,13060,I'm sure Zymeth will try to avenge her death.,我相信 Zymeth 会设法为她复仇。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93000,Soban called him the Shale Lord…he doesn't speak often.,Soban 叫他页岩领主……他很少说话。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93010,I believe he used to be a Wolf slave.,我想他以前是恶狼族的奴隶。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93020,All things are part of the natural order -- even this strange being.,万物都属于自然秩序的一部分，连这个奇异的生灵也不例外。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93030,No…I could not even protect my own Sanctuary.,不……我连自己的圣所都没能守住。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93033,"As long as Yvaine is using our own Clan's magic, I am powerless.",只要 Yvaine 还在使用我们族的法术，我就无能为力。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93038,You will need my help to keep Yvaine from freezing the land to death.,你需要我的帮助，才能阻止 Yvaine 把这片土地冻死。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93040,I can lead you to her mountain fortress…I have seen the way in my dreams.,我可以带你去她的山中堡垒……我在梦里见过那条路。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,93050,But you are the Lord of the Wolves.,但你是恶狼族的领主。,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1010,What else would you expect from a greedy Serpent taskmaster?,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1020,"Still, I'm glad Yvaine and her Lotus goons have stopped watching us so closely.",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1030,The Lotus are our true enemies.,,untranslated
@@ -1907,119 +1907,119 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93020,Then I'll take the Skull of 
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93030,Yvaine will expect me…I won't ask any of you to follow me into her traps.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93040,You don't have to call me that…,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,93050,"Thank you, my friends.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2000,Can anyone hear me? Help!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2010,Yvaine's had me locked in this stinking cell for days.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2020,A few more seconds and I would've been torn to shreds!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2030,"You can count on me always, my Lord!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2040,"We've beaten her, Lord!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3000,"We've almost reached the main tunnels, Grayback.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3010,Watch out -- I've seen that gas before.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3020,"It seeps up from the rocks, and can kill a man in seconds.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3030,"What's worse, it's explosive.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3040,"Over here, Grayback!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3050,What's behind this barrier?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3070,We can't give up…there must be a way around this barrier.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3080,Daylight! It's been so long…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3090,But that's suicidal!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3100,You'll never beat Yvaine by yourself!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3110,And if we return to find you dead…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3120,The other mines will be free before the Lotus know what hit them.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3130,I won't let you down!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3140,Fight like the Wolf!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,5300,Looks like there's some kind of commotion in the town…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,6000,The Serpent Witches are famous practitioners of black magic.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,6010,I'm not surprised they're doing Yvaine's dirty work.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11000,Looks like the end of the road.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11010,Looks like she's set up plenty of those magic walls to slow us down.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11020,She wields the powers of a god…I don't think it'll be that easy.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11030,"I thought I was finished with filthy, Lotus-smelling caves.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11040,Are you insane?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11050,You want me to share a throne with this maniac?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11060,"You'd better come back alive, Grayback.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11200,Wait…are those Serpent troops at the bottom of the mountain?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11300,More Serpent troops are climbing the mountain! We must reach Yvaine!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13010,"I'm telling you, Grayback's in trouble!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13020,We've got to go after him!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13030,But he can't do this alone! He needs us!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13040,They don't have to be his last orders!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13050,I'm not waiting any longer…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13060,Grayback! Noooooo…!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13070,…I guess he didn't need us after all…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13080,So is our leader.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13090,I should have gone after him…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13100,He's alive! Grayback is alive!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13110,"I knew you'd make it, Lord!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13120,He won't try soon! We must have slain half his army on this mountain.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13130,All hail Lord Grayback!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92000,The Totem must be very powerful to create such a storm.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92010,"What is it, anyway?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92020,"Do you think Gaihla could help us, Wildeye?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92030,"If Gaihla can't stop this storm, we'll join him soon enough.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93000,"Yes, but can we trust what he's become?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93010,"What do you think, Grayback?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93020,"Gaihla, the weather is getting worse.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93030,Can you help us stop Yvaine's winter?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93040,"Why would any of us abandon you now, Lord Grayback?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5000,There's no way we can fight off an army!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5005,But how will he find us?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5010,(wild cheering),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,92000,So cold…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3000,"I'm sorry, Grayback, but you'll never win against the Lotus.",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2000,Can anyone hear me? Help!,有人听得见吗？救命！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2010,Yvaine's had me locked in this stinking cell for days.,Yvaine 把我关在这间臭牢房里好几天了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2020,A few more seconds and I would've been torn to shreds!,再晚几秒，我就要被撕成碎片了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2030,"You can count on me always, my Lord!",我永远听您差遣，领主大人！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,2040,"We've beaten her, Lord!",我们打败她了，领主大人！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3000,"We've almost reached the main tunnels, Grayback.",灰背，我们快到主隧道了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3010,Watch out -- I've seen that gas before.,小心，我以前见过那种气体。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3020,"It seeps up from the rocks, and can kill a man in seconds.",它从岩缝里渗出来，几秒钟就能要人命。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3030,"What's worse, it's explosive.",更糟的是，它还会爆炸。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3040,"Over here, Grayback!",这边，灰背！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3050,What's behind this barrier?,这道屏障后面是什么？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3070,We can't give up…there must be a way around this barrier.,不能放弃……总有办法绕过这道屏障。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3080,Daylight! It's been so long…,阳光！我多久没见过了……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3090,But that's suicidal!,可那是去送死！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3100,You'll never beat Yvaine by yourself!,你一个人绝打不过 Yvaine！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3110,And if we return to find you dead…,要是我们回来时发现你已经死了……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3120,The other mines will be free before the Lotus know what hit them.,等莲花族反应过来，其他矿场早就重获自由了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3130,I won't let you down!,我不会让你失望！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,3140,Fight like the Wolf!,像狼一样战斗！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,5300,Looks like there's some kind of commotion in the town…,镇上好像出了什么乱子……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,6000,The Serpent Witches are famous practitioners of black magic.,蛇族女巫以黑魔法闻名。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,6010,I'm not surprised they're doing Yvaine's dirty work.,她们替 Yvaine 干脏活，我一点也不意外。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11000,Looks like the end of the road.,看来路到头了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11010,Looks like she's set up plenty of those magic walls to slow us down.,看来她设了不少魔法墙来拖住我们。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11020,She wields the powers of a god…I don't think it'll be that easy.,她掌握着神一般的力量……我看没那么容易。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11030,"I thought I was finished with filthy, Lotus-smelling caves.",我还以为再也不用钻进这种满是莲花族臭味的洞穴了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11040,Are you insane?,你疯了吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11050,You want me to share a throne with this maniac?,你要我和这个疯子共享王位？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11060,"You'd better come back alive, Grayback.",你最好活着回来，灰背。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11200,Wait…are those Serpent troops at the bottom of the mountain?,等等……山脚下那些是蛇族部队吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,11300,More Serpent troops are climbing the mountain! We must reach Yvaine!,更多蛇族部队正在上山！我们必须赶到 Yvaine 那里！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13010,"I'm telling you, Grayback's in trouble!",我告诉你们，灰背有麻烦了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13020,We've got to go after him!,我们得去救他！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13030,But he can't do this alone! He needs us!,可他不能独自应付！他需要我们！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13040,They don't have to be his last orders!,他可以改变最后的命令！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13050,I'm not waiting any longer…,我不能再等了……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13060,Grayback! Noooooo…!,灰背！不——！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13070,…I guess he didn't need us after all…,……看来他根本不需要我们……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13080,So is our leader.,我们的首领也是。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13090,I should have gone after him…,我本该追上去的……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13100,He's alive! Grayback is alive!,他还活着！灰背还活着！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13110,"I knew you'd make it, Lord!",我就知道您能做到，领主大人！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13120,He won't try soon! We must have slain half his army on this mountain.,他短时间内不敢再来！我们在这座山上杀了他半支军队。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,13130,All hail Lord Grayback!,向灰背领主致敬！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92000,The Totem must be very powerful to create such a storm.,图腾一定极其强大，才能引发这样的暴风雪。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92010,"What is it, anyway?",可它到底是什么？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92020,"Do you think Gaihla could help us, Wildeye?",Wildeye，你觉得 Gaihla 能帮我们吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,92030,"If Gaihla can't stop this storm, we'll join him soon enough.",如果 Gaihla 也止不住这场风雪，我们很快就会去陪他。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93000,"Yes, but can we trust what he's become?",是啊，但我们还能相信现在的他吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93010,"What do you think, Grayback?",灰背，你怎么看？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93020,"Gaihla, the weather is getting worse.",Gaihla，天气越来越糟了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93030,Can you help us stop Yvaine's winter?,你能帮我们阻止 Yvaine 带来的严冬吗？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry290,93040,"Why would any of us abandon you now, Lord Grayback?",灰背领主，我们怎么会在这时候弃您而去？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5000,There's no way we can fight off an army!,我们根本挡不住一支大军！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5005,But how will he find us?,可他怎么找到我们？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5010,(wild cheering),（狂热的欢呼声）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,92000,So cold…,好冷……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3000,"I'm sorry, Grayback, but you'll never win against the Lotus.",对不起，灰背，可你绝不可能战胜莲花族。,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3010,You offer us nothing but death…and Budo offered us food.,你给我们的只有死路……武堂至少给我们米。,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,8000,Please don't take me back to the cage!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,3000,"It's our leader! Thanks, Grayback!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5000,"Grayback, we thought you were dead!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5010,We're too few in number!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5015,"No problem, boss!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5020,Wait…there's someone approaching from the East…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5030,"Yes, it's Longtooth! And there's a whole army of Wolves behind him!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5040,There's a small town in the southwest…I see slaves in the fields.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5050,"And there's a great fortress in the southeast, blocking a pass through the mountains.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry362,8000,(angry bellowing),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1010,I'm so hungry…,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,8000,Please don't take me back to the cage!,求你别把我送回笼子！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,3000,"It's our leader! Thanks, Grayback!",我们的首领来了！谢谢你，灰背！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5000,"Grayback, we thought you were dead!",灰背，我们还以为你死了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5010,We're too few in number!,我们人手太少了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5015,"No problem, boss!",没问题，老大！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5020,Wait…there's someone approaching from the East…,等等……有人正从东边过来……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5030,"Yes, it's Longtooth! And there's a whole army of Wolves behind him!",对，是 Longtooth！他身后还有一整支恶狼族大军！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5040,There's a small town in the southwest…I see slaves in the fields.,西南边有座小镇……我看到奴隶在田里干活。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5050,"And there's a great fortress in the southeast, blocking a pass through the mountains.",东南边还有一座大堡垒，堵住了穿过群山的隘口。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry362,8000,(angry bellowing),（愤怒的吼叫声）,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1010,I'm so hungry…,我好饿……,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1020,"Since Budo started ordering us around, I've hardly eaten a thing!",武堂开始使唤我们以后，我都没能好好进食！,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1030,"Do you think Mistress Yvaine is starting to trust us, Grayback?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1040,Ha! Fighting's the easiest thing in the world!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1050,It's pretending to be weak that's driving me crazy!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1060,"Yeah, but what about our dinner?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1070,I'm starving!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1080,What about my dinner?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1090,"I can't! I'm so hungry, I'm about to fall over!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1100,"Look at this, Grayback! It's amazing!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1110,What is it?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1115,It's Mistress Yvaine!,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1030,"Do you think Mistress Yvaine is starting to trust us, Grayback?",你觉得 Yvaine 女主人开始信任我们了吗，灰背？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1040,Ha! Fighting's the easiest thing in the world!,哈！打仗是世上最容易的事！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1050,It's pretending to be weak that's driving me crazy!,装作软弱才快把我逼疯了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1060,"Yeah, but what about our dinner?",是啊，可我们的晚饭怎么办？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1070,I'm starving!,我快饿死了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1080,What about my dinner?,我的晚饭呢？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1090,"I can't! I'm so hungry, I'm about to fall over!",不行！我饿得快要倒下了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1100,"Look at this, Grayback! It's amazing!",看这个，灰背！太神奇了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1110,What is it?,这是什么？,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1115,It's Mistress Yvaine!,是 Yvaine 女主人！,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1120,Don't hurt us! Budo told us there was shale down here!,别伤害我们！武堂说这里有页岩！,draft; confirmed hero name; not game-tested
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1125,We didn't touch your magic stuff...promise!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2000,"This isn't an ordinary punishment, Grayback!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2010,I have a bad feeling about this…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2030,"Grayback, it's a trap!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2040,"Right behind you, boss!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4000,Grayback's come for us! Hooray!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4005,"We heard fighting, but we couldn't open the gate!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4010,The Lotus have a bunch of these rice bins stashed down here.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4020,"Free us, and we'll bust 'em open for you!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9000,"So the trappers were trapped, and the murderers slain!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9010,"Congratulations, Grayback, on a battle well fought!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9020,My name is Tao.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9030,"I am both Monk and Ninja. Half Light, half Darkness.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9040,"I serve Yin and Yang, and the Balance of all things.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9050,"At the moment, the Yin of the Lotus is very strong -- it threatens the land itself.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9060,"By protecting this Monastery, I strengthen the Yang and serve the Balance.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9070,"The Monks were not harmed, and Grayback's heroes arrived safely.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9080,I think I protected them very well!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9090,Correction -- only half mad.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9100,Yvaine owes her blood to the Lord of the Wolves. It is not mine to spill.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9110,"But I am a master of roads and journeys, and I can help you reach your goal.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9120,"Listen closely, and I will give you the secrets you need…",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9130,The road to Yvaine is blocked by two magical gateways.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9140,"These are maintained by a pair of rival archmages, Issyl and Koril.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9150,Issyl and Koril despise each other. They never cooperate on anything.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9160,"If you defeat them both quickly, you'll slip right through their gates.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9170,"But beware! If you kill only Issyl, then Koril will take control of his armies.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9180,"Likewise, Issyl would be quick to take advantage of Koril's demise.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9190,"Either way, if you let them combine their forces, you're in for a tough fight!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9200,"Now, I must depart. The Balance calls me to other lands.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9210,"Fight well, Grayback! We both have unfinished duties in this world!",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1125,We didn't touch your magic stuff...promise!,我们没碰你的法术东西……我保证！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2000,"This isn't an ordinary punishment, Grayback!",灰背，这可不是普通的惩罚！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2010,I have a bad feeling about this…,我有种不祥的预感……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2030,"Grayback, it's a trap!",灰背，这是陷阱！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2040,"Right behind you, boss!",紧跟着你，老大！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4000,Grayback's come for us! Hooray!,灰背来救我们了！万岁！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4005,"We heard fighting, but we couldn't open the gate!",我们听见打斗声，可打不开大门！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4010,The Lotus have a bunch of these rice bins stashed down here.,莲花族在下面藏了好多这样的米仓。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,4020,"Free us, and we'll bust 'em open for you!",放我们出去，我们就替你把它们砸开！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9000,"So the trappers were trapped, and the murderers slain!",捕人的落了陷阱，杀人的也被杀了！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9010,"Congratulations, Grayback, on a battle well fought!",灰背，打得漂亮！恭喜你！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9020,My name is Tao.,我叫 Tao。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9030,"I am both Monk and Ninja. Half Light, half Darkness.",我既是武僧，也是忍者；一半是光，一半是暗。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9040,"I serve Yin and Yang, and the Balance of all things.",我侍奉阴阳，也守护万物的平衡。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9050,"At the moment, the Yin of the Lotus is very strong -- it threatens the land itself.",如今莲花族的阴气过盛，连这片土地都受到威胁。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9060,"By protecting this Monastery, I strengthen the Yang and serve the Balance.",守住这座寺院，就能增强阳气，维系平衡。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9070,"The Monks were not harmed, and Grayback's heroes arrived safely.",僧侣们毫发无伤，灰背的英雄也平安抵达。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9080,I think I protected them very well!,我想，我保护得很周全！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9090,Correction -- only half mad.,纠正一下：只疯了一半。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9100,Yvaine owes her blood to the Lord of the Wolves. It is not mine to spill.,Yvaine 该向恶狼之主偿命。这血不该由我来索取。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9110,"But I am a master of roads and journeys, and I can help you reach your goal.",不过，我熟知道路与旅程，能帮你到达目的地。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9120,"Listen closely, and I will give you the secrets you need…",仔细听，我会告诉你所需的秘诀……,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9130,The road to Yvaine is blocked by two magical gateways.,通往 Yvaine 的路被两道魔法门挡住了。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9140,"These are maintained by a pair of rival archmages, Issyl and Koril.",维持它们的是一对相互敌视的大法师：Issyl 和 Koril。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9150,Issyl and Koril despise each other. They never cooperate on anything.,Issyl 和 Koril 彼此憎恨，从不联手。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9160,"If you defeat them both quickly, you'll slip right through their gates.",只要迅速击败两人，你就能穿过他们的门。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9170,"But beware! If you kill only Issyl, then Koril will take control of his armies.",但要小心！如果只杀了 Issyl，Koril 就会接管他的军队。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9180,"Likewise, Issyl would be quick to take advantage of Koril's demise.",反过来，Issyl 也会趁 Koril 死后夺取他的势力。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9190,"Either way, if you let them combine their forces, you're in for a tough fight!",无论哪边，只要让他们合兵，你就有一场硬仗要打！,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9200,"Now, I must depart. The Balance calls me to other lands.",现在我得走了。平衡召唤我前往别处。,draft; v45 WOTW Wolf; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry387,9210,"Fight well, Grayback! We both have unfinished duties in this world!",好好战斗，灰背！我们在这世上都还有使命未竟！,draft; v45 WOTW Wolf; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry410,1000,Now I'll never avenge my murdered family…,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry410,5000,"Pain, eh? I could show you a thing or two about that…",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry410,5004,"Aye, it's good to see a friendly face around here.",,untranslated
