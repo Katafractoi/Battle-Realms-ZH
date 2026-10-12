@@ -1,4 +1,4 @@
-"""Patch and validate the contiguous Kenji/Otomo Orb-arc translation."""
+"""Patch and validate a reviewed Kenji/Otomo dialogue batch."""
 
 import argparse
 import csv
@@ -14,13 +14,15 @@ def main():
     parser.add_argument("--otomo-base", type=Path, required=True)
     parser.add_argument("--blast-dll", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
+    parser.add_argument("--status", default="draft; Orb arc; not game-tested")
+    parser.add_argument("--expected-rows", type=int, default=49)
     args = parser.parse_args()
     root = Path(__file__).resolve().parents[1]
     args.output.mkdir(parents=True, exist_ok=True)
     with (root / "translations/dialogue-all-english.csv").open(encoding="utf-8-sig", newline="") as f:
-        rows = [r for r in csv.DictReader(f) if r["status"] == "draft; Orb arc; not game-tested"]
-    if len(rows) != 49:
-        raise ValueError("Orb arc row count drift")
+        rows = [r for r in csv.DictReader(f) if r["status"] == args.status]
+    if len(rows) != args.expected_rows:
+        raise ValueError(f"reviewed row count drift: {len(rows)} != {args.expected_rows}")
     full_map = json.loads((root / "tools/dialogue-english-entry-map.json").read_text(encoding="utf-8"))
     report = {}
     for name, source in (("Kenji_Dialogue.H2O", args.kenji_base),
