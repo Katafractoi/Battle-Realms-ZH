@@ -159,6 +159,10 @@ def main():
         raise ValueError("expected new BMP glyphs")
     replacements = {}
     detail = []
+    used_atlases = {name for group in groups for name in group[2]}
+    spare_atlases = [path.removeprefix("Fonts\\") for path in mapping
+                     if path.startswith("Fonts\\") and path.lower().endswith(".tga")
+                     and path.removeprefix("Fonts\\") not in used_atlases]
     for size, uv_height, names, glyphs in groups:
         height = round(uv_height * 512)
         cols, rows = 512 // (size + 1), 512 // (height + 1)
@@ -168,29 +172,39 @@ def main():
                 for g in glyphs if g[0] == last}
         free = [(col, row) for row in range(rows) for col in range(cols)
                 if (col, row) not in used]
-        if len(free) < len(missing):
-            raise ValueError(f"size {size}: {len(free)} free cells, {len(missing)} needed")
+        extra_pages = math.ceil(max(0, len(missing) - len(free)) / capacity)
+        if extra_pages > len(spare_atlases):
+            raise ValueError(f"size {size}: need {extra_pages} more atlas pages, only {len(spare_atlases)} spare")
         path = "Fonts\\" + names[-1]
         index = mapping[path]
         old_image = Image.open(io.BytesIO(raw_entry(source, index, decode))).convert("RGBA")
         if old_image.size != (512, 512):
             raise ValueError(f"bad atlas size: {path}")
-        image = old_image.copy()
+        images = {last: old_image.copy()}
+        slots = [(last, col, row) for col, row in free]
+        for _ in range(extra_pages):
+            added = spare_atlases.pop(0)
+            names.append(added)
+            page = len(names) - 1
+            images[page] = Image.new("RGBA", (512, 512), (0, 0, 0, 0))
+            slots.extend((page, col, row) for row in range(rows) for col in range(cols))
         face = ImageFont.truetype(str(args.ttf), size)
-        for cp, (col, row) in zip(missing, free):
+        for cp, (page, col, row) in zip(missing, slots):
             width = max(1, round(size * .72))
             alpha = render(chr(cp), face, width, height)
             tile = Image.new("RGBA", (width, height), (255, 255, 255, 0))
             tile.putalpha(alpha)
             x, y = col * (size + 1), row * (height + 1)
-            if old_image.crop((x, y, x + width, y + height)).getbbox():
-                raise ValueError(f"occupied atlas cell: {path} {(col, row)}")
-            image.paste(tile, (x, y))
-            glyphs.append((last, cp, float(width), width / 512, x / 512, y / 512))
+            if images[page].crop((x, y, x + width, y + height)).getbbox():
+                raise ValueError(f"occupied atlas cell: {names[page]} {(col, row)}")
+            images[page].paste(tile, (x, y))
+            glyphs.append((page, cp, float(width), width / 512, x / 512, y / 512))
         glyphs.sort(key=lambda glyph: glyph[1])
-        replacements[index] = tga_bytes(image)
+        for page, image in images.items():
+            replacements[mapping["Fonts\\" + names[page]]] = tga_bytes(image)
         detail.append({"size": size, "last_atlas": names[-1], "free_before": len(free),
-                       "new_glyphs": len(missing), "capacity": capacity})
+                       "new_glyphs": len(missing), "capacity": capacity,
+                       "added_pages": extra_pages})
     changed_font = serialize_lfr(version, scale1, scale2, groups)
     parsed = parse_lfr(changed_font)
     if len(parsed[4]) != len(present) + len(missing):

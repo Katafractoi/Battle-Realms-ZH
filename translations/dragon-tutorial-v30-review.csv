@@ -1,0 +1,57 @@
+﻿source_file,string_id,english,chinese,status
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,390,"As you can see, he can only build a Peasant Hut right now.",如您所见，他现在只能建造农舍。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,410,"If you decide you don't want to build the Hut right now, Left-click to cancel or to select something else.",如果暂时不想建农舍，左键点击即可取消，或选中其他目标。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,420,"You can only build on relatively flat terrain, so plan carefully, my Lord.",只能在较平坦的地面建造，大人，请仔细规划。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,430,"Excellent, the hut is complete!",很好，农舍建好了！,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,440,"Remember, Left-click always selects and Right-click always performs actions.",记住：左键用于选中，右键用于执行操作。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,450,"To continue building the hut, select your Peasant and Right-click on the framework we've already started.",要继续建造农舍，选中农民，再右键点击已经搭好的框架。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,460,Look!  A new peasant has emerged from the hut we built.,看！一名新农民从我们建好的农舍里出来了。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,470,Peasants appear from within the huts automatically.,农民会自动从农舍里出现。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,480,"Your village can only support a certain number of people at a time, indicated in the lower left corner of the screen.",村庄每次能容纳的人数有限，屏幕左下角会显示上限。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,490,"Also, the bigger your current population is the slower the Peasant birthrate will be.",现有人口越多，新农民出生的速度就越慢。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,500,"If you watch the bar at the bottom left of the screen, you can tell when the next peasant will arrive.",看屏幕左下角的进度条，就能知道下一名农民何时到来。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,510,"When the bar is full, a Peasant will appear.",进度条填满时，就会出现一名农民。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,520,Do you see the golden Peasant button in the center interface?,您看到界面中央金色的农民按钮了吗？,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,530,This is the Idle Peasant button.,这是闲置农民按钮。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,540,It will help you keep our Peasants busy and productive.,它能帮您找到没在干活的农民。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,550,Left-clicking it will focus on an idle peasant and automatically select him.,左键点击按钮，画面就会移到一名闲置农民身上，并自动选中他。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,560,Try it sometime.,有机会试试。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,570,"If we're to grow, your people will need more food, my lord.",大人，要让村庄发展，您的人民需要更多食物。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,580,Whenever we construct a building or train a soldier we'll need food and drink to fuel the effort.,每建一座建筑、每训练一名士兵，都要消耗食物和水。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,590,Let's harvest some rice from this rice field over here.,去收割这片稻田里的稻米吧。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,600,Let's select all of our Peasants.,先选中所有农民。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,610,Move the cursor near the Peasants.,把光标移到农民附近。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,620,Press and hold the left mouse button.,按住鼠标左键。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,630,"As you move the mouse, you will see a box expand from the cursor.",移动鼠标时，会看到一个方框从光标位置向外展开。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,640,Drag the cursor until the box encompasses all of the Peasants.,拖动光标，直到方框把所有农民都圈进去。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,650,Release the mouse button and the Peasants will be selected.,松开鼠标键，农民就会被选中。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,660,You can select any of your people in this manner.,您也可以用这种方法选中其他人。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,665,"This will be crucial to commanding your army effectively, so learn it well.",掌握这个操作，才能有效指挥军队，务必学会。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,670,"Now, scroll to the rice field and Right-click on one of the rice plants in the field.",现在把画面移到稻田，右键点击田里的一株稻苗。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,680,"This will tell the Peasants to start harvesting, and they will continue to do so until told differently.",农民就会开始收割；除非收到别的命令，否则他们会一直收下去。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,690,"Rice is important, but our people will also need fresh water to drink.",稻米很重要，但我们的人民还需要清水饮用。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,700,A pond or stream like this one should do nicely.,这样的池塘或溪流就很合适。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,710,"Select our Peasants, then scroll to the pond and Right-click it.",选中农民，把画面移到池塘，再右键点击池塘。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,830,"Now we'll train our first warrior, a Spearman.",现在来训练第一名战士：长矛兵。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,840,Training a Spearman will cost you rice and water.,训练长矛兵需要稻米和水。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,850,Uh oh! We're out of rice!,糟了！稻米用光了！,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,860,"And look, the fields are dry!",再看，稻田也干了！,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,870,"Don't worry, my lord - we can harvest more rice if we water the field.",别担心，大人。给稻田灌水，就能收获更多稻米。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,880,Select some peasants like we did before.,像刚才那样选中几名农民。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,890,In the lower right corner of the build interface you'll see the blue Water Rice icon.,建造界面的右下角有一个蓝色的灌溉稻田图标。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,900,"Left-click the Water Rice icon, and Right-click one of the depleted rice plants.",左键点击灌溉稻田图标，再右键点击一株已经枯竭的稻苗。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,910,In no time the field will be ready for harvesting again - go ahead and tell a Peasant to harvest rice.,稻田很快就能再次收割。现在让农民去收稻米吧。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,920,Well done! The fields are fertile again and our rice stores have been replenished.,做得好！田地恢复肥沃，稻米储备也补上了。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,930,"Looks like we'll need some more water, though.",不过看来我们还需要更多水。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,940,"Select a Peasant and order him to harvest some water for us, my lord.",大人，请选中一名农民，命令他去取水。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,950,"Now, back to training that Spearman…",现在继续训练那名长矛兵……,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,960,Select a peasant and Right-click on the Dojo.,选中一名农民，再右键点击道场。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,970,This will command the Peasant to enter and train in that building.,农民就会进入道场，在那里接受训练。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,980,"Your first soldier will be ready soon, my Lord.",大人，您的第一名士兵很快就能训练完成。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,990,You can see how long the training will take by Left-clicking the building and looking at the growing blue line.,左键点击建筑，观察逐渐变长的蓝线，就能知道训练还要多久。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1000,Congratulations!,恭喜！,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1010,"Having learned the economic basics, it's time to learn more about building our army.",您已经学会发展经济的基本方法，接下来要学习如何组建军队。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1020,Rest up and we'll continue tomorrow.,先休息吧，我们明天继续。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1030,Welcome back.,欢迎回来。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1040,"As you can see, New Issen is coming along nicely.",如您所见，New Issen 建设得很顺利。,draft; Dragon tutorial v30; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,1050,"If we're to protect our new town, we'll need more than one Spearman.",要保护新城镇，只靠一名长矛兵可不够。,draft; Dragon tutorial v30; font candidate pending; not game-tested
