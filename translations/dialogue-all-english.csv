@@ -416,10 +416,10 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,Soul Flame？,draft; 
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,毁掉另一座桥，把他们困在 High Plateau！,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",要不是我们毁了那些桥，莲花族早就夺下修道院了。,draft; Dragon continuation v33; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的健治。我的祖先曾令世界分崩离析。,已确认专名离线修订，待实机验证
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",Horde 所到之处尽成荒地，他便率领族人南逃，尽力保住仅存的一切。,draft; embedded-font revision; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",魔军所到之处尽成荒地，他便率领族人南逃，尽力保住仅存的一切。,draft; Horde term localized after live subtitle review; rebuilt offline
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",可当他们抵达高原时，前方已无路可逃。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来究竟意味着什么。,draft; embedded-font revision; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道 Horde 只是灵蛇族日后众多灾祸中的第一个。,draft; embedded-font revision; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道魔军只是灵蛇族日后众多灾祸中的第一个。,draft; Horde term localized after live subtitle review; rebuilt offline
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",他更不可能知道，失去宝珠的指引，后代会变得软弱而邪恶。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,他真的有过选择吗？,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",好久不见，大友。,已确认专名离线修订，待实机验证
@@ -1473,52 +1473,52 @@ Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry43,1020,"Our Mistress requires your 
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry43,1030,"Her kitchens have run out of rice, and this evening's feast draws near.",,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry43,1040,Perhaps your workers could contribute their rations…,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry43,1050,As do we all. Farewell.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1010,Unbelievable! More spies!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1015,And the hairy one? What do you have to say for yourself?,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1020,Bah! I should kill you for your stupidity alone!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1030,"Then again, if I killed every stupid Wolf, I'd have these mines to myself.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1040,"Do exactly as I say, and I might let you live.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2000,"Welcome to the deep mines. You'll eat, sleep, and work here now.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2010,There's only one punishment for misbehavior down here: the Shale Spiders.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2020,"They lay their eggs in living flesh, and they're always hungry for new friends.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2030,"If that shale isn't broken when I return, you'll meet them in person!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2040,"What's this? How dare you disobey my orders, slave?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2050,"And when I'm finished with you, you'll beg for death, little wolfling!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2060,Get your filthy hands off me!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2070,You'll pay for this treachery!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4000,"Still up to your games, dear…Grayback, isn't it?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4010,This is the first time I've ever bothered to remember one of your primitive names.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4020,You should be honored.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4030,Enough!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4040,"I have another honor in mind for you, troublesome wolfling.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4050,I had planned to simply feed your body to the spiders.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4060,But Grayback's corpse deserves a much more glorious tomb!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4070,"You'll never leave this mine, slave!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4090,Your Clan will be frozen solid before you can even starve to death!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5000,"Now, Grayback, this is simply intolerable.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5005,"I appreciate a good jest, but you really must die now.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5010,"Oh, I remember…I just don't care.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5020,"Such a brave jester. You'll walk into any trap, won't you, Grayback?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5030,"By the way, you're not going to find your Clan's totem here.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5040,The Skull of the White Wolf rests safely in my citadel…,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5050,…and my spells of corruption have already begun to warp its powers.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5060,"Don't you feel the chill in the air, little wolfling?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5065,"I'd love to explain, but you won't live long enough to care.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5070,Death is the only freedom you'll ever find.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5080,"Goodbye, Grayback.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12000,"It's been a long battle, hasn't it, Grayback?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12010,So much killing! I think your Wolf Clan was safer in my mines.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12020,What about death? Is that what you call freedom?,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12030,Your totem was more powerful than I expected.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12040,"It has…changed me, as much as I've changed it.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12050,"I have been reborn, Grayback! Reborn as a goddess!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12060,"Yes, I am mad now.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12070,But madness isn't my only source of power!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12080,All the magic of the Wolf Clan is bound to me by these Orbs of Corruption.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12090,You'll never defeat me while I wield the power of the White Wolf!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12100,"I don’t need your Totem's power, Grayback!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12110,"If I have to, I'll kill you with my bare hands!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12120,No…!,,untranslated
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1010,Unbelievable! More spies!,难以置信！又来了几个探子！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1015,And the hairy one? What do you have to say for yourself?,还有这个毛茸茸的家伙？你有什么话可说？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1020,Bah! I should kill you for your stupidity alone!,呸！光凭你的愚蠢，我就该杀了你！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1030,"Then again, if I killed every stupid Wolf, I'd have these mines to myself.",不过，要是我杀光每个愚蠢的恶狼族，这些矿井就只有我一个人了。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,1040,"Do exactly as I say, and I might let you live.",照我说的做，我或许还能饶你一命。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2000,"Welcome to the deep mines. You'll eat, sleep, and work here now.",欢迎来到深矿。从今往后，你们就在这里吃饭、睡觉、干活。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2010,There's only one punishment for misbehavior down here: the Shale Spiders.,在这里不听话，只有一种惩罚：页岩蜘蛛。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2020,"They lay their eggs in living flesh, and they're always hungry for new friends.",它们把卵产进活人的肉里，而且总想结交新朋友。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2030,"If that shale isn't broken when I return, you'll meet them in person!",等我回来时，要是那块页岩还没敲碎，我就让你们亲自见见它们！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2040,"What's this? How dare you disobey my orders, slave?",这是怎么回事？奴隶，你竟敢违抗我的命令？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2050,"And when I'm finished with you, you'll beg for death, little wolfling!",等我收拾完你，你会求我杀了你，小狼崽！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2060,Get your filthy hands off me!,把你的脏手拿开！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,2070,You'll pay for this treachery!,你会为这次背叛付出代价！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4000,"Still up to your games, dear…Grayback, isn't it?",你还在玩那套把戏，亲爱的……是叫灰背，对吧？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4010,This is the first time I've ever bothered to remember one of your primitive names.,我还是头一回费心记住你们这种原始人的名字。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4020,You should be honored.,你该感到荣幸。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4030,Enough!,够了！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4040,"I have another honor in mind for you, troublesome wolfling.",我还为你准备了另一份「荣幸」，惹事的小狼崽。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4050,I had planned to simply feed your body to the spiders.,我本来只打算把你的尸体喂蜘蛛。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4060,But Grayback's corpse deserves a much more glorious tomb!,不过灰背的尸体值得一座更气派的坟墓！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4070,"You'll never leave this mine, slave!",你永远别想离开这座矿井，奴隶！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,4090,Your Clan will be frozen solid before you can even starve to death!,在你饿死之前，你的族人就会先冻成冰块！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5000,"Now, Grayback, this is simply intolerable.",灰背，你真是越来越不像话了。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5005,"I appreciate a good jest, but you really must die now.",玩笑开得好我也会欣赏，但你现在非死不可。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5010,"Oh, I remember…I just don't care.",哦，我记得……只是不在乎。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5020,"Such a brave jester. You'll walk into any trap, won't you, Grayback?",真是个勇敢的小丑。灰背，你见到陷阱都会自己跳进去，是吗？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5030,"By the way, you're not going to find your Clan's totem here.",对了，你们一族的图腾不在这里。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5040,The Skull of the White Wolf rests safely in my citadel…,白狼头骨正安稳地放在我的堡垒里……,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5050,…and my spells of corruption have already begun to warp its powers.,……我的腐化法术已经开始扭曲它的力量。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5060,"Don't you feel the chill in the air, little wolfling?",小狼崽，难道你感觉不到空气里的寒意吗？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5065,"I'd love to explain, but you won't live long enough to care.",我倒想解释给你听，可惜你活不到明白的那一天。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5070,Death is the only freedom you'll ever find.,死亡是你此生唯一能得到的自由。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,5080,"Goodbye, Grayback.",永别了，灰背。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12000,"It's been a long battle, hasn't it, Grayback?",我们打了这么久，灰背，你说是不是？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12010,So much killing! I think your Wolf Clan was safer in my mines.,死了这么多人！我看你们恶狼族待在我的矿井里还更安全。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12020,What about death? Is that what you call freedom?,那死亡呢？你把它也叫作自由吗？,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12030,Your totem was more powerful than I expected.,你们的图腾比我预想的更强大。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12040,"It has…changed me, as much as I've changed it.",它……改变了我，就像我改变了它。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12050,"I have been reborn, Grayback! Reborn as a goddess!",我重生了，灰背！重生为女神！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12060,"Yes, I am mad now.",是啊，我现在疯了。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12070,But madness isn't my only source of power!,可疯狂并非我唯一的力量来源！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12080,All the magic of the Wolf Clan is bound to me by these Orbs of Corruption.,这些腐化宝珠把恶狼族的所有魔法都与我绑在了一起。,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12090,You'll never defeat me while I wield the power of the White Wolf!,只要我掌握白狼的力量，你就绝不可能打败我！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12100,"I don’t need your Totem's power, Grayback!",我不需要你们图腾的力量，灰背！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12110,"If I have to, I'll kill you with my bare hands!",必要的话，我赤手空拳也能杀了你！,draft; Yvaine mine-to-finale v39; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry49,12120,No…!,不……！,draft; Yvaine mine-to-finale v39; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,1010,Who let you lazy dogs into my mines?,谁让你们这些懒狗进我的矿井？,draft; Serpent mines v35; font candidate pending; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,1015,Get back to work!,回去干活！,draft; Serpent mines v35; font candidate pending; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,1020,"Oh, so the dogs are finally hungry enough to wake up?",哦，狗东西终于饿醒了？,draft; Serpent mines v35; font candidate pending; not game-tested

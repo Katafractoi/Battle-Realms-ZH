@@ -170,16 +170,22 @@ def main():
         last = len(names) - 1
         used = {(round(g[4] * 512) // (size + 1), round(g[5] * 512) // (height + 1))
                 for g in glyphs if g[0] == last}
-        free = [(col, row) for row in range(rows) for col in range(cols)
-                if (col, row) not in used]
-        extra_pages = math.ceil(max(0, len(missing) - len(free)) / capacity)
-        if extra_pages > len(spare_atlases):
-            raise ValueError(f"size {size}: need {extra_pages} more atlas pages, only {len(spare_atlases)} spare")
         path = "Fonts\\" + names[-1]
         index = mapping[path]
         old_image = Image.open(io.BytesIO(raw_entry(source, index, decode))).convert("RGBA")
         if old_image.size != (512, 512):
             raise ValueError(f"bad atlas size: {path}")
+        # A cell can contain pixels even when no LFR glyph points to it.
+        # Treat the atlas image as the final authority before writing there.
+        width = max(1, round(size * .72))
+        free = [(col, row) for row in range(rows) for col in range(cols)
+                if (col, row) not in used
+                and not old_image.crop((col * (size + 1), row * (height + 1),
+                                        col * (size + 1) + width,
+                                        row * (height + 1) + height)).getbbox()]
+        extra_pages = math.ceil(max(0, len(missing) - len(free)) / capacity)
+        if extra_pages > len(spare_atlases):
+            raise ValueError(f"size {size}: need {extra_pages} more atlas pages, only {len(spare_atlases)} spare")
         images = {last: old_image.copy()}
         slots = [(last, col, row) for col, row in free]
         for _ in range(extra_pages):
