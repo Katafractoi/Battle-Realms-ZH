@@ -2735,16 +2735,13 @@ Text\ENG\WOTW_Console_Tooltips.lte,659,"A ""gift"" from the Monks. The tortured 
 Text\ENG\WOTW_Console_Tooltips.lte,660,Monastery,修道院,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
 Text\ENG\WOTW_Console_Tooltips.lte,661,This ancient monastery has long been a tranquil bastion of peace despite the war around it.,尽管战火环绕，这座古老寺院长久以来仍是宁静的避风港。,初译待审,
 Text\ENG\WOTW_Console_Tooltips.lte,662,Dismount,下马,初译待游戏内校验,Draft translated from current Zen Edition source. Exact same English in paired original/WOTW tooltip.
-Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).","原地坚守：守住原位，
-攻击射程内目标。
-再次切换或下达攻击命令前
-持续有效（远程单位除外）。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
-Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.","守卫／跟随：在小范围内
-守护区域、单位或建筑，
+Text\ENG\WOTW_Console_Tooltips.lte,663,"Stand Ground (Toggle) - Unit will hold position, attacking targets within their range. Unit will retain the order until it's toggled off or attack order is issued (does not apply to missile units).","坚守：守住原位，攻击射程内目标。
+再次切换或下达攻击命令前持续有效
+（远程单位除外）。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,664,"Guard/Follow - Unit will guard an area, unit or building within a short radius. This can be used to guard/follow a specific unit.","守卫／跟随：守护附近区域、单位或建筑，
 也可跟随指定单位。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,665,"Passive Mode (Toggle) - Unit will not attack, but will respond to melee engagement. Unit will retain the order until it's toggled off or attack order is issued.",被动模式（切换）：单位不会主动攻击，但遭遇近战攻击时会还手。再次切换或下达攻击命令前，此命令持续有效。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
-Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,"强制攻击：前往目标途中
-不与敌方单位交战。",局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
+Text\ENG\WOTW_Console_Tooltips.lte,666,Force attack - Unit will not engage enemy units en route to Forced target.,强制攻击：直赴目标，不与沿途敌人交战。,局部排版审校，待游戏内验证, | 2026-10-11 v15：术语或标点校订 | 2026-10-12 按用户截图与字段语境修整中文空格/断行；保留英文源键。
 Text\ENG\WOTW_Console_Tooltips.lte,667,Stop - Unit will momentarily stop performing any orders.,停止：单位会暂时停止执行所有命令。,显示反馈离线修订，待实机验证, | 2026-10-11 v15：术语或标点校订
 Text\ENG\WOTW_Console_Tooltips.lte,668,"Master of the Clan, Kenji is a fierce, inspiring warrior.",健治是本族之主，也是一位勇猛而善于鼓舞人心的战士。,已确认专名离线修订，待实机验证, | 2026-10-11 确认健治/信蛇
 Text\ENG\WOTW_Console_Tooltips.lte,669,Special Abilities: Critical Strike and Inspiration,特殊能力：致命一击、激励,初译待审,
