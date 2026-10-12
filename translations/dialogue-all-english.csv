@@ -1454,13 +1454,13 @@ Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry19,5020,It's Wildeye! Kill him!,,unt
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry23,8000,"We're taking you back, but not alive.",,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry23,8010,"Your mind is disobedient, but your flesh will serve us well.",,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry23,8020,"Now you understand, slave.",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8000,"You filthy beasts, do you know what you've done?",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8010,You've wrecked research that cost us hundreds of able-bodied slaves!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8020,Next you'll be trying to steal that Gaihla woman from me.,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8030,I've never had the chance to take apart one of the woods-walkers…,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8040,Yvaine is quite eager to find out how she works!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8050,"Destroy them, my golems!",,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8060,My precious laboratory…Zymeth will be furious!,,untranslated
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8000,"You filthy beasts, do you know what you've done?",肮脏的家伙，你们知道自己干了什么吗？,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8010,You've wrecked research that cost us hundreds of able-bodied slaves!,你们毁掉的研究，耗费了我们数百名健壮奴隶的性命！,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8020,Next you'll be trying to steal that Gaihla woman from me.,接下来，你们是不是还要从我手里抢走那个叫 Gaihla 的女人？,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8030,I've never had the chance to take apart one of the woods-walkers…,我还没机会拆解过林中行者呢……,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8040,Yvaine is quite eager to find out how she works!,Yvaine 一直想知道她身体里的秘密！,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8050,"Destroy them, my golems!",我的魔像，消灭他们！,draft; WOTW Lotus laboratory v38; not game-tested
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8060,My precious laboratory…Zymeth will be furious!,我的实验室……Zymeth 会气坏的！,draft; WOTW Lotus laboratory v38; not game-tested
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1010,These tunnels are forbidden to everyone but Mistress Yvaine!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1020,You again? I thought I told you to stay out!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1030,Lord Budo's orders mean nothing to me! Our Mistress will hear about this!,武堂大人的命令对我没用！我们的女主人会知道这件事！,draft; confirmed hero name; not game-tested
