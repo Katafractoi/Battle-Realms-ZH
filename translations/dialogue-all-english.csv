@@ -1,37 +1,37 @@
 ﻿source_file,string_id,english,chinese,status
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,210,"So, our paths cross again.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,220,It seems I owe you my life.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,230,No.  I always pay my debts.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,240,"Once again, I'm in your debt.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,250,You know how this works.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,260,"Until I've paid back what I owe, you'll never be rid of me.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,205,What have you done?,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,210,"So, our paths cross again.",看来我们又碰面了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,220,It seems I owe you my life.,我这条命是你救的。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,230,No.  I always pay my debts.,不，我一向有恩必报。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,240,"Once again, I'm in your debt.",你又救了我一次。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,250,You know how this works.,你知道规矩。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,260,"Until I've paid back what I owe, you'll never be rid of me.",在我报答你的救命之恩前，你别想甩掉我。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,205,What have you done?,你做了什么？,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,210,Lord Kenji!  Look!,健治大人！快看！,draft; name confirmed; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,220,Reinforcements from below - we're trapped!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,230,"Come out of there, you!",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,231,Don't move!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,240,Thank heavens!  You've saved us!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,250,"Help us, please!",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,260,Look!  The Wolf clan!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,270,The first key to the shale gate...,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,275,That's two.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,280,Ah!  Now we can open the gate!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,210,Going somewhere?,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,220,"Go if you like, but it's the Lotus clan's day to trade, and they're not too friendly to outsiders.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,230,"If I were you, I'd come back tomorrow when the Wolf clan's in town.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,240,Lord Garrin.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,250,No one's seen him for months.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,255,He speaks through his messenger Vetkin these days.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,260,"Skulking about somewhere, no doubt.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,270,Going somewhere?,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,280,I wouldn't if I were you.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,290,"It's the Wolf clan's day to trade, and they're in a frisky mood.",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,300,Lord Garrin.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,310,Titles are easy to come by these days.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,320,I'm listening.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,330,They're such pretty things.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,340,Save us!,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,350,Help!  We need help here!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,220,Reinforcements from below - we're trapped!,下面来了援军，我们被困住了！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,230,"Come out of there, you!",你，快从那里出来！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,231,Don't move!,别动！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,240,Thank heavens!  You've saved us!,谢天谢地！你救了我们！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,250,"Help us, please!",救救我们！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,260,Look!  The Wolf clan!,看！恶狼族！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,270,The first key to the shale gate...,打开页岩门的第一件信物……,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,275,That's two.,已经有两把了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,280,Ah!  Now we can open the gate!,啊！现在能打开门了！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,210,Going somewhere?,要去哪里？,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,220,"Go if you like, but it's the Lotus clan's day to trade, and they're not too friendly to outsiders.",去也行，但今天由莲花族来交易，他们对外人可不友好。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,230,"If I were you, I'd come back tomorrow when the Wolf clan's in town.",要是我，就等明天恶狼族进城时再来。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,240,Lord Garrin.,Garrin 大人。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,250,No one's seen him for months.,已经很久没人见过他了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,255,He speaks through his messenger Vetkin these days.,如今他只通过信使 Vetkin 传话。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,260,"Skulking about somewhere, no doubt.",他准是躲在什么地方。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,270,Going somewhere?,要去哪里？,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,280,I wouldn't if I were you.,要是我，就不会去。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,290,"It's the Wolf clan's day to trade, and they're in a frisky mood.",今天由恶狼族来交易，他们正兴头上。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,300,Lord Garrin.,Garrin 大人。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,310,Titles are easy to come by these days.,如今名号可真容易得来。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,320,I'm listening.,我在听。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,330,They're such pretty things.,这些东西真漂亮。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,340,Save us!,救救我们！,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,350,Help!  We need help here!,救命！我们需要帮助！,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,210,"We have been waiting for you, Lord Oja.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,220,"As we served the father, so we'll serve the son.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,230,The dragon points the way.,,untranslated
@@ -674,64 +674,64 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2920,Strip their corpses.,把他们尸�
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2930,Would Shinja kill his own men?,信蛇会杀自己的人吗？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2940,Then fetch their clothes.,那就去拿他们的装束。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2950,Forget it.,算了。,draft; adjacent scene; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2960,Lord Oja was my father.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2970,How did you know where I was?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2980,We need to pass through town.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2990,Who lives on the hill?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3000,Ah...General Garrin.  Is he well?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3010,Where is this Vetkin?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3020,We were told to stay away while the Lotus clan's in town.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3030,That doesn't sound like the Garrin I know.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3040,Cleaned up the trash.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3050,Garrin.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3060,Garrin!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3070,You remember me?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3080,Who has done this?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3090,Then the Lotus has an enemy.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3110,It can't be!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3130,The Lotus knew what it meant to build a village this close to the Spire.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3140,"I seek your wisdom, ancient one.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3150,I know.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3160,I'm not my father.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3170,I want to heal the damage my family has done to the land.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3180,I want to end this war.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3190,I can do it if you'll help me.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3200,You knew there was a ninja there?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3210,You should have warned us!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3220,Are you one of them?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3230,Will you take us to this Soul Flame?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3240,The Lotus have something that belongs to my family.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3250,You're going to help me get it back.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3270,"It's been too long, good brother.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3280,Then we'll have to hurry.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3290,Gather the rest of the monks and be ready to fight.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3300,Is there another way to cross to the High Plateau from here?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3310,I know.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3320,They'll be ready for us now.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3330,What are you?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3340,You and your kind died centuries ago!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3350,Tarrant killed you!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3360,Hunt him down!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3370,"It's been a long time, Otomo.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2960,Lord Oja was my father.,Oja 大人是我父亲。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2970,How did you know where I was?,你怎么知道我在哪里？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2980,We need to pass through town.,我们得穿过镇子。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2990,Who lives on the hill?,谁住在山上？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3000,Ah...General Garrin.  Is he well?,啊……Garrin 将军。他还好吗？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3010,Where is this Vetkin?,Vetkin 在哪里？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3020,We were told to stay away while the Lotus clan's in town.,他们说莲花族进城时，我们得躲远点。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3030,That doesn't sound like the Garrin I know.,这不像我认识的 Garrin。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3040,Cleaned up the trash.,把那些废物清理了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3050,Garrin.,Garrin。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3060,Garrin!,Garrin！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3070,You remember me?,你还记得我吗？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3080,Who has done this?,是谁干的？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3090,Then the Lotus has an enemy.,那莲花族可多了一个敌人。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3110,It can't be!,不可能！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3130,The Lotus knew what it meant to build a village this close to the Spire.,莲花族知道，在离尖塔这么近的地方建村意味着什么。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3140,"I seek your wisdom, ancient one.",古老的智者，我来求教。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3150,I know.,我知道。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3160,I'm not my father.,我和父亲不一样。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3170,I want to heal the damage my family has done to the land.,我想修复家族对这片土地造成的伤害。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3180,I want to end this war.,我想结束这场战争。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3190,I can do it if you'll help me.,只要你帮我，我就能做到。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3200,You knew there was a ninja there?,你知道那里有忍者？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3210,You should have warned us!,你早该提醒我们！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3220,Are you one of them?,你是他们一伙的？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3230,Will you take us to this Soul Flame?,你能带我们去找 Soul Flame 吗？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3240,The Lotus have something that belongs to my family.,莲花族手里有我家的东西。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3250,You're going to help me get it back.,你得帮我把它拿回来。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3270,"It's been too long, good brother.",好兄弟，许久不见了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3280,Then we'll have to hurry.,那我们得快点。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3290,Gather the rest of the monks and be ready to fight.,召集其他僧人，做好战斗准备。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3300,Is there another way to cross to the High Plateau from here?,从这里到 High Plateau，还有别的路吗？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3310,I know.,我知道。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3320,They'll be ready for us now.,他们现在肯定有了防备。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3330,What are you?,你到底是什么？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3340,You and your kind died centuries ago!,你和你的同类早在数个世纪前就死了！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3350,Tarrant killed you!,Tarrant 杀了你们！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3360,Hunt him down!,追上他！,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3370,"It's been a long time, Otomo.",好久不见了，Otomo。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3380,Why are you attacking Shinja's men?,你为什么攻击信蛇的人？,draft; confirmed hero name; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3390,The peasants of the southern provinces should obey him.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3400,He is captain of the Serpent guard.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3410,So you rebelled.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3420,Your whimpering sickens me.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3390,The peasants of the southern provinces should obey him.,南方各地的农民本该听他的。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3400,He is captain of the Serpent guard.,他是灵蛇族卫队的队长。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3410,So you rebelled.,这么说，你们造反了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3420,Your whimpering sickens me.,你这样子让我作呕。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3430,"Lead me to Shinja, and I will try to forget this nauseating conversation.",带我去找信蛇，我会尽量忘掉这场令人作呕的谈话。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3440,Shinja.,信蛇。,draft; confirmed hero name; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3450,Why?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3460,How odd.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3465,He's still able to pay his other mercenaries.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3470,I found this box of jewels in the camp of the raiders to the northwest.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3480,"If you'll work for me, they're yours.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3450,Why?,为什么？,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3460,How odd.,真不对劲。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3465,He's still able to pay his other mercenaries.,他还能付得起其他雇佣兵。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3470,I found this box of jewels in the camp of the raiders to the northwest.,我在西北方那群劫匪的营地里找到了一箱珠宝。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3480,"If you'll work for me, they're yours.",只要替我做事，这些就是你的。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3490,Then you can be twice as loyal to me as you were to Shinja.,那么，你得对我比对信蛇更加忠心。,draft; confirmed hero name; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3500,Talk or die.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3500,Talk or die.,说，或者死。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3510,"You may as well talk.  If I don't kill you, Shinja will.",你最好开口。我不杀你，信蛇也会杀你。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3520,I have business with Shinja.,我有事找信蛇。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3530,Does Shinja pay you enough to die for him?,信蛇给你的好处，值得你替他送命吗？,draft; confirmed hero name; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3540,"No, Arah - I won't have you following me again.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3550,I thought I'd shaken you for good.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3540,"No, Arah - I won't have you following me again.",不，Arah，我不会再让你跟着我。,draft; campaign v27; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3550,I thought I'd shaken you for good.,我还以为终于甩掉你了。,draft; campaign v27; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3560,Through your town.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3570,Who owns the house on the hill?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3580,Feeble old Garrin?,,untranslated
@@ -1284,15 +1284,15 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1580,Go before I kill you!,在我杀�
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1590,"Industrious, aren't they?",他们干活真勤快，不是吗？,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1600,They've spotted us!,他们发现我们了！,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1610,We're close to the mines.,我们离矿区不远了。,draft; campaign v26; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1620,The Wolf miners burned the forest to clear trails for their carts.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1630,Rally to me!,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1640,Kill the pretender!,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1650,Avenge the Serpent!,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1660,This province is already claimed.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1670,"If you have a quarrel with me, send your leader.",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1680,They've been busy.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1690,Fight through to Serpentholm!,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1700,A prize for the man who takes Otomo's head!,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1620,The Wolf miners burned the forest to clear trails for their carts.,恶狼族的矿工烧掉树林，给车子开出道路。,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1630,Rally to me!,到我这里集结！,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1640,Kill the pretender!,杀了那个假王！,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1650,Avenge the Serpent!,为灵蛇族雪恨！,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1660,This province is already claimed.,这一带已经有人占领。,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1670,"If you have a quarrel with me, send your leader.",如果你要找我算账，就派你的首领来。,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1680,They've been busy.,他们做了不少事。,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1690,Fight through to Serpentholm!,一路杀到 Serpentholm！,draft; campaign v27; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1700,A prize for the man who takes Otomo's head!,谁取下 Otomo 的头，我就给他重金！,draft; campaign v27; not game-tested
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,0,"You've done well, Serpent's Son.",,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,10,Ask your questions now.,,untranslated
 Sound\Dialogue\Unaligned_Dialogue.H2O#entry0,20,It rests with the Lotus clan.,,untranslated
