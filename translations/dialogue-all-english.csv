@@ -38,13 +38,13 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry36,230,The dragon points the way.,,untra
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,240,A Dragon Warrior must learn the skills of both a spearman and an archer.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,250,Send your spearmen to the archery range.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry36,260,Send your archers to the dojo.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,210,Run!  Shinja's men are coming!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,210,Run!  Shinja's men are coming!,快跑！信蛇的人来了！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,220,Do what you will.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,230,He goes to take the ancestral keep from the false Serpent.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,240,The Wolf clan marches to join him.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,250,I would die a hundred deaths for Otomo!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,260,"Please, help us!",,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,270,Lord Shinja has taken all our horses!,,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,270,Lord Shinja has taken all our horses!,信蛇大人把我们的马全带走了！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,280,"Without them, we'll starve when winter comes!",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,290,The market's further north.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,300,Figures.  Garrin's always favored those foreigners over his own people.,,untranslated
@@ -138,14 +138,14 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry74,710,"Select our Peasants, then scroll
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,720,Excellent!,太好了！,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,730,We're almost ready to start building our army!,我们很快就能开始组建军队了！,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,740,"To train warriors, we'll need a Dojo.",训练战士需要一座道场。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,750,Select some Peasants.,选中几名农民。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,750,Select some Peasants.,选中数名农民。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,760,Notice the Dojo is now available in the build menu.,看，建造菜单中已经可以选择道场了。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,770,We'll find a good spot and build the Dojo just like we built the Peasant Hut.,找个合适的位置，像建农舍那样建起道场。,draft; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,780,The more peasants we have selected the faster our new Dojo will be completed.,选中的农民越多，道场建成得就越快。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,790,"Also, if you hold the right mouse button down and drag left and right we can rotate the building.",按住鼠标右键左右拖动，还能旋转建筑。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,800,"When you let go of the button, the building will be placed.",松开鼠标右键，就能放置建筑。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,790,"Also, if you hold the right mouse button down and drag left and right we can rotate the building.",按住右键左右拖动，还能旋转建筑。,draft; embedded-font revision; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,800,"When you let go of the button, the building will be placed.",松开右键，就能放置建筑。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,810,"My lord, we must complete our Dojo.",大人，我们得把道场建好。,draft; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry74,820,Select some Peasants and Right-click on the Dojo you started to complete it.,选中几名农民，右键点击未完工的道场，完成建造。,draft; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry74,820,Select some Peasants and Right-click on the Dojo you started to complete it.,选中数名农民，右键点击未完工的道场，完成建造。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,830,"Now we'll train our first warrior, a Spearman.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,840,Training a Spearman will cost you rice and water.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry74,850,Uh oh! We're out of rice!,,untranslated
@@ -389,7 +389,7 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,230,Kenji!  Lotus soldiers!,健治！
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,240,How did they get past Serpentholm?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,250,"If we circle around, we can avoid them.",,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,260,I was hoping you'd say that.,,untranslated
-Sound\Dialogue\Dragon_Dialogue.H2O#entry90,270,"If I squint just right, I can already see Shinja's head on a pike.",,untranslated
+Sound\Dialogue\Dragon_Dialogue.H2O#entry90,270,"If I squint just right, I can already see Shinja's head on a pike.",我仿佛已经看见信蛇的头插在长矛上。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,280,But...the Serpent's ancestral seat...,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,290,They're finished.  The Lotus has beaten them.,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,300,Can we trust them?,,untranslated
@@ -416,10 +416,10 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry90,650,Soul Flame?,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,660,Cut the other bridge - we'll seal them on the High Plateau!,,untranslated
 Sound\Dialogue\Dragon_Dialogue.H2O#entry90,670,"If we hadn't cut the bridges, the Lotus would have taken the monastery.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,400,"I am Kenji of the Serpent clan, and my ancestor broke the world.",我是灵蛇族的健治。我的祖先曾令世界分崩离析。,已确认专名离线修订，待实机验证
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",Horde 所到之处尽成废墟，他便率领族人南逃，尽力保住仅存的一切。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,410,"The Horde was destroying everything in its path, so he gathered the clan and fled south, saving what little he could.",Horde 所到之处尽成荒地，他便率领族人南逃，尽力保住仅存的一切。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,420,"But when they got to the High Plateau, there was nowhere left to run.",可当他们抵达高原时，前方已无路可逃。,draft; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来的抉择究竟意味着什么。,draft; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道 Horde 只是灵蛇族日后众多祸患中的第一个。,draft; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,430,Tarrant died without knowing what his choice to stay behind truly meant.,Tarrant 至死也不知道，留下来究竟意味着什么。,draft; embedded-font revision; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,440,He didn't know that the Horde would be only the first of many enemies to plague the Serpent clan.,他不知道 Horde 只是灵蛇族日后众多灾祸中的第一个。,draft; embedded-font revision; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,450,"He couldn't know that without the Orb's power to guide them, his descendents would be weak and wicked.",他更不可能知道，失去宝珠的指引，后代会变得软弱而邪恶。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,460,Did he ever truly have a choice?,他真的有过选择吗？,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,470,"It's been a long time, Otomo.",好久不见，Otomo。,draft; not game-tested
@@ -492,7 +492,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1130,The Orb was only half of Tarrant's
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1140,No.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1150,I have to go to the Dragon's Spire.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1160,No.  I need you here.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1170,Let Shinja contain the Lotus and Wolf if he can.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1170,Let Shinja contain the Lotus and Wolf if he can.,信蛇若有本事，就让他拖住莲花族和恶狼族。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1180,I seek the Serpent's Orb.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1190,The thief was not of the Lotus.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1200,Tarrant used the Orb to break the world.,,untranslated
@@ -503,7 +503,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1240,What evil?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1250,Wait...where will I find you?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1260,The dragon's time is over.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1265,We shouldn't have gone to him.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1270,Shinja.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1270,Shinja.,信蛇。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1280,Cut him down.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1290,We've been betrayed.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1300,No.  The village nearby will help us.,,untranslated
@@ -548,10 +548,10 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1670,No.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1680,The Serpent is dead.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1690,What if I am?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1700,Would you betray your lord so casually?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1710,Shinja and Otomo fight each other?,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1710,Shinja and Otomo fight each other?,信蛇和 Otomo 在互相争斗？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1720,Why do my father's lap dogs tear at the scraps of his empire?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1730,"True...the peasants are an ill-mannered bunch, in need of schooling.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1740,"And Shinja and Otomo are weaklings, not fit to rule.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1740,"And Shinja and Otomo are weaklings, not fit to rule.",信蛇和 Otomo 都是弱者，不配统治。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1750,Submit or I'll take your head.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1760,You know who I am.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,1770,Why did you keep fighting?,,untranslated
@@ -602,7 +602,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2200,No doubt he seeks an alliance with
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2210,I will take the main army north into these provinces and make sure he finds only corpses to befriend.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2220,These lands were once loyal to the Serpent.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2230,They must be brought back under control.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2240,"Shinja, take your men south toward the Dragon's Spire and pacify the villages along the way.",,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2240,"Shinja, take your men south toward the Dragon's Spire and pacify the villages along the way.",信蛇，带你的人向南前往龙之尖塔，一路平定各村庄。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2250,Burn them to the ground if they resist.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2260,Otomo will follow behind and clean up the surviving rabble.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2270,"If they're loyal, they have nothing to fear from me.",,untranslated
@@ -623,7 +623,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2410,That's twice now.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2420,Set an example.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2430,You're one of Otomo's men.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2440,By Otomo?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2450,And Shinja?  Where's Shinja?,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2450,And Shinja?  Where's Shinja?,信蛇？信蛇在哪里？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2460,To your posts!,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2470,"Otomo, Otomo, Otomo...",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2480,Why are you so eager to die?,,untranslated
@@ -660,20 +660,20 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2780,But the Dragon was only a myth.,,u
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2790,The meek and useless are all gone now.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2800,The last of the cowards died with the traitor Otomo.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2810,We are purified at last.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2820,It's time to make the shadows afraid.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2820,It's time to make the shadows afraid.,该让阴影害怕我们了。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2830,Left-click me to select me.,左键点击我，选中我。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2840,"After I am selected, right-click on the ground and I will move.",选中我后，右键点击地面，我就会移动。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2850,"Alternatively, right-click on an enemy and I will attack.",或者，右键点击敌人，我就会攻击。,draft; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2860,Left-click something else if you want to deselect me.,想取消选中我，就左键点击别处。,draft; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2870,After him!,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2880,It's either you or Shinja - your choice.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2890,Don't make me ask.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2900,Where’s Shinja?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2910,Do you really value his life over yours?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2920,Strip their corpses.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2930,Would Shinja kill his own men?,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2940,Then fetch their clothes.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2950,Forget it.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2870,After him!,追上他！,draft; adjacent scene; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2880,It's either you or Shinja - your choice.,你和信蛇，二选一。你自己决定。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2890,Don't make me ask.,别让我再问。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2900,Where’s Shinja?,信蛇在哪里？,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2910,Do you really value his life over yours?,你真认为他的命比你自己的更重要？,draft; adjacent scene; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2920,Strip their corpses.,把他们尸体上的装束取下来。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2930,Would Shinja kill his own men?,信蛇会杀自己的人吗？,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2940,Then fetch their clothes.,那就去拿他们的装束。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2950,Forget it.,算了。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2960,Lord Oja was my father.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2970,How did you know where I was?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2980,We need to pass through town.,,untranslated
@@ -713,23 +713,23 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3340,You and your kind died centuries a
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3350,Tarrant killed you!,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3360,Hunt him down!,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3370,"It's been a long time, Otomo.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3380,Why are you attacking Shinja's men?,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3380,Why are you attacking Shinja's men?,你为什么攻击信蛇的人？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3390,The peasants of the southern provinces should obey him.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3400,He is captain of the Serpent guard.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3410,So you rebelled.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3420,Your whimpering sickens me.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3430,"Lead me to Shinja, and I will try to forget this nauseating conversation.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3440,Shinja.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3430,"Lead me to Shinja, and I will try to forget this nauseating conversation.",带我去找信蛇，我会尽量忘掉这场令人作呕的谈话。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3440,Shinja.,信蛇。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3450,Why?,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3460,How odd.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3465,He's still able to pay his other mercenaries.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3470,I found this box of jewels in the camp of the raiders to the northwest.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3480,"If you'll work for me, they're yours.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3490,Then you can be twice as loyal to me as you were to Shinja.,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3490,Then you can be twice as loyal to me as you were to Shinja.,那么，你得对我比对信蛇更加忠心。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3500,Talk or die.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3510,"You may as well talk.  If I don't kill you, Shinja will.",,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3520,I have business with Shinja.,,untranslated
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3530,Does Shinja pay you enough to die for him?,,untranslated
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3510,"You may as well talk.  If I don't kill you, Shinja will.",你最好开口。我不杀你，信蛇也会杀你。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3520,I have business with Shinja.,我有事找信蛇。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3530,Does Shinja pay you enough to die for him?,信蛇给你的好处，值得你替他送命吗？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3540,"No, Arah - I won't have you following me again.",,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3550,I thought I'd shaken you for good.,,untranslated
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3560,Through your town.,,untranslated
@@ -896,7 +896,7 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,680,Gone.,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,690,We tried to follow...,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,700,Are you sure?,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,710,Why does he want the Orb?,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,720,Shinja...,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,720,Shinja...,信蛇……,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,730,Why did I never see that before?,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,740,"He'll come to his senses, Lord.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,750,Let me go with you.,,untranslated
@@ -978,7 +978,7 @@ Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1570,"His tax collectors take everythin
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1580,"Since your father's death, the clan has fallen apart.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1590,Only to save the peasants from...,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1600,As you command.,,untranslated
-Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1610,Shinja's bandits drove these people out.,,untranslated
+Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1610,Shinja's bandits drove these people out.,信蛇的匪徒赶走了这些人。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1620,But look - there's still one peasant hut intact!,,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1630,"With your permission, I will claim it for the clan.",,untranslated
 Sound\Dialogue\Otomo_Dialogue.H2O#entry0,1640,A new peasant has just emerged from the peasant hut.,,untranslated
@@ -1043,7 +1043,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry26,370,Ah...good...,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,380,More friends to play with...,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry26,390,Most pleasant...,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,210,You're no villager.,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,220,Kill your share of peasants and I'll find you a place in Shinja's band.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,220,Kill your share of peasants and I'll find you a place in Shinja's band.,杀够你那份农民，我就让你加入信蛇的队伍。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,230,Hyah!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,240,You fight like the Serpent.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,250,"You're Kenji, the Serpent's son.",你就是灵蛇之子健治。,draft; name confirmed; not game-tested
@@ -1051,12 +1051,12 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry47,260,But you carry the dark blade.,,u
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,270,And you are his heir.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,280,I meant no insult.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,290,"If you say the word, we're yours.",,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,300,Shinja is no leader.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,300,Shinja is no leader.,信蛇根本不是领袖。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,310,He squanders my men against Otomo's peasant rebels.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,320,The clan has fallen far since the Serpent's time.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,330,They need a firm hand to guide them.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,340,"Please, lord...let me show you how easy it would be to take it back.",,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,350,Shinja has ruled these three provinces since your father's death.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,350,Shinja has ruled these three provinces since your father's death.,你父亲死后，信蛇一直统治着这三个行省。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,360,"With his army of horsemen, he controls Hilltop Village.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,370,Otomo and his band of hired archers have set up camp here.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,380,"He cowers deep in the forest, afraid to attack.",,untranslated
@@ -1065,14 +1065,14 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry47,400,Where are all the villagers?,,un
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,410,Lord Serpent!  A rider!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,420,Who are those lowlifes?,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,430,D-Don’t kill me...He’s t-to the southeast!,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry47,440,"Shinja’s to the east, scum.",,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry47,440,"Shinja’s to the east, scum.",信蛇在东边，混账。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry47,450,"T-to the North, sir!",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,210,Lord Kenji...,健治大人……,draft; name confirmed; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,220,"I...had to warn you, Lord...",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,230,We are betrayed...,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,240,"Even now, he comes for you...",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,250,The Wolf...he has joined with the Wolf...,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry73,260,Looks like the bandits Lord Shinja hired.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry73,260,Looks like the bandits Lord Shinja hired.,看着像信蛇大人雇来的匪徒。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,270,Let 'em be - they're a harmless lot.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,280,...West.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry73,290,I’ll talk!  He's to the south!,,untranslated
@@ -1116,7 +1116,7 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry113,280,"Lead on, then.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,210,Murderer!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,220,He killed his own father!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,230,Look - he still carries the black knife!,,untranslated
-Sound\Dialogue\Serpent_Dialogue.H2O#entry122,240,We...we work for Shinja.,,untranslated
+Sound\Dialogue\Serpent_Dialogue.H2O#entry122,240,We...we work for Shinja.,我……我们替信蛇做事。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,250,His men watch us all the time from the dojo and watchtower.,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,260,The Butcher is coming!  Run!,,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry122,270,Oh no - it's The Butcher!,,untranslated
@@ -1136,14 +1136,14 @@ Sound\Dialogue\Serpent_Dialogue.H2O#entry139,250,"I am Vetkin, Garrin's chancell
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,260,"Master Garrin rides from the hill as we speak, and will be upon us shortly.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,270,"Protect me, and I'll lend my sword to your cause.",,untranslated
 Sound\Dialogue\Serpent_Dialogue.H2O#entry139,280,"Who's master now, old fool?",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,200,Of course.,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,200,Of course.,当然。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,210,"Kenji, Serpent's son.",健治，灵蛇之子。,draft; name confirmed; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,220,Once I knew a scared boy who ran from his accusers.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,230,I had to know if he was still that boy.,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,240,Are you back to rule the Serpent clan?,,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,250,"Going to break the world, then?",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,260,"As you wish, Otomo.",,untranslated
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,270,At the Swan's Pool.,,untranslated
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,220,Once I knew a scared boy who ran from his accusers.,我曾认识一个受人质问就吓得逃跑的男孩。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,230,I had to know if he was still that boy.,我得知道他是否还是当年的那个男孩。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,240,Are you back to rule the Serpent clan?,你回来统治灵蛇族了？,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,250,"Going to break the world, then?",那么，你要毁掉这个世界吗？,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,260,"As you wish, Otomo.",如你所愿，Otomo。,draft; adjacent scene; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,270,At the Swan's Pool.,在天鹅池。,draft; adjacent scene; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,280,The old man was more perceptive than we thought.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,290,He knew Serpentholm would fall.,,untranslated
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,300,The geisha are still considered untouchable.,,untranslated
@@ -1463,7 +1463,7 @@ Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8050,"Destroy them, my golems!",,
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry27,8060,My precious laboratory…Zymeth will be furious!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1010,These tunnels are forbidden to everyone but Mistress Yvaine!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1020,You again? I thought I told you to stay out!,,untranslated
-Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1030,Lord Budo's orders mean nothing to me! Our Mistress will hear about this!,,untranslated
+Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,1030,Lord Budo's orders mean nothing to me! Our Mistress will hear about this!,武堂大人的命令对我没用！我们的女主人会知道这件事！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,2010,You...you've killed all of my lovely spiders!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,2020,You heartless brute!,,untranslated
 Sound\Dialogue\WOTW_Lotus_Dialogue.H2O#entry35,2030,Ten…enough to keep my babies fed for a month.,,untranslated
@@ -1555,7 +1555,7 @@ Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,1310,Now get moving before I cha
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,1320,"Back off, dogs!",,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3000,"Well, well…my little spies have turned into rebels. How precious.",,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3010,"If these Lotus weaklings could manage their own slaves, I wouldn't be here.",,untranslated
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3020,On your knees! Nobody defies Budo!,,untranslated
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3020,On your knees! Nobody defies Budo!,双膝着地！没人敢违抗武堂！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3030,It's my job to keep you under control. Your business is with me…,,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3040,…and the Serpent Army!,,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,3050,Prince Taro sent a squadron of his elite Enforcers to help keep the peace.,,untranslated
@@ -1572,7 +1572,7 @@ Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11040,"If Taro won't kill Grayba
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11050,"Oja can feed me to his hounds, as long as Grayback dies beneath my whip.",,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11060,"Save it for Grayback, my charming murderess.",,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry0,11070,"Right now, it's time for us to trap a Wolf.",,untranslated
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10000,I see that Budo and Utara spoke the truth…,,untranslated
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10000,I see that Budo and Utara spoke the truth…,看来武堂和 Utara 说的是真的……,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10010,…the Wolf Clan is running rampant across the land.,,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10020,"I am Prince Taro, heir to the Serpent throne.",,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry54,10030,My father sent me to restore order and end this winter.,,untranslated
@@ -1617,7 +1617,7 @@ Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,9060,You won't be so lucky!,,un
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11010,That weak-hearted Prince Taro allowed them to pass.,,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11020,Sometimes I think he's more a woman than I am…,,untranslated
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11030,Even if it means disobeying Lord Oja's firstborn son?,,untranslated
-Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11040,"Mmm…you and I enjoy the same hobbies, Budo.",,untranslated
+Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11040,"Mmm…you and I enjoy the same hobbies, Budo.",啊……武堂，你我有相同的爱好。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Serpent_Dialogue.H2O#entry73,11050,We could play delightful games together if you weren't so revolting…,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,3010,(excited gibberish),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8000,(gibberish),,untranslated
@@ -1660,21 +1660,21 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1040,"No, but she's stopped fearin
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1050,Yvaine seems to think that we've lost the strength to fight.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1060,Be patient…the day of our rebellion is coming.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1070,Quiet -- I hear footsteps!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1080,"We can't work without food, Budo.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1090,That seems simple enough.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1100,Better head back to Budo and claim our rice...,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1110,The shale is broken. Where's our rice?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1120,But laws alone won't keep us from starving.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1130,Budo's tasks just get harder…let's head back.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1140,"A Wolf's hunger gives him strength, not weakness. Where's our rice?",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1150,Yvaine won't be too happy if you beat her starving slaves to death.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1160,Budo ordered us to search these tunnels for new shale to mine…,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1080,"We can't work without food, Budo.",没有米，我们就干不了活，武堂。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1090,That seems simple enough.,这听起来并不难。,draft; adjacent scene; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1100,Better head back to Budo and claim our rice...,还是回去找武堂领我们的米吧……,draft; confirmed hero name; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1110,The shale is broken. Where's our rice?,页岩坏了。我们的米在哪里？,draft; adjacent scene; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1120,But laws alone won't keep us from starving.,但光靠法规也无法让我们活下去。,draft; adjacent scene; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1130,Budo's tasks just get harder…let's head back.,武堂派的活越来越难了……回去吧。,draft; confirmed hero name; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1140,"A Wolf's hunger gives him strength, not weakness. Where's our rice?",恶狼族越饿越有力气，而非越弱。我们的米在哪里？,draft; adjacent scene; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1150,Yvaine won't be too happy if you beat her starving slaves to death.,你若把 Yvaine 的奴隶打死，她可不会高兴。,draft; adjacent scene; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1160,Budo ordered us to search these tunnels for new shale to mine…,武堂命令我们到这些地道里寻找可开采的新页岩……,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1170,I thought the Skull of the White Wolf had been lost forever!,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1180,"It's the last remnant of a forgotten spirit, and the greatest treasure of our Clan.",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1190,"The Skull Totem has incredible powers, especially over weather and nature.",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1200,"Long ago, our Druidess Order used its magic to bring our ancestors to these lands.",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1210,What could Yvaine be planning to use this for…?,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1220,I'm just following Budo's orders…is something wrong?,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1220,I'm just following Budo's orders…is something wrong?,我只是按武堂的命令办事……有什么不对吗？,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1230,I must not die...my Clan still needs me…!,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,1300,"If I can't protect my Clan brothers, the rebellion is doomed…",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,2000,She's probably just waiting for a chance to kill us quietly.,,untranslated
@@ -1724,7 +1724,7 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3120,Then I'll die as a warrior.,,
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3130,I know you won't.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3140,And you're as fat as ever.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3150,"Throw off your chains, brothers! Your Clan is at war!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3160,"Budo, you swine! You'll pay for this!",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3160,"Budo, you swine! You'll pay for this!",武堂，你这恶徒！你会付出代价的！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3165,"My poor, foolish brothers…",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3167,I'm sorry I couldn't save you.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry37,3200,Another wall of magic -- but there's no lever!,,untranslated
@@ -1965,7 +1965,7 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5005,But how will he find us?,,un
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,5010,(wild cheering),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry344,92000,So cold…,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3000,"I'm sorry, Grayback, but you'll never win against the Lotus.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3010,You offer us nothing but death…and Budo offered us food.,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,3010,You offer us nothing but death…and Budo offered us food.,你给我们的只有死路……武堂至少给我们米。,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry349,8000,Please don't take me back to the cage!,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,3000,"It's our leader! Thanks, Grayback!",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5000,"Grayback, we thought you were dead!",,untranslated
@@ -1977,7 +1977,7 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5040,There's a small town in the 
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry353,5050,"And there's a great fortress in the southeast, blocking a pass through the mountains.",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry362,8000,(angry bellowing),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1010,I'm so hungry…,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1020,"Since Budo started ordering us around, I've hardly eaten a thing!",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1020,"Since Budo started ordering us around, I've hardly eaten a thing!",武堂开始使唤我们以后，我都没能好好进食！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1030,"Do you think Mistress Yvaine is starting to trust us, Grayback?",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1040,Ha! Fighting's the easiest thing in the world!,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1050,It's pretending to be weak that's driving me crazy!,,untranslated
@@ -1988,7 +1988,7 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1090,"I can't! I'm so hungry, I'm
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1100,"Look at this, Grayback! It's amazing!",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1110,What is it?,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1115,It's Mistress Yvaine!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1120,Don't hurt us! Budo told us there was shale down here!,,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1120,Don't hurt us! Budo told us there was shale down here!,别伤害我们！武堂说这里有页岩！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,1125,We didn't touch your magic stuff...promise!,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2000,"This isn't an ordinary punishment, Grayback!",,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry364,2010,I have a bad feeling about this…,,untranslated
