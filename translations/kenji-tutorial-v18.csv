@@ -1,0 +1,5 @@
+source_file,string_id,english,chinese
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2830,Left-click me to select me.,左键点击我，选中我。
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2840,"After I am selected, right-click on the ground and I will move.",选中我后，右键点击地面，我就会移动。
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2850,"Alternatively, right-click on an enemy and I will attack.",或者，右键点击敌人，我就会攻击。
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2860,Left-click something else if you want to deselect me.,想取消选中我，就左键点击别处。
