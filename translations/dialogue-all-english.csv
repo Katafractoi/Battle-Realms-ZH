@@ -1,10 +1,10 @@
 ﻿source_file,string_id,english,chinese,status
 Sound\Dialogue\Dragon_Dialogue.H2O#entry0,210,"So, our paths cross again.",看来我们又碰面了。,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,220,It seems I owe you my life.,我这条命是你救的。,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,230,No.  I always pay my debts.,不，我一向有恩必报。,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,240,"Once again, I'm in your debt.",你又救了我一次。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,220,It seems I owe you my life.,看来我欠你一条命。,draft; v29 exact wording; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,230,No.  I always pay my debts.,不，我一向有债必还。,draft; v29 exact wording; font candidate pending; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,240,"Once again, I'm in your debt.",我又欠了你一次。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry0,250,You know how this works.,你知道规矩。,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry0,260,"Until I've paid back what I owe, you'll never be rid of me.",在我报答你的救命之恩前，你别想甩掉我。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry0,260,"Until I've paid back what I owe, you'll never be rid of me.",在我还清欠你的债之前，你别想甩掉我。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,205,What have you done?,你做了什么？,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,210,Lord Kenji!  Look!,健治大人！快看！,draft; name confirmed; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,220,Reinforcements from below - we're trapped!,下面来了援军，我们被困住了！,draft; campaign v27; not game-tested
@@ -13,14 +13,14 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry7,231,Don't move!,别动！,draft; campa
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,240,Thank heavens!  You've saved us!,谢天谢地！你救了我们！,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,250,"Help us, please!",救救我们！,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,260,Look!  The Wolf clan!,看！恶狼族！,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry7,270,The first key to the shale gate...,打开页岩门的第一件信物……,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry7,270,The first key to the shale gate...,打开页岩门的第一把钥匙……,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,275,That's two.,已经有两把了。,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry7,280,Ah!  Now we can open the gate!,啊！现在能打开门了！,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,210,Going somewhere?,要去哪里？,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,220,"Go if you like, but it's the Lotus clan's day to trade, and they're not too friendly to outsiders.",去也行，但今天由莲花族来交易，他们对外人可不友好。,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,230,"If I were you, I'd come back tomorrow when the Wolf clan's in town.",要是我，就等明天恶狼族进城时再来。,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,240,Lord Garrin.,Garrin 大人。,draft; campaign v27; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry19,250,No one's seen him for months.,已经很久没人见过他了。,draft; campaign v27; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry19,250,No one's seen him for months.,已经好几个月没人见过他了。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,255,He speaks through his messenger Vetkin these days.,如今他只通过信使 Vetkin 传话。,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,260,"Skulking about somewhere, no doubt.",他准是躲在什么地方。,draft; campaign v27; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry19,270,Going somewhere?,要去哪里？,draft; campaign v27; not game-tested
@@ -42,11 +42,11 @@ Sound\Dialogue\Dragon_Dialogue.H2O#entry43,210,Run!  Shinja's men are coming!,�
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,220,Do what you will.,随你怎么做。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,230,He goes to take the ancestral keep from the false Serpent.,他要从那个假灵蛇手里夺回祖先的要塞。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,240,The Wolf clan marches to join him.,恶狼族正在进军，与他会合。,draft; campaign v28; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,250,I would die a hundred deaths for Otomo!,为了 Otomo，死多少次我都愿意！,draft; campaign v28; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,250,I would die a hundred deaths for Otomo!,为了 Otomo，我死一百次也愿意！,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,260,"Please, help us!",求你救救我们！,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,270,Lord Shinja has taken all our horses!,信蛇大人把我们的马全带走了！,draft; confirmed hero name; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,280,"Without them, we'll starve when winter comes!",没了马匹，冬天一来我们就会饿死！,draft; campaign v28; not game-tested
-Sound\Dialogue\Dragon_Dialogue.H2O#entry43,290,The market's further north.,交易的地方还要往北走。,draft; campaign v28; not game-tested
+Sound\Dialogue\Dragon_Dialogue.H2O#entry43,290,The market's further north.,集市还要往北走。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,300,Figures.  Garrin's always favored those foreigners over his own people.,果然。Garrin 一向向着外人，胜过自己人。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,310,He's changed.,他变了。,draft; campaign v28; not game-tested
 Sound\Dialogue\Dragon_Dialogue.H2O#entry43,320,He stays locked up in that house of his and sends Vetkin to do his dirty work.,他整天把自己关在那座房子里，让 Vetkin 替他干见不得人的事。,draft; campaign v28; not game-tested
@@ -650,7 +650,7 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2680,The Wolf protect my father's kille
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2690,"No truce, no quarter.",不休战，也不留活口。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2700,They're trying to use the Orb.,他们想使用宝珠。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2710,They're trying to go home.,他们想回家。,draft; campaign v26; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2720,"If they remake the world, they can escape to the continent.",如果他们重造这个世界，就能逃往海对岸。,draft; campaign v26; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2720,"If they remake the world, they can escape to the continent.",如果他们重造这个世界，就能逃往大陆。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2730,"You'll have your fill tonight, Dead One.",今夜就让你尽兴，死者。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2740,Your time is past.,你的时代过去了。,draft; campaign v26; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,2750,You don't belong here.,这里不属于你。,draft; campaign v26; not game-tested
@@ -766,14 +766,14 @@ Sound\Dialogue\Kenji_Dialogue.H2O#entry0,3990,Take them!,拿下他们！,draft; 
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4000,I didn't...,我没有……,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4010,Where's your holy ground now?,你们的圣地现在在哪里？,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4020,"Let me 'enlighten' you, brother.",让我来教你明白，兄弟。,draft; campaign v28; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4030,Your holy ground is where I walk and where I sleep.,我走过、休息过的地方，就是你们的圣地。,draft; campaign v28; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4040,"I am your holy ground, and you will hold me as dear as you did that pile of rubble over there.",我就是你们的圣地。你们要像爱那边那堆破石头一样爱我。,draft; campaign v28; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4030,Your holy ground is where I walk and where I sleep.,我走过、睡过的地方，就是你们的圣地。,draft; v29 exact wording; font candidate pending; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4040,"I am your holy ground, and you will hold me as dear as you did that pile of rubble over there.",我就是你们的圣地。你们要像爱那边的废墟一样爱我。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4050,Do you hear me?,听见了吗？,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4060,Then gather your brothers.,那就把你的兄弟们召集起来。,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4070,There's still much to do.,还有很多事要做。,draft; campaign v28; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4080,To the altar!,去祭台！,draft; campaign v28; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4080,To the altar!,去祭坛！,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4090,Get to the Orb at all costs!,不惜一切代价夺下宝珠！,draft; campaign v28; not game-tested
-Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4100,You fool - you don't know what you've done!,无知的人，你根本不知道自己做了什么！,draft; campaign v28; not game-tested
+Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4100,You fool - you don't know what you've done!,你这傻子，根本不知道自己做了什么！,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4110,Then die!,那就去死！,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4120,What are you?,你到底是什么？,draft; campaign v28; not game-tested
 Sound\Dialogue\Kenji_Dialogue.H2O#entry0,4130,I'm not afraid of the dark.,我不怕黑暗。,draft; campaign v28; not game-tested
@@ -1267,7 +1267,7 @@ Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1410,One will do.,一个就够。,draf
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1420,Leave their corpses to rot.,让他们的尸体留在那里腐化。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1430,We have to move.,我们得走了。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1440,We serve the Serpent.,我们效忠灵蛇族。,draft; campaign v26; not game-tested
-Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1450,"Hanging over the gate, as ordered.",照命令，把它放在大门上方。,draft; campaign v26; not game-tested
+Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1450,"Hanging over the gate, as ordered.",照命令，把它挂在大门上方。,draft; v29 exact wording; font candidate pending; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1460,As long as we keep killing.,只要还能继续杀人。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1470,Yet these provinces are still unclaimed.,可这些地方仍然无人占领。,draft; campaign v26; not game-tested
 Sound\Dialogue\Shinja_Dialogue.H2O#entry0,1480,Still...the holy brothers would be good fodder for the front lines.,不过……那些圣兄弟倒很适合派去前线送死。,draft; campaign v26; not game-tested
