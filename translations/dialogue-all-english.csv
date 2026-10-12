@@ -1625,13 +1625,13 @@ Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8005,(gibberish),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8010,(gibberish),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8012,(panicked gibberish),,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry0,8020,(gibberish),,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6000,"Help! Please, somebody save us!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6010,"High Druidess Gaihla has been kidnapped, and the Forest Temple is under attack!",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6020,The Lotus aren't attacking us -- Utara and her Witches are behind this.,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6030,"Sometimes they raid our forests, looking for valuable herbs and spell components.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6040,But they've never attacked us so savagely before!,,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6050,"We drove back their first assault, but Gaihla disappeared in the confusion.",,untranslated
-Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6060,"If they succeed in destroying the Forest Temple, all will be lost!",,untranslated
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6000,"Help! Please, somebody save us!",救命！谁来救救我们！,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6010,"High Druidess Gaihla has been kidnapped, and the Forest Temple is under attack!",大祭师 Gaihla 被抓走了，森林神殿正遭受攻击！,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6020,The Lotus aren't attacking us -- Utara and her Witches are behind this.,袭击我们的不是莲花族，是 Utara 和她的女巫！,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6030,"Sometimes they raid our forests, looking for valuable herbs and spell components.",她们时常闯入我们的森林，搜寻珍贵药草和施法材料。,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6040,But they've never attacked us so savagely before!,可她们从未如此凶狠地袭击过我们！,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6050,"We drove back their first assault, but Gaihla disappeared in the confusion.",我们击退了她们的第一波进攻，但 Gaihla 在混乱中失踪了。,draft; WOTW Wolf rescue v38; not game-tested
+Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry7,6060,"If they succeed in destroying the Forest Temple, all will be lost!",要是森林神殿被毁，一切就全完了！,draft; WOTW Wolf rescue v38; not game-tested
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8010,I will be. Thank you for rescuing me.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8020,You have come to ask for my help against Yvaine.,,untranslated
 Sound\Dialogue\WOTW_Wolf_Dialogue.H2O#entry15,8030,You are courageous and strong...I will do what I can.,,untranslated
