@@ -1,0 +1,67 @@
+{
+  "schema": "brzh-ui-edits/1",
+  "version": "v0.95",
+  "archive": "Interface\\Interface.H2O",
+  "sourceArchiveSha256": "69F54D6F515ABC2B7664130695CADD3947B853CAF19E7F6FD412EA04BA1A3492",
+  "targetArchiveSha256": "01AEF3FAAC48B6DBBDBE482034340521BF8F5AA5F0A608AE0C8CEBB9544BB935",
+  "description": "Exact decoded UI byte-field changes relative to the official build; no text translation or glyph atlas data.",
+  "entries": [
+    {
+      "entry": 2187,
+      "resource": "Dragon_Tech_Tree.lsr",
+      "sourceRawSha256": "064354FBFA9D6A9F6073C7811666CF41DA82AB75920863C6D8EF0FEAC1501E93",
+      "targetRawSha256": "F71BF15A61EEEB2F2F031B6B39B12FBE22FD3C168AB11CBC0083D97062369F8F",
+      "rawBytes": 11972,
+      "edits": [
+        {
+          "offset": 11752,
+          "beforeHex": "b4375e",
+          "afterHex": "8bdb56"
+        },
+        {
+          "offset": 11780,
+          "beforeHex": "544aec",
+          "afterHex": "8fc2f5"
+        }
+      ]
+    },
+    {
+      "entry": 2211,
+      "resource": "Lotus_Tech_Tree.lsr",
+      "sourceRawSha256": "69C4F55C994C8CF05CD8082338AE89165E950F7ACD9662FE7D1CC31D8F7EB200",
+      "targetRawSha256": "FF8B2B1FA640452E5ABBF83C5643BF8BCF9DFE392A2DEC1FF7C1AA2305705220",
+      "rawBytes": 12095,
+      "edits": [
+        {
+          "offset": 11875,
+          "beforeHex": "c6ba9f",
+          "afterHex": "740291"
+        },
+        {
+          "offset": 11903,
+          "beforeHex": "20efa6",
+          "afterHex": "8fc2f5"
+        }
+      ]
+    },
+    {
+      "entry": 2257,
+      "resource": "Serpent_Tech_Tree.lsr",
+      "sourceRawSha256": "40585E87F0201351824663711DD9B284C254C711546BAA85D5F2FC5AE76401CE",
+      "targetRawSha256": "6ECE23F5721551B3D8C9A8073418FB08364013E5628A594DA0381F3956CF9BCF",
+      "rawBytes": 12433,
+      "edits": [
+        {
+          "offset": 12022,
+          "beforeHex": "84172c",
+          "afterHex": "5bbb24"
+        },
+        {
+          "offset": 12050,
+          "beforeHex": "c86f97",
+          "afterHex": "8fc2f5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Text preview/build uses the Python standard library plus the native blast decoder.
+# This dependency is used only for explicit bitmap font generation/verification.
+Pillow==12.2.0

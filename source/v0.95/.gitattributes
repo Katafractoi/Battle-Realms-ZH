@@ -1,0 +1,4 @@
+# Preserve exact snapshot and original license bytes used by SHA256 checks.
+* -text
+*.gz binary
+*.jpg binary

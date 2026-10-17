@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "repositoryBase": "8d024ba98b6f573fd8608b9cf7028b319d045db9",
+  "version": "v0.95",
+  "steamBuild": "25733254",
+  "fullTextRows": 6583,
+  "resourcesExactlyReconstructed": 37,
+  "finalTextAligned": true,
+  "supersededTermOccurrences": 0,
+  "newTermOccurrences": {
+    "杖术师": 8,
+    "抡石工": 12,
+    "剑客": 6
+  },
+  "zeroEditPreviewChanges": 0,
+  "hotfixChangedTestFields": 3,
+  "hotfixChangedTestResources": 3,
+  "hotfixPatchBytes": 30993,
+  "roundtripResourceKinds": [
+    "ini_name",
+    "lte",
+    "map_title"
+  ],
+  "backupsAndRestoredBytesExact": true,
+  "invalidInputsRejected": [
+    "whitespace/control-change",
+    "unknown-stable-id",
+    "duplicate-stable-id",
+    "placeholder-change",
+    "wrong-base-hash",
+    "missing-glyph-build-block"
+  ],
+  "nativeDecoderBuiltFromIncludedSources": true,
+  "documentedJixiangGlyphsVerified": 1610,
+  "uiReplay": {
+    "changedEntries": 3,
+    "decodedUiMatchesSelectedSnapshot": true,
+    "exactArchiveMatch": true,
+    "sha256": "01AEF3FAAC48B6DBBDBE482034340521BF8F5AA5F0A608AE0C8CEBB9544BB935"
+  },
+  "fontExtension": {
+    "newCharacters": 1500,
+    "missingSelectedCharacters": 0,
+    "newGlyphRecords": 15000,
+    "baseMappedCodepoints": 2354,
+    "candidateMappedCodepoints": 3854,
+    "baseCjkCodepoints": 1884,
+    "candidateCjkCodepoints": 3384,
+    "newTexturePages": 29,
+    "newTextureRgbaBytes": 30408704,
+    "totalTexturePages": 74,
+    "archiveBytesIncrease": 25996377,
+    "patchBytes": 4805568,
+    "finalV095BaseAligned": true,
+    "notVerified": [
+      "Game startup and rendering with the expanded atlas set",
+      "Actual GPU residency and device-specific memory behavior"
+    ]
+  },
+  "installerSourceCompiled": true,
+  "fontUpgradeBackupRestoreExact": true,
+  "sourcePrivacyAndFileTypeCheckPassed": true,
+  "pythonSourceSyntaxCheckPassed": true,
+  "originalGameArchivesIncluded": false,
+  "rawFontSoftwareIncluded": false
+}

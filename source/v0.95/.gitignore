@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.obj
+*.lib
+*.exp
+*.dll
+*.exe
+*.ttf
+*.otf
+*.H2O
+*.h2o
+*.tga
+work/
+out/
+logs/

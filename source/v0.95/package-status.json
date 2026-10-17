@@ -1,0 +1,20 @@
+{
+  "schema": "brzh-source-status/1",
+  "version": "v0.95",
+  "steamBuild": "25733254",
+  "status": "verified-local-source-candidate",
+  "finalTextAligned": true,
+  "finalInstallerAligned": true,
+  "requiredTerms": {
+    "法杖师": "杖术师",
+    "链锤兵": "抡石工",
+    "长剑客": "剑客"
+  },
+  "repositoryBase": "8d024ba98b6f573fd8608b9cf7028b319d045db9",
+  "originalGameArchivesIncluded": false,
+  "snapshotId": "4442C42B0FED3DD071B7CC395C74C6E60BCAC05FBE465CA8A348C7F69FF0AB28",
+  "resourceManifestSha256": "28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258",
+  "finalReleaseZipSha256": "A4159125588CB9278AB0336092A9EC14FBC34D86892211F1BAD6688ECC19CD13",
+  "sourceReviewComplete": true,
+  "fontExtensionStatus": "separate-candidate-static-checks-passed-runtime-pending"
+}

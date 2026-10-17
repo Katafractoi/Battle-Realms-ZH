@@ -1,0 +1,416 @@
+{
+  "schema": "brzh-source-files/1",
+  "version": "v0.95",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 109,
+      "sha256": "C10D0FB1A80536840978FA339D8C78C6BD1614D71207EF11A654B9256009A7CD"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 96,
+      "sha256": "41D2C5C4697B4ECE1E55FCE52020722FD1687BC07AF488C7EC9230F428CB5EA1"
+    },
+    {
+      "path": "docs/coverage-and-verification.json",
+      "bytes": 2007,
+      "sha256": "4F9628DD0810EF3700B41076B5A77DC7793EEE6CD3A5A9DE8936374030408464"
+    },
+    {
+      "path": "docs/official-integration.en.md",
+      "bytes": 7488,
+      "sha256": "35A457746A54C4C69654F3AF1FAA8FE720961A82D4843DD10C780DD36D70FB27"
+    },
+    {
+      "path": "docs/official-integration.zh-CN.md",
+      "bytes": 6515,
+      "sha256": "AD8EA97392EA204104CA1D5455DED1AAAB2C2FB45707FFCE3BD630E4F64F6E14"
+    },
+    {
+      "path": "font/extension-common1500.json",
+      "bytes": 207565,
+      "sha256": "1AB493EF1933402175AEB29C4489C2552E3D8F1E77A43D5CCFDFF7B4E1FBC965"
+    },
+    {
+      "path": "font/generator-config.json",
+      "bytes": 2707,
+      "sha256": "A74A74EEBE424B3DE2AFCE35E7B883FB00244DCD54E43BD1F808569576DCB255"
+    },
+    {
+      "path": "font/layout.json",
+      "bytes": 3232436,
+      "sha256": "7191E7ACCDBFB7641B6620B6071FCF8E54D72D11521162DA07CAFE2024A735E5"
+    },
+    {
+      "path": "installer/BRZH-installer.cs",
+      "bytes": 15156,
+      "sha256": "9C879E05FFDAD588F4C50F5E8362C2922AA587E1C63381A6D188D97B576BDC61"
+    },
+    {
+      "path": "installer/build.ps1",
+      "bytes": 396,
+      "sha256": "68D90E3BE4EC8F103CD26FA5D37A01BE3F7708E37F27D60756FD976900404732"
+    },
+    {
+      "path": "licenses/blast.txt",
+      "bytes": 1021,
+      "sha256": "19ED4224BEA24BA0BB2244B6F137121B202B9D6B36D3A655DB8D76BC0268407C"
+    },
+    {
+      "path": "licenses/jixiang/《吉祥宋》字体必读声明及使用范畴.txt",
+      "bytes": 1407,
+      "sha256": "9C039062BD7A4DEA4B973F414C66F557762226D9532832A240168828EC5DBBB2"
+    },
+    {
+      "path": "licenses/jixiang/字体圈欣意吉祥宋授权证书.jpg",
+      "bytes": 994435,
+      "sha256": "48B92ADCD47FAC57CF28F8F8ACDF0A67C5BD1D6A75CCBCEBD704BC79B2FB4038"
+    },
+    {
+      "path": "licenses/Pillow-LICENSE.txt",
+      "bytes": 78014,
+      "sha256": "75BB81B58F9B39786EEB2E56A1EB829AAE501042D49E1DC766CA187B6CE9656F"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 1189,
+      "sha256": "D5B8FC227F888BB80AD66D6D195CEEB1E9E0B04B74A28684E505379CB8B06773"
+    },
+    {
+      "path": "native/blast.c",
+      "bytes": 18162,
+      "sha256": "1AB3E479D342BFC144167B808FB00142264BC50F24A110CA88CC774E351C218E"
+    },
+    {
+      "path": "native/blast.h",
+      "bytes": 3864,
+      "sha256": "9C1C422B76311D4CB06863FFC056668B6240F3DD998BC02E89EE590D482BFDC2"
+    },
+    {
+      "path": "native/blast_buffer_wrapper.c",
+      "bytes": 1103,
+      "sha256": "545DFB4449E947F37148354E00A0F1382A36DABD93E6289E7D21E0953C5D772E"
+    },
+    {
+      "path": "native/build.ps1",
+      "bytes": 319,
+      "sha256": "346219DEFD798DE49D2AA63B4276A7905023CE624CCEB11AB454B7817B1B4C00"
+    },
+    {
+      "path": "package-status.json",
+      "bytes": 825,
+      "sha256": "3D8CE93AAB93D964218710B0D1D46303676D8DE0E22F237BC75BA13471C81E04"
+    },
+    {
+      "path": "README.md",
+      "bytes": 731,
+      "sha256": "96C581508020A42C021E1AB1CBEC021887F1364E147C07A0C4C0473DB8B158FE"
+    },
+    {
+      "path": "requirements-font.txt",
+      "bytes": 181,
+      "sha256": "85489402B5E30E7AFDC8E082D8C83368A929F6FDE51EDF3D27E7FEFA819721A7"
+    },
+    {
+      "path": "resources/patch-manifest.json",
+      "bytes": 15900,
+      "sha256": "28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258"
+    },
+    {
+      "path": "resources/patches/00.brzh.gz",
+      "bytes": 197,
+      "sha256": "95888FC7B9308494C1DAAD0E4A343E5888BC8D30F05F8871152A5124293A3ACD"
+    },
+    {
+      "path": "resources/patches/01.brzh.gz",
+      "bytes": 201,
+      "sha256": "3A591FC572B8F7FAC6DFDF125C18C5033314AE84C000264D884F22E7ECD12683"
+    },
+    {
+      "path": "resources/patches/02.brzh.gz",
+      "bytes": 192,
+      "sha256": "3468D824FBAE94EF5A542F926255FDBE3E4AFDD8C623FD56908702E4208FE39E"
+    },
+    {
+      "path": "resources/patches/03.brzh.gz",
+      "bytes": 198,
+      "sha256": "4FDA0B409B820A38579E04B95C0AB1626C98D194B1AE098DDC9ECA6290494976"
+    },
+    {
+      "path": "resources/patches/04.brzh.gz",
+      "bytes": 205,
+      "sha256": "A6939214FC94B63111B82255D551C0EABAE1D3BBC44F05BB5E4C714C1E404677"
+    },
+    {
+      "path": "resources/patches/05.brzh.gz",
+      "bytes": 209,
+      "sha256": "12E2C26AFB9FBE94EF2058AE714F7498AD65C1FB4F62EE8F7538C140A173C8A8"
+    },
+    {
+      "path": "resources/patches/06.brzh.gz",
+      "bytes": 205,
+      "sha256": "C1143044559CA030A5B179AFB93DB461280DD693CE645D12ABC433B66073A65D"
+    },
+    {
+      "path": "resources/patches/07.brzh.gz",
+      "bytes": 203,
+      "sha256": "9E57EBC11BCAD774CE50722E9685274A8E690B074968D8BBBA819D51269F5760"
+    },
+    {
+      "path": "resources/patches/08.brzh.gz",
+      "bytes": 206,
+      "sha256": "E1482D56102A1F0F3F3C4F1315C87DB2D7102327A5270AA089FEC2D17901CD46"
+    },
+    {
+      "path": "resources/patches/09.brzh.gz",
+      "bytes": 206,
+      "sha256": "A5EE37511DCAED08157423EED1479D9DEBD4E5577A557E95E2BAC2F7D5ECB170"
+    },
+    {
+      "path": "resources/patches/10.brzh.gz",
+      "bytes": 180,
+      "sha256": "80AE61E34E1A04D711D95CB2EE3FD22E6D78917F1016C52C3EECDE997B50A6E9"
+    },
+    {
+      "path": "resources/patches/11.brzh.gz",
+      "bytes": 202,
+      "sha256": "75884BBA431D8128A825E05999D6A355B5010383A48004B4253C853FCB79D210"
+    },
+    {
+      "path": "resources/patches/12.brzh.gz",
+      "bytes": 210,
+      "sha256": "3B957D78AD9DC9DDE5089BB86CB14658F137FDEAD5F59B892B44CF622A0E1015"
+    },
+    {
+      "path": "resources/patches/13.brzh.gz",
+      "bytes": 203,
+      "sha256": "A6F790BE0C2944E3F65A4A80736EED2142F0C6FA7D20310094D3E152517FE5DF"
+    },
+    {
+      "path": "resources/patches/14.brzh.gz",
+      "bytes": 202,
+      "sha256": "C230A217510679AA072962A59E44A9F29ED0FBB0D67B06A31F104A79C8E123AC"
+    },
+    {
+      "path": "resources/patches/15.brzh.gz",
+      "bytes": 179,
+      "sha256": "EE129D10B4ECF441145B710C0ADDA9BF8D3DC2CEFBA627B74717D741F5B6933D"
+    },
+    {
+      "path": "resources/patches/16.brzh.gz",
+      "bytes": 203,
+      "sha256": "F8CEEEC1ED856329C4F77DC609B75BF9078A85085DEE270B7BA320F6265AD66B"
+    },
+    {
+      "path": "resources/patches/17.brzh.gz",
+      "bytes": 202,
+      "sha256": "2AEEEAFC72C935CCE8A7615886B5265454FF9130CF386EB727AB945DF9FEB67B"
+    },
+    {
+      "path": "resources/patches/18.brzh.gz",
+      "bytes": 208,
+      "sha256": "981543306DEDEDBA958BB10CBBF8A89368341C8D5F12203BEF51A9552B15BD77"
+    },
+    {
+      "path": "resources/patches/19.brzh.gz",
+      "bytes": 208,
+      "sha256": "181FC4948455FEF5481E8F3000D47093370916F0E5549819171D9E3D319EE28A"
+    },
+    {
+      "path": "resources/patches/20.brzh.gz",
+      "bytes": 208,
+      "sha256": "4A9A507EDEC3106A5B4BA9C8EF8AE123FF2459EB43B21B17A726EB7B005D5E4E"
+    },
+    {
+      "path": "resources/patches/21.brzh.gz",
+      "bytes": 206,
+      "sha256": "23B16834180B6D122BBC1633003E13B59D253F6FF5337050D098BE8D7FAD780F"
+    },
+    {
+      "path": "resources/patches/22.brzh.gz",
+      "bytes": 210,
+      "sha256": "B80EE7DE874F50FB1117370E4C06CF63B196015E9AA7AD6FBD1B241FFC0EFCC7"
+    },
+    {
+      "path": "resources/patches/23.brzh.gz",
+      "bytes": 5382707,
+      "sha256": "3B5DB93F2C0E86BB2C37387996D1B5ACBE6940C2BE04812942A6D3B4D6972B3C"
+    },
+    {
+      "path": "resources/patches/24.brzh.gz",
+      "bytes": 5944,
+      "sha256": "85C60753207D7B3BE98AEBFF0EBD7E2BDE4920D7500B390BB1CB37F5E6443AFA"
+    },
+    {
+      "path": "resources/patches/25.brzh.gz",
+      "bytes": 47151,
+      "sha256": "AC599EE451BE080CE159058DDB05BC3F10EB88C1FA3C0C22AD335C737D9EB678"
+    },
+    {
+      "path": "resources/patches/26.brzh.gz",
+      "bytes": 105633,
+      "sha256": "621C6163BD06F460BB3AED8273836F34D8BE2370FF1CBBBD28AFE75B2F3FEB89"
+    },
+    {
+      "path": "resources/patches/27.brzh.gz",
+      "bytes": 14268,
+      "sha256": "E061A6540F4BE9C0E775F8C18A419762A6CEB15B57AC2E13D002DDE836111C37"
+    },
+    {
+      "path": "resources/patches/28.brzh.gz",
+      "bytes": 44600,
+      "sha256": "4737A7C09CB6EA4204E6BCE78B54C493FA60A0974092AD778FCD1E89538F389E"
+    },
+    {
+      "path": "resources/patches/29.brzh.gz",
+      "bytes": 43930,
+      "sha256": "6F52C58B4A160522D0DD892F27CC5D40C7DBAABB14C1B3D4FD62BF68DD3524E4"
+    },
+    {
+      "path": "resources/patches/30.brzh.gz",
+      "bytes": 45015,
+      "sha256": "D61EA814C6E89C00E15C2C219ED65142604702F475E66047F88997461D1494EB"
+    },
+    {
+      "path": "resources/patches/31.brzh.gz",
+      "bytes": 21963,
+      "sha256": "D4724934D9FFA0C9805E5F9578A13242E9C289B0400A92240978174DA1B1DB87"
+    },
+    {
+      "path": "resources/patches/32.brzh.gz",
+      "bytes": 8219,
+      "sha256": "A4332BA8B702A0D8FFD9714FC92BAF80A3AF3B1DEF0AAA818D6868AC8A5DADEC"
+    },
+    {
+      "path": "resources/patches/33.brzh.gz",
+      "bytes": 15194,
+      "sha256": "6B6589520B61A12C4F51A599A900C65C4575859381E51E7FDC91C18905D645D2"
+    },
+    {
+      "path": "resources/patches/34.brzh.gz",
+      "bytes": 14717,
+      "sha256": "3A76A1B3099CA339A6D40007C850CB4BC5A4912E6A0FD9AEE568A84554C7F70E"
+    },
+    {
+      "path": "resources/patches/35.brzh.gz",
+      "bytes": 112392,
+      "sha256": "F229C4A2CBF81DF22B32656E69BF09854B3DA43050338A91A9C2785DEF996D4C"
+    },
+    {
+      "path": "resources/patches/36.brzh.gz",
+      "bytes": 104701,
+      "sha256": "5ECC4B52F71CE50AAA6BC5246F70F21A9ABA163046C2AAE6B34535DB53813C21"
+    },
+    {
+      "path": "tools/br_repack_preserve_raw.py",
+      "bytes": 1828,
+      "sha256": "F463B73AC1C262297538C2D584D40175023F71B7F55F5D079A4DBCA0089B2638"
+    },
+    {
+      "path": "tools/br_review_common.py",
+      "bytes": 7742,
+      "sha256": "2A34E275A563EB5BE64669BCB51BA1E333D59B7931D938B7F2577CEF9BEF354F"
+    },
+    {
+      "path": "tools/build_resources.py",
+      "bytes": 2699,
+      "sha256": "463C182B0ED2331BA1C8DA9054B15AECFF3DF45576E632D77A4CC167D6D9A37B"
+    },
+    {
+      "path": "tools/dialogue-entry-map.json",
+      "bytes": 110,
+      "sha256": "C2F396A97E93D6616835E0F39EF31E100B146E2E765440B60B5713CC016DF2F1"
+    },
+    {
+      "path": "tools/extend_common_font.py",
+      "bytes": 9393,
+      "sha256": "7ECE69725CBD5A3B6FB2B3EEB2F86CD2A78E7C71DA9732B9942DC11161B66E64"
+    },
+    {
+      "path": "tools/font_cmap.py",
+      "bytes": 1661,
+      "sha256": "B84E5E67AA7EEDFD04C753B2CA7F87C84279837CA45768B8F7312C893265F36B"
+    },
+    {
+      "path": "tools/font_codec.py",
+      "bytes": 3617,
+      "sha256": "EBCD9AD7A87A9BFDE98D8927A556380520602E2BD6C9E6F5301B3E1A9484465E"
+    },
+    {
+      "path": "tools/font_upgrade.py",
+      "bytes": 1768,
+      "sha256": "8EAA2952FD69F2B63BCC19EB8F45EE75447AF31BA388DF3C4FC2B7B1F49C34AB"
+    },
+    {
+      "path": "tools/interface-entry-map.json",
+      "bytes": 1170,
+      "sha256": "04473358F642154BDCD70D61FBBD2C2D5A60E1E6D57B3484DA2DFFAA99BE6913"
+    },
+    {
+      "path": "tools/interface-font-entry-map.json",
+      "bytes": 3145,
+      "sha256": "96C6370A9C530929AE83F2C3F3FD2849BBFB0BD8576FF916C1730ED017E4B053"
+    },
+    {
+      "path": "tools/patch_lte_h2o.py",
+      "bytes": 6429,
+      "sha256": "E08BB16F782A64E96E6C7596786C50B42FEDB577905EE2C39CA9D390E22F956B"
+    },
+    {
+      "path": "tools/refresh_snapshot.py",
+      "bytes": 5050,
+      "sha256": "C4A0A15E0C879913545568AC859C3B202B67075B18886BDA0D16A6FE6D5214CF"
+    },
+    {
+      "path": "tools/replay_ui.py",
+      "bytes": 1947,
+      "sha256": "FF9852A84F2C05A46565887BEC9EC712EEDAE08BC114939E01671C5E980FC80A"
+    },
+    {
+      "path": "tools/resource_delta.py",
+      "bytes": 2818,
+      "sha256": "22E5C3D1D76D2D322A2A9A8AB49D7A9D47A90D3A8780858074483FB7E528B764"
+    },
+    {
+      "path": "tools/review_validation.py",
+      "bytes": 2922,
+      "sha256": "340C3FB9E0CDE2CB4E2419A5A021F009753CB1B023B97040207F437813EC284A"
+    },
+    {
+      "path": "tools/text_hotfix.py",
+      "bytes": 7843,
+      "sha256": "2E077D4AE64272A250996C125C2F6AFEE2C50D8CD534F4A24A2C85EABF77C05B"
+    },
+    {
+      "path": "tools/verify_jixiang.py",
+      "bytes": 1786,
+      "sha256": "06F651AAE99D638A0BD9D45354ABD3FBEDD4AFACECE0E05F877E782FEF6AB6F4"
+    },
+    {
+      "path": "translations/baseline.json",
+      "bytes": 5531099,
+      "sha256": "4442C42B0FED3DD071B7CC395C74C6E60BCAC05FBE465CA8A348C7F69FF0AB28"
+    },
+    {
+      "path": "translations/font-advances32.json",
+      "bytes": 46316,
+      "sha256": "D972EDC02B1D9FE27CF2430CB086963247747D3839DBC4D0232854EC00D8CFE6"
+    },
+    {
+      "path": "translations/locations.json",
+      "bytes": 3076423,
+      "sha256": "44DE2589948802A51719CD7F2C9F17D165BAB9D3F3B4F3EE9A60461D918B2D3A"
+    },
+    {
+      "path": "translations/text.csv",
+      "bytes": 1430592,
+      "sha256": "E98704D7CABEE701D4999F407A9169DCAC7C87E3A5F871B19ECFE282BFEFB278"
+    },
+    {
+      "path": "ui/byte-edits.json",
+      "bytes": 2103,
+      "sha256": "449D7013FA30D521391F55F0514DF72F0BF98DAF194DFD78245D5BAD9BD902DF"
+    }
+  ]
+}
