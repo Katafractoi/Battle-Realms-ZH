@@ -20,13 +20,13 @@
     },
     {
       "path": "docs/official-integration.en.md",
-      "bytes": 9785,
-      "sha256": "D39FE7C0585B0E39E2E0C58585944CB25F2789D15F5E621003A92A403ACF70B0"
+      "bytes": 9710,
+      "sha256": "FF19AA09DCE74F33D35641D856749C5E6900871F3F03F123DB09C9DBBE004B72"
     },
     {
       "path": "docs/official-integration.zh-CN.md",
-      "bytes": 8418,
-      "sha256": "3ED857511C968C3C4D465E2238E86AB5ADDAFCC30605CCBC851B54E0C758C849"
+      "bytes": 8327,
+      "sha256": "53819FCFD94ECFB3F977194B914051AF923FB7872ED9C46DDA55718DDF80B267"
     },
     {
       "path": "docs/r2-package-comparison.json",
@@ -80,8 +80,8 @@
     },
     {
       "path": "installer/README.md",
-      "bytes": 2414,
-      "sha256": "87E73211C393C20C572640DDBC1B4412706A15BB451C901B2773E3D60AC53A1C"
+      "bytes": 2359,
+      "sha256": "4093FCFCC7CC699207BD7DBF34F59BB0DFDE4DA08A23499661B181A12C8EE3CE"
     },
     {
       "path": "licenses/blast.txt",
@@ -135,8 +135,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1944,
-      "sha256": "E6F530D788441E38B824FCCD3F78DD1CFBB03412AD77823E11493C9D157B771E"
+      "bytes": 1829,
+      "sha256": "1E2AF3C2D7D93CB3FB3E51A9D3A66888A626CDFA8C6952DD5F39169FD409CFC2"
     },
     {
       "path": "requirements-font.txt",

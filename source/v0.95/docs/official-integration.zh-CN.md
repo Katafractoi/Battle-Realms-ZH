@@ -1,6 +1,6 @@
 # v0.95 r2 官方接入说明
 
-适用 Windows / Steam AppID **1025600**、build **25733254**、安装器修订 **r2**。已测玩家 ZIP 为 6,732,946 字节，SHA256 `3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25`。全量文本映射及全部 37 项增量/资源目标与旧 A415 包相同。本次来源更新以 `5cbfbd5fd9ca65fd3afc2450a517f570615c6e8f` 为起点；资源快照保留最初 `8d024ba98b6f573fd8608b9cf7028b319d045db9` 的来源记录。版本仍为 **v0.95**，Release 保持预发布。
+适用 Windows / Steam AppID **1025600**、build **25733254**、安装器修订 **r2**。r2 玩家 ZIP 为 6,732,946 字节，SHA256 `3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25`。全量文本映射及全部 37 项增量/资源目标与旧 A415 包相同。本次来源更新以 `5cbfbd5fd9ca65fd3afc2450a517f570615c6e8f` 为起点；资源快照保留最初 `8d024ba98b6f573fd8608b9cf7028b319d045db9` 的来源记录。版本仍为 **v0.95**，Release 保持预发布。
 
 ## 材料入口
 
@@ -70,10 +70,10 @@ python tools/text_hotfix.py restore-copy --applied <new-applied> --output <new-r
 
 ## r2 同步及合法使用前提
 
-`r2-package-comparison.json` 逐成员核对旧包与已测 r2：40 个文件不变，3 个文件改变（EXE、源码、README），新增 `compatibility.json`、`build-info.json`，无删除。已接受文本、字体、UI、资源清单和 37 项增量均未改变。r2 增加认证旧版/现行配置的可信备份筛选、经校验原版还原、中断恢复记录、清单认证和同一游戏目录操作互斥。未知修改及不可信/不完整备份仍被拒绝。准确操作与组装要求见 `../installer/player-README.txt`、`../installer/README.md`。
+`r2-package-comparison.json` 逐成员核对旧包与 r2 发布包：40 个文件不变，3 个文件改变（EXE、源码、README），新增 `compatibility.json`、`build-info.json`，无删除。已接受文本、字体、UI、资源清单和 37 项增量均未改变。r2 增加认证旧版/现行配置的可信备份筛选、经校验原版还原、中断恢复记录、清单认证和同一游戏目录操作互斥。未知修改及不可信/不完整备份仍被拒绝。准确操作与组装要求见 `../installer/player-README.txt`、`../installer/README.md`。
 
-历史 25 项安装器回归记录与本次来源同步检查分别标注，不能据此声称新完成全游戏流程测试。本次不重编译 EXE、不修改已测 ZIP，原 ZIP 内构建时“未发布”字段也不重写。
+25 项安装器回归记录与资源、文本核验分别注明技术范围，不代表完整剧情或全设备验证。原始发布 EXE 和 ZIP 保持不变，ZIP 内“未发布”字段保留原构建时状态。
 
 请使用合法取得且哈希匹配的英文游戏副本，并遵守游戏权利人与字体作者条款。原始许可文档保留原样；本材料不授予游戏/字体的概括性再分发权，也不代表官方背书或新增授权。包内不含原始 TTF、完整游戏原版资源、凭证或私人聊天。+1500 字的可选代码/清单仅作独立来源参考；r2 配置不含其候选构建产物或增量。
 
-私有 Release 的独立附件 `BRZH-v0.95-r2-official-integration.zip` 才是本次接入材料包。GitHub 自动生成的“Source code”压缩包仍跟随未改动的 `v0.95` tag，不含本次更新的来源目录；请使用独立附件或固定 main 提交。链接仍需原有仓库授权，本次不授予任何访问权限。
+Release 的独立附件 `BRZH-v0.95-r2-integration-sources.zip` 才是本次接入材料包。GitHub 自动生成的“Source code”压缩包仍跟随未改动的 `v0.95` tag，不含本次更新的来源目录；请使用独立附件或固定 main 提交。
