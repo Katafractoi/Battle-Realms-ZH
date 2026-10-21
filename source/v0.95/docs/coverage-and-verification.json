@@ -62,5 +62,6 @@
   "sourcePrivacyAndFileTypeCheckPassed": true,
   "pythonSourceSyntaxCheckPassed": true,
   "originalGameArchivesIncluded": false,
-  "rawFontSoftwareIncluded": false
+  "rawFontSoftwareIncluded": false,
+  "scope": "Historical source/tool/font checks before the r2 sync; see r2-source-verification.json for current checks."
 }

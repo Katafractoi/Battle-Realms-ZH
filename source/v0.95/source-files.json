@@ -1,6 +1,7 @@
 {
   "schema": "brzh-source-files/1",
   "version": "v0.95",
+  "installerRevision": "r2",
   "files": [
     {
       "path": ".gitattributes",
@@ -14,18 +15,28 @@
     },
     {
       "path": "docs/coverage-and-verification.json",
-      "bytes": 2007,
-      "sha256": "4F9628DD0810EF3700B41076B5A77DC7793EEE6CD3A5A9DE8936374030408464"
+      "bytes": 2129,
+      "sha256": "B1BC8CBA401A46AA9E8CA6BF6C705F70F240C1C5B76561DCAEAF7462FD0B63F5"
     },
     {
       "path": "docs/official-integration.en.md",
-      "bytes": 7488,
-      "sha256": "35A457746A54C4C69654F3AF1FAA8FE720961A82D4843DD10C780DD36D70FB27"
+      "bytes": 9785,
+      "sha256": "D39FE7C0585B0E39E2E0C58585944CB25F2789D15F5E621003A92A403ACF70B0"
     },
     {
       "path": "docs/official-integration.zh-CN.md",
-      "bytes": 6515,
-      "sha256": "AD8EA97392EA204104CA1D5455DED1AAAB2C2FB45707FFCE3BD630E4F64F6E14"
+      "bytes": 8418,
+      "sha256": "3ED857511C968C3C4D465E2238E86AB5ADDAFCC30605CCBC851B54E0C758C849"
+    },
+    {
+      "path": "docs/r2-package-comparison.json",
+      "bytes": 11986,
+      "sha256": "C6F2B136295E8115921ECAAFF4E0821BD734C7896727C51CE28C449EE16B0846"
+    },
+    {
+      "path": "docs/r2-source-verification.json",
+      "bytes": 7906,
+      "sha256": "CD3451E93FE9DE54BFF25ED956EDFCA523B1E4963C94F28D2AAE25D358B2A814"
     },
     {
       "path": "font/extension-common1500.json",
@@ -44,13 +55,33 @@
     },
     {
       "path": "installer/BRZH-installer.cs",
-      "bytes": 15156,
-      "sha256": "9C879E05FFDAD588F4C50F5E8362C2922AA587E1C63381A6D188D97B576BDC61"
+      "bytes": 24329,
+      "sha256": "E1C85266DB7D4461FCBA22DCFCDB945FA9F25F81CDE724B5EF5BBE0028523E56"
+    },
+    {
+      "path": "installer/build-info.json",
+      "bytes": 576,
+      "sha256": "040E63DFA706C3FDB7DB4E6815D5351E7982D4F9AD012E3B199293351955F11A"
     },
     {
       "path": "installer/build.ps1",
       "bytes": 396,
       "sha256": "68D90E3BE4EC8F103CD26FA5D37A01BE3F7708E37F27D60756FD976900404732"
+    },
+    {
+      "path": "installer/compatibility.json",
+      "bytes": 17153,
+      "sha256": "E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540"
+    },
+    {
+      "path": "installer/player-README.txt",
+      "bytes": 3080,
+      "sha256": "2DC5D8C5BE2DB3A91732EA13B8EDDF26EBB527B4F9C6160CBC2896E00D65EFA1"
+    },
+    {
+      "path": "installer/README.md",
+      "bytes": 2414,
+      "sha256": "87E73211C393C20C572640DDBC1B4412706A15BB451C901B2773E3D60AC53A1C"
     },
     {
       "path": "licenses/blast.txt",
@@ -99,13 +130,13 @@
     },
     {
       "path": "package-status.json",
-      "bytes": 825,
-      "sha256": "3D8CE93AAB93D964218710B0D1D46303676D8DE0E22F237BC75BA13471C81E04"
+      "bytes": 1572,
+      "sha256": "FE76D5FD002C68BE2283C902D5F27F381358369E0D457D01D34481C41B10C2DE"
     },
     {
       "path": "README.md",
-      "bytes": 731,
-      "sha256": "96C581508020A42C021E1AB1CBEC021887F1364E147C07A0C4C0473DB8B158FE"
+      "bytes": 1944,
+      "sha256": "E6F530D788441E38B824FCCD3F78DD1CFBB03412AD77823E11493C9D157B771E"
     },
     {
       "path": "requirements-font.txt",

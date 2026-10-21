@@ -1,0 +1,248 @@
+{
+  "schema": "brzh-r2-source-verification/1",
+  "status": "passed",
+  "version": "v0.95",
+  "installerRevision": "r2",
+  "steamBuild": "25733254",
+  "testedPlayerZipSha256": "3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25",
+  "testedPlayerZipBytes": 6732946,
+  "installerFilesCopiedByteForByte": true,
+  "installerRecompiled": false,
+  "resourcesReconstructedInMemory": 37,
+  "resources": [
+    {
+      "path": "AIProfiles\\Arah.ini",
+      "bytes": 208,
+      "sha256": "60E1F3D3DBFDB90899766C2154B81E49BA915FFD38AC6C4C36E0C5BFA28D4142",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Budo.ini",
+      "bytes": 210,
+      "sha256": "BF22CC132B3BBC344E0FEC17BB2DA1A3AD433643E8B316B95BDF27A9E2F7F406",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Gaihla.ini",
+      "bytes": 205,
+      "sha256": "AC55E41AC9778E6912E36CE53A4B506A4D77ED5303EFDFF0F0943EF204E45E27",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Garrin.ini",
+      "bytes": 211,
+      "sha256": "2A3C6ACEDFA784B1F2B865715B1CC11D053F1282D36B0AFBD37EB5861A7B0D39",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Grayback.ini",
+      "bytes": 213,
+      "sha256": "9B46C02D4802B541E843FC7ADAE09D22A028064043601910E0A4846C379BD2C3",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Issyl.ini",
+      "bytes": 214,
+      "sha256": "2E3B09EAFC4E4D55ED447026B5103CD6866266EC6BABE2F5675D56E3C74B6C7D",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Kazan.ini",
+      "bytes": 212,
+      "sha256": "8B79CECB56D0FE1E1977A5B31CB5AD5E8372FD8CBC697682533BC85BFA929073",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Kenji.ini",
+      "bytes": 212,
+      "sha256": "0B74C37E0DFF2CF9F351E4891A2D90B2ED018B28B1E3C84120B4F3B89FAFF2CD",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Longtooth.ini",
+      "bytes": 214,
+      "sha256": "4C0E7A32FE520A078883F064C482994B1727B4DE1A3C8EA3322F0156BE9D75E1",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Necromancer.ini",
+      "bytes": 215,
+      "sha256": "77F1AEC88E86F94A305EA2035EE54F0302A2CC6B8D3E9F437A9792BAD0E989F8",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Nightvol.ini",
+      "bytes": 224,
+      "sha256": "98497081432D5A28A7FE5E1AC6AA7235152D79CD90C6D6B68F873EB1B2707D5C",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Otomo.ini",
+      "bytes": 212,
+      "sha256": "DC6EEB6A0F9A2713E723C643D149A32A1BF19A363CC0276CAF99A1DA22ED4D27",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Shale Lord.ini",
+      "bytes": 216,
+      "sha256": "014316097A76BAA1C40CD14642D31919B2B02D6C3184F6A7F37043C5F6E8E8F9",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Shinja.ini",
+      "bytes": 213,
+      "sha256": "09258C6141DA36441AD48F1568943BD7C9E7A81B431878E8FAA69C2C7B68B1ED",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Soban.ini",
+      "bytes": 212,
+      "sha256": "FE3407B3DD51CE7062B6A14AF11B21635A24B00A8BA75101F4B2AE9798F020F5",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Tao.ini",
+      "bytes": 214,
+      "sha256": "647926225F686F5E2FD9CD7BFE44B4F40C27C6BA5C0A0114CF3436FFB924AA46",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Taro.ini",
+      "bytes": 211,
+      "sha256": "CD6DAB151780EA0FAAFAC6EC440FE781FB6F11916A69214E1174221DDAA2A7D6",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Teppo.ini",
+      "bytes": 212,
+      "sha256": "6AD23CA76663C8A13CE22F7AC4320ABD0FD855761EFF92077B70D0099D0B5E41",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Utara.ini",
+      "bytes": 214,
+      "sha256": "9B52F241DC2EB3A0967AC6F3C781645B80E5ADDD89E16192CDDD43C90F07380B",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Vetkin.ini",
+      "bytes": 212,
+      "sha256": "5C04DDA4DAED92BD9AD61815341942B39125768E7F758441D2CF278C7D4E8BB6",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Wildeye.ini",
+      "bytes": 214,
+      "sha256": "51779A7AB5ABE3C903F8C0DDD3C0CC95BE6D470F348C0E3758AEF8D3A2CEDBA6",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Yvaine.ini",
+      "bytes": 217,
+      "sha256": "58634856EEF5555735D76F924351808471A599521EA97DA7541ED7B5B7307FEA",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "AIProfiles\\Zymeth.ini",
+      "bytes": 215,
+      "sha256": "3C86A2CD390DC7494EFC1327B3574B23F778FD7D1FF38C057ACB6B8E52B40818",
+      "textRowsReadBack": 1
+    },
+    {
+      "path": "Interface\\Interface_Text.H2O",
+      "bytes": 68632456,
+      "sha256": "6078328C4D29E62A6F1472B4D2A5983D896193E7C5BFD4EBD1A698080197D1C6",
+      "textRowsReadBack": 4346
+    },
+    {
+      "path": "Levels\\Levels_Multi.H2O",
+      "bytes": 42814520,
+      "sha256": "B01F7F37280502324067D99A28441D6D6841C1E00E514BAAE95B90AFF49F0C4A",
+      "textRowsReadBack": 97
+    },
+    {
+      "path": "Sound\\Dialogue\\Dragon_Dialogue.H2O",
+      "bytes": 45647408,
+      "sha256": "FC6CD7C95A7157EFCC1504C3EDE9648D90C2E687BE65787003D019D924459C22",
+      "textRowsReadBack": 416
+    },
+    {
+      "path": "Sound\\Dialogue\\Kenji_Dialogue.H2O",
+      "bytes": 130154305,
+      "sha256": "EC86DD9DCD91FA7A7A80569A5196C684C379168F34F5B65750A3968B34A4347A",
+      "textRowsReadBack": 362
+    },
+    {
+      "path": "Sound\\Dialogue\\Lotus_Dialogue.H2O",
+      "bytes": 27362500,
+      "sha256": "43C919E1C1855C4F0D3765469C4A116EFBF834BCC30027B31E5648C96B43D35E",
+      "textRowsReadBack": 67
+    },
+    {
+      "path": "Sound\\Dialogue\\Otomo_Dialogue.H2O",
+      "bytes": 67001403,
+      "sha256": "8C6D214984DA344F9C881BE8C61787F2A72CFB0DD196B97FC13914D8AD41758A",
+      "textRowsReadBack": 155
+    },
+    {
+      "path": "Sound\\Dialogue\\Serpent_Dialogue.H2O",
+      "bytes": 60926016,
+      "sha256": "45EE833FE1B943D9566839407A62EC31021D33F90BB862B1DE7173EF47B2E5AF",
+      "textRowsReadBack": 137
+    },
+    {
+      "path": "Sound\\Dialogue\\Shinja_Dialogue.H2O",
+      "bytes": 65536969,
+      "sha256": "DC810D90B8E3EB5B23305522538B68115A2841DB952F4E669259E25989C1ADE6",
+      "textRowsReadBack": 157
+    },
+    {
+      "path": "Sound\\Dialogue\\Unaligned_Dialogue.H2O",
+      "bytes": 52377509,
+      "sha256": "D3617E43B4DB6241DDB64C1852D206FC545E7A701C8124D150C736560724B6CB",
+      "textRowsReadBack": 106
+    },
+    {
+      "path": "Sound\\Dialogue\\Wolf_Dialogue.H2O",
+      "bytes": 13133300,
+      "sha256": "05500A04F0CDC34AC2B17492640FB5C73C119407EB175EB46EF8173CDE45A5CD",
+      "textRowsReadBack": 36
+    },
+    {
+      "path": "Sound\\Dialogue\\WOTW_Lotus_Dialogue.H2O",
+      "bytes": 49310914,
+      "sha256": "2A4F850111562F9ABBBF05661F59701B390061F08D462D9E484B86E990763BF0",
+      "textRowsReadBack": 84
+    },
+    {
+      "path": "Sound\\Dialogue\\WOTW_Serpent_Dialogue.H2O",
+      "bytes": 57278106,
+      "sha256": "24F43AC55FD92932191A2724D9EAB98B53382B402AD33B799E2478468DBF7619",
+      "textRowsReadBack": 100
+    },
+    {
+      "path": "Sound\\Dialogue\\WOTW_Wolf_Dialogue.H2O",
+      "bytes": 246941380,
+      "sha256": "4D15066CE195998DF113A281CCC3D25B885D4C6348326379F37B687BF3D3C647",
+      "textRowsReadBack": 497
+    },
+    {
+      "path": "Interface\\Interface.H2O",
+      "bytes": 76515156,
+      "sha256": "01AEF3FAAC48B6DBBDBE482034340521BF8F5AA5F0A608AE0C8CEBB9544BB935",
+      "textRowsReadBack": 0
+    }
+  ],
+  "textRowsReadBackExactly": 6583,
+  "textKinds": {
+    "lte": 6463,
+    "map_title": 97,
+    "ini_name": 23
+  },
+  "zeroEditPreviewChanges": 0,
+  "pythonSourcesParsed": true,
+  "sourceAndTopLevelInstallerCopiesEqual": true,
+  "font1500CandidateBuildArtifactsIncluded": false,
+  "initialFontInputsComplete": false,
+  "requiresSpecifiedEnglishOriginalsAndSeedDeltas": true
+}

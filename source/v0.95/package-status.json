@@ -1,8 +1,8 @@
 {
-  "schema": "brzh-source-status/1",
+  "schema": "brzh-source-status/2",
   "version": "v0.95",
   "steamBuild": "25733254",
-  "status": "verified-local-source-candidate",
+  "status": "verified-r2-source-snapshot",
   "finalTextAligned": true,
   "finalInstallerAligned": true,
   "requiredTerms": {
@@ -10,11 +10,22 @@
     "链锤兵": "抡石工",
     "长剑客": "剑客"
   },
-  "repositoryBase": "8d024ba98b6f573fd8608b9cf7028b319d045db9",
+  "repositoryBase": "5cbfbd5fd9ca65fd3afc2450a517f570615c6e8f",
   "originalGameArchivesIncluded": false,
   "snapshotId": "4442C42B0FED3DD071B7CC395C74C6E60BCAC05FBE465CA8A348C7F69FF0AB28",
   "resourceManifestSha256": "28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258",
-  "finalReleaseZipSha256": "A4159125588CB9278AB0336092A9EC14FBC34D86892211F1BAD6688ECC19CD13",
+  "finalReleaseZipSha256": "3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25",
   "sourceReviewComplete": true,
-  "fontExtensionStatus": "separate-candidate-static-checks-passed-runtime-pending"
+  "fontExtensionStatus": "optional-tools-only-candidate-artifacts-excluded-runtime-unverified",
+  "installerRevision": "r2",
+  "resourceBaseCommit": "8d024ba98b6f573fd8608b9cf7028b319d045db9",
+  "finalReleaseZipBytes": 6732946,
+  "releaseAssetName": "BRZH-v0.95-Steam-build25733254-r2.zip",
+  "previousReleaseZipSha256": "A4159125588CB9278AB0336092A9EC14FBC34D86892211F1BAD6688ECC19CD13",
+  "installerSourceSha256": "E1C85266DB7D4461FCBA22DCFCDB945FA9F25F81CDE724B5EF5BBE0028523E56",
+  "installerExeSha256": "D1F0CF9A35F9170B8011FBC95D4E08F6A412999431744E22EC69C1831ACEF2AD",
+  "compatibilityManifestSha256": "E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540",
+  "completeGameCampaignValidation": false,
+  "initialFontBuildInputsComplete": false,
+  "exactReconstructionRequiresOriginalsAndSeedDeltas": true
 }

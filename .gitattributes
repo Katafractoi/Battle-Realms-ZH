@@ -1,0 +1,3 @@
+# Preserve exact tested installer source and player instructions.
+tools/BRZHInstaller.cs -text
+docs/v0.95-installation.txt -text

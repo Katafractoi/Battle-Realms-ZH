@@ -1,0 +1,13 @@
+{
+  "product": "汉化0.95测试版",
+  "version": "v0.95",
+  "installerRevision": "r2",
+  "steamAppId": "1025600",
+  "verifiedSteamBuildId": "25733254",
+  "verifiedResourceCount": 37,
+  "resourceManifestSha256": "28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258",
+  "compatibilityManifestSha256": "E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540",
+  "previousPlayerPackageSha256": "A4159125588CB9278AB0336092A9EC14FBC34D86892211F1BAD6688ECC19CD13",
+  "distributionStatus": "local-test-candidate-not-published",
+  "resourcesUnchanged": true
+}

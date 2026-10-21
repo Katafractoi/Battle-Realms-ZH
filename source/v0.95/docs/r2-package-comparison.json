@@ -1,0 +1,374 @@
+{
+  "schema": "brzh-r2-package-comparison/1",
+  "version": "v0.95",
+  "installerRevision": "r2",
+  "steamAppId": "1025600",
+  "steamBuild": "25733254",
+  "repositoryBase": "5cbfbd5fd9ca65fd3afc2450a517f570615c6e8f",
+  "oldPlayerPackage": {
+    "name": "BRZH-v0.95-Steam-build25733254.zip",
+    "bytes": 6718648,
+    "sha256": "A4159125588CB9278AB0336092A9EC14FBC34D86892211F1BAD6688ECC19CD13"
+  },
+  "testedR2PlayerPackage": {
+    "releaseAssetName": "BRZH-v0.95-Steam-build25733254-r2.zip",
+    "bytes": 6732946,
+    "sha256": "3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25",
+    "embeddedBuildInfoStatus": "local-test-candidate-not-published",
+    "buildInfoRetainedUnchanged": true
+  },
+  "changedMembers": [
+    "BR汉化安装器.exe",
+    "README.txt",
+    "源码/BR汉化安装器.cs"
+  ],
+  "addedMembers": [
+    "build-info.json",
+    "compatibility.json"
+  ],
+  "removedMembers": [],
+  "unchangedMembers": 40,
+  "all37ResourceDeltasAndManifestIdentical": true,
+  "installerSourceSha256": "E1C85266DB7D4461FCBA22DCFCDB945FA9F25F81CDE724B5EF5BBE0028523E56",
+  "installerExeSha256": "D1F0CF9A35F9170B8011FBC95D4E08F6A412999431744E22EC69C1831ACEF2AD",
+  "compatibilityManifestSha256": "E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540",
+  "members": [
+    {
+      "path": "BR汉化安装器.exe",
+      "bytes": 30208,
+      "sha256": "D1F0CF9A35F9170B8011FBC95D4E08F6A412999431744E22EC69C1831ACEF2AD"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 3080,
+      "sha256": "2DC5D8C5BE2DB3A91732EA13B8EDDF26EBB527B4F9C6160CBC2896E00D65EFA1"
+    },
+    {
+      "path": "build-info.json",
+      "bytes": 576,
+      "sha256": "040E63DFA706C3FDB7DB4E6815D5351E7982D4F9AD012E3B199293351955F11A"
+    },
+    {
+      "path": "compatibility.json",
+      "bytes": 17153,
+      "sha256": "E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540"
+    },
+    {
+      "path": "patch-manifest.json",
+      "bytes": 15900,
+      "sha256": "28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258"
+    },
+    {
+      "path": "patches/00.brzh.gz",
+      "bytes": 197,
+      "sha256": "95888FC7B9308494C1DAAD0E4A343E5888BC8D30F05F8871152A5124293A3ACD"
+    },
+    {
+      "path": "patches/01.brzh.gz",
+      "bytes": 201,
+      "sha256": "3A591FC572B8F7FAC6DFDF125C18C5033314AE84C000264D884F22E7ECD12683"
+    },
+    {
+      "path": "patches/02.brzh.gz",
+      "bytes": 192,
+      "sha256": "3468D824FBAE94EF5A542F926255FDBE3E4AFDD8C623FD56908702E4208FE39E"
+    },
+    {
+      "path": "patches/03.brzh.gz",
+      "bytes": 198,
+      "sha256": "4FDA0B409B820A38579E04B95C0AB1626C98D194B1AE098DDC9ECA6290494976"
+    },
+    {
+      "path": "patches/04.brzh.gz",
+      "bytes": 205,
+      "sha256": "A6939214FC94B63111B82255D551C0EABAE1D3BBC44F05BB5E4C714C1E404677"
+    },
+    {
+      "path": "patches/05.brzh.gz",
+      "bytes": 209,
+      "sha256": "12E2C26AFB9FBE94EF2058AE714F7498AD65C1FB4F62EE8F7538C140A173C8A8"
+    },
+    {
+      "path": "patches/06.brzh.gz",
+      "bytes": 205,
+      "sha256": "C1143044559CA030A5B179AFB93DB461280DD693CE645D12ABC433B66073A65D"
+    },
+    {
+      "path": "patches/07.brzh.gz",
+      "bytes": 203,
+      "sha256": "9E57EBC11BCAD774CE50722E9685274A8E690B074968D8BBBA819D51269F5760"
+    },
+    {
+      "path": "patches/08.brzh.gz",
+      "bytes": 206,
+      "sha256": "E1482D56102A1F0F3F3C4F1315C87DB2D7102327A5270AA089FEC2D17901CD46"
+    },
+    {
+      "path": "patches/09.brzh.gz",
+      "bytes": 206,
+      "sha256": "A5EE37511DCAED08157423EED1479D9DEBD4E5577A557E95E2BAC2F7D5ECB170"
+    },
+    {
+      "path": "patches/10.brzh.gz",
+      "bytes": 180,
+      "sha256": "80AE61E34E1A04D711D95CB2EE3FD22E6D78917F1016C52C3EECDE997B50A6E9"
+    },
+    {
+      "path": "patches/11.brzh.gz",
+      "bytes": 202,
+      "sha256": "75884BBA431D8128A825E05999D6A355B5010383A48004B4253C853FCB79D210"
+    },
+    {
+      "path": "patches/12.brzh.gz",
+      "bytes": 210,
+      "sha256": "3B957D78AD9DC9DDE5089BB86CB14658F137FDEAD5F59B892B44CF622A0E1015"
+    },
+    {
+      "path": "patches/13.brzh.gz",
+      "bytes": 203,
+      "sha256": "A6F790BE0C2944E3F65A4A80736EED2142F0C6FA7D20310094D3E152517FE5DF"
+    },
+    {
+      "path": "patches/14.brzh.gz",
+      "bytes": 202,
+      "sha256": "C230A217510679AA072962A59E44A9F29ED0FBB0D67B06A31F104A79C8E123AC"
+    },
+    {
+      "path": "patches/15.brzh.gz",
+      "bytes": 179,
+      "sha256": "EE129D10B4ECF441145B710C0ADDA9BF8D3DC2CEFBA627B74717D741F5B6933D"
+    },
+    {
+      "path": "patches/16.brzh.gz",
+      "bytes": 203,
+      "sha256": "F8CEEEC1ED856329C4F77DC609B75BF9078A85085DEE270B7BA320F6265AD66B"
+    },
+    {
+      "path": "patches/17.brzh.gz",
+      "bytes": 202,
+      "sha256": "2AEEEAFC72C935CCE8A7615886B5265454FF9130CF386EB727AB945DF9FEB67B"
+    },
+    {
+      "path": "patches/18.brzh.gz",
+      "bytes": 208,
+      "sha256": "981543306DEDEDBA958BB10CBBF8A89368341C8D5F12203BEF51A9552B15BD77"
+    },
+    {
+      "path": "patches/19.brzh.gz",
+      "bytes": 208,
+      "sha256": "181FC4948455FEF5481E8F3000D47093370916F0E5549819171D9E3D319EE28A"
+    },
+    {
+      "path": "patches/20.brzh.gz",
+      "bytes": 208,
+      "sha256": "4A9A507EDEC3106A5B4BA9C8EF8AE123FF2459EB43B21B17A726EB7B005D5E4E"
+    },
+    {
+      "path": "patches/21.brzh.gz",
+      "bytes": 206,
+      "sha256": "23B16834180B6D122BBC1633003E13B59D253F6FF5337050D098BE8D7FAD780F"
+    },
+    {
+      "path": "patches/22.brzh.gz",
+      "bytes": 210,
+      "sha256": "B80EE7DE874F50FB1117370E4C06CF63B196015E9AA7AD6FBD1B241FFC0EFCC7"
+    },
+    {
+      "path": "patches/23.brzh.gz",
+      "bytes": 5382707,
+      "sha256": "3B5DB93F2C0E86BB2C37387996D1B5ACBE6940C2BE04812942A6D3B4D6972B3C"
+    },
+    {
+      "path": "patches/24.brzh.gz",
+      "bytes": 5944,
+      "sha256": "85C60753207D7B3BE98AEBFF0EBD7E2BDE4920D7500B390BB1CB37F5E6443AFA"
+    },
+    {
+      "path": "patches/25.brzh.gz",
+      "bytes": 47151,
+      "sha256": "AC599EE451BE080CE159058DDB05BC3F10EB88C1FA3C0C22AD335C737D9EB678"
+    },
+    {
+      "path": "patches/26.brzh.gz",
+      "bytes": 105633,
+      "sha256": "621C6163BD06F460BB3AED8273836F34D8BE2370FF1CBBBD28AFE75B2F3FEB89"
+    },
+    {
+      "path": "patches/27.brzh.gz",
+      "bytes": 14268,
+      "sha256": "E061A6540F4BE9C0E775F8C18A419762A6CEB15B57AC2E13D002DDE836111C37"
+    },
+    {
+      "path": "patches/28.brzh.gz",
+      "bytes": 44600,
+      "sha256": "4737A7C09CB6EA4204E6BCE78B54C493FA60A0974092AD778FCD1E89538F389E"
+    },
+    {
+      "path": "patches/29.brzh.gz",
+      "bytes": 43930,
+      "sha256": "6F52C58B4A160522D0DD892F27CC5D40C7DBAABB14C1B3D4FD62BF68DD3524E4"
+    },
+    {
+      "path": "patches/30.brzh.gz",
+      "bytes": 45015,
+      "sha256": "D61EA814C6E89C00E15C2C219ED65142604702F475E66047F88997461D1494EB"
+    },
+    {
+      "path": "patches/31.brzh.gz",
+      "bytes": 21963,
+      "sha256": "D4724934D9FFA0C9805E5F9578A13242E9C289B0400A92240978174DA1B1DB87"
+    },
+    {
+      "path": "patches/32.brzh.gz",
+      "bytes": 8219,
+      "sha256": "A4332BA8B702A0D8FFD9714FC92BAF80A3AF3B1DEF0AAA818D6868AC8A5DADEC"
+    },
+    {
+      "path": "patches/33.brzh.gz",
+      "bytes": 15194,
+      "sha256": "6B6589520B61A12C4F51A599A900C65C4575859381E51E7FDC91C18905D645D2"
+    },
+    {
+      "path": "patches/34.brzh.gz",
+      "bytes": 14717,
+      "sha256": "3A76A1B3099CA339A6D40007C850CB4BC5A4912E6A0FD9AEE568A84554C7F70E"
+    },
+    {
+      "path": "patches/35.brzh.gz",
+      "bytes": 112392,
+      "sha256": "F229C4A2CBF81DF22B32656E69BF09854B3DA43050338A91A9C2785DEF996D4C"
+    },
+    {
+      "path": "patches/36.brzh.gz",
+      "bytes": 104701,
+      "sha256": "5ECC4B52F71CE50AAA6BC5246F70F21A9ABA163046C2AAE6B34535DB53813C21"
+    },
+    {
+      "path": "源码/BR汉化安装器.cs",
+      "bytes": 24329,
+      "sha256": "E1C85266DB7D4461FCBA22DCFCDB945FA9F25F81CDE724B5EF5BBE0028523E56"
+    },
+    {
+      "path": "许可/《吉祥宋》字体必读声明及使用范畴.txt",
+      "bytes": 1407,
+      "sha256": "9C039062BD7A4DEA4B973F414C66F557762226D9532832A240168828EC5DBBB2"
+    },
+    {
+      "path": "许可/字体圈欣意吉祥宋授权证书.jpg",
+      "bytes": 994435,
+      "sha256": "48B92ADCD47FAC57CF28F8F8ACDF0A67C5BD1D6A75CCBCEBD704BC79B2FB4038"
+    }
+  ],
+  "historicalRegression": {
+    "reportSha256": "CCD8A3A5BAC198781C52EA27AF25EC01041B50B9EA37971B46B2E367F8E1FEB4",
+    "completedAtUtc": "2026-10-18T18:51:36.132150+00:00",
+    "passed": 25,
+    "tests": [
+      {
+        "test": "real_saved_r1_all37_accepted_with_certified_original_backup",
+        "passed": true
+      },
+      {
+        "test": "real_r1_restores_all37_originals_without_changing_old_journal",
+        "passed": true
+      },
+      {
+        "test": "original_to_r2_install_backup_and_restore_all37_exact",
+        "passed": true
+      },
+      {
+        "test": "actual_legacy_exe_install_to_r2_upgrade_no_manual_restore_old_journals_preserved",
+        "passed": true
+      },
+      {
+        "test": "upgraded_r2_restores_all37_trusted_originals",
+        "passed": true
+      },
+      {
+        "test": "newest_preparing_incomplete_backup_skipped_older_complete_backup_used",
+        "passed": true
+      },
+      {
+        "test": "only_incomplete_backup_refused_then_recovers_after_valid_backup_available",
+        "passed": true
+      },
+      {
+        "test": "backup_duplicate_rejected_without_writes_then_restores_from_trusted_backup",
+        "passed": true
+      },
+      {
+        "test": "backup_escape_rejected_without_writes_then_restores_from_trusted_backup",
+        "passed": true
+      },
+      {
+        "test": "backup_wrong-source_rejected_without_writes_then_restores_from_trusted_backup",
+        "passed": true
+      },
+      {
+        "test": "backup_untrusted-target_rejected_without_writes_then_restores_from_trusted_backup",
+        "passed": true
+      },
+      {
+        "test": "corrupt_backup_bytes_refused_then_valid_backup_recovers",
+        "passed": true
+      },
+      {
+        "test": "linked_backup_path_refused_without_reading_or_overwriting_outside_backup",
+        "passed": true
+      },
+      {
+        "test": "unknown_mod_never_accepted_even_with_valid_backup",
+        "passed": true
+      },
+      {
+        "test": "late_file_staging_conflicts_block_install_and_restore_before_any_replacement",
+        "passed": true
+      },
+      {
+        "test": "wrong_steam_build_rejected_with_detected_build_before_any_resource_writes",
+        "passed": true
+      },
+      {
+        "test": "corrupt_patch_blocks_install_but_verified_original_restore_still_works",
+        "passed": true
+      },
+      {
+        "test": "package_manifest_and_compatibility_digests_cannot_be_replaced_by_backup_metadata",
+        "passed": true
+      },
+      {
+        "test": "mid_transaction_stage_damage_rolls_back_and_verifies_entire_previous37_state",
+        "passed": true
+      },
+      {
+        "test": "owned_test_process_interrupted_during_installing_new_restore_recovers_all37_old_journal_preserved",
+        "passed": true,
+        "interruptedAtCompleted": 3
+      },
+      {
+        "test": "owned_test_process_interrupted_during_restoring_new_restore_recovers_all37_old_journal_preserved",
+        "passed": true,
+        "interruptedAtCompleted": 3
+      },
+      {
+        "test": "second_operation_refused_while_native_install_is_preparing",
+        "passed": true
+      },
+      {
+        "test": "native_shell_no_arguments_quoted_space_path_build_and_r2_visible_actual_install_waits_for_real_Esc",
+        "passed": true
+      },
+      {
+        "test": "native_menu2_restores_all37_from_sole_complete_interrupted_backup_and_waits_for_real_Esc",
+        "passed": true
+      },
+      {
+        "test": "native_failure_reason_stays_visible_enter_and_digits_do_not_close_true_Esc_exits",
+        "passed": true
+      }
+    ]
+  },
+  "installerRecompiledForDistribution": false,
+  "font1500CandidateBuildArtifactsIncluded": false,
+  "fullGameValidation": false
+}

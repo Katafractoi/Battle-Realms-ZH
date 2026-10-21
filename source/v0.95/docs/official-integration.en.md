@@ -1,6 +1,6 @@
-# v0.95 official integration guide
+# v0.95 r2 official integration guide
 
-For Windows / Steam build **25733254**. This directory uses the final v0.95 base associated with commit `8d024ba98b6f573fd8608b9cf7028b319d045db9`. Its resource manifest matches the player package. The full text mapping was read back from the final resources. The version remains **v0.95**.
+For Windows / Steam AppID **1025600**, build **25733254**, player installer revision **r2**. The tested player ZIP is 6,732,946 bytes, SHA256 `3B4461D032D4410B0B62C06FB66C6D0EE41A283D76F783E2015C74C825045F25`. The full text mapping and all 37 resource deltas/targets are unchanged from the earlier A415 package. This source update starts from `5cbfbd5fd9ca65fd3afc2450a517f570615c6e8f`; the resource snapshot retains its original `8d024ba98b6f573fd8608b9cf7028b319d045db9` provenance. The version remains **v0.95** and the Release remains a prerelease.
 
 ## Entry points
 
@@ -14,7 +14,7 @@ For Windows / Steam build **25733254**. This directory uses the final v0.95 base
 | `font/extension-common1500.json` | 1,500 new Chinese characters and frequency provenance for the separate font upgrade |
 | `resources/patch-manifest.json`, `resources/patches/` | Seed deltas that exactly reconstruct 37 final resources from the specified English originals |
 | `tools/`, `native/` | Portable tools retaining the existing LTE/H2O rewrite, font rasterization and blast algorithms |
-| `installer/` | Final installer source and build entry point, including Esc exit handling |
+| `installer/` | Exact r2 source, authenticated legacy compatibility manifest, unchanged build metadata and player instructions; optional compilation/staging guide |
 | `licenses/` | Original Jixiang license documents and required blast/Pillow notices |
 
 The 6,583 rows comprise 6,463 LTE strings, 97 map titles and 23 AI names. Empty translations and originally empty map titles are retained. Some dialogue resource identifiers use `#entryN`; use the logical resource key together with the archive, entry and text ID. Where an original English title is empty, the original-name/filename reference status is retained.
@@ -67,3 +67,13 @@ The specified English originals plus the included seed deltas exactly reconstruc
 The complete initial font build inputs have not all been recovered. Full atlases still depend on the exact seed deltas. This material does not claim that CSV and TTF alone rebuild every atlas from scratch, or that the font documents grant unrestricted font software redistribution.
 
 The +1,500-character candidate has passed structure, decode, pixel and delta readback checks. Actual game startup, rendering across sizes and device-specific memory use remain unverified. This upgrade is separate from the published v0.95 player package and does not modify the current Release.
+
+## r2 synchronization and use prerequisites
+
+The comparison in `r2-package-comparison.json` verifies the old and tested r2 ZIPs member by member: 40 unchanged members, three changed members (EXE, source, README), two additions (`compatibility.json`, `build-info.json`), and no deletions. The accepted text, fonts, UI, manifest and 37 deltas are identical. r2 adds trusted-backup selection for certified legacy/current profiles, verified-original restoration, interrupted-operation recovery records, manifest authentication and a per-game-root operation lock. Unknown modifications and untrusted/incomplete backups are refused. See `../installer/player-README.txt` and `../installer/README.md` for the exact behavior and staging requirements.
+
+The historical 25 installer regression checks are recorded separately from this source synchronization; they are not presented as a new full-game run. The EXE and ZIP are never rebuilt or modified here. The build-time “not published” field inside the original ZIP remains unchanged.
+
+Use a legally obtained, hash-matching English game copy and comply with the game rights holder's and font author's terms. Original license documents are preserved; no blanket game/font redistribution license, official endorsement, or expanded rights are granted by this handoff. The raw TTF, complete original game resources, credentials and private conversation records are excluded. Optional +1500 extension code/list is present only as a separate source reference; no expanded-font candidate build or delta is included in this r2 profile.
+
+The private Release's separate `BRZH-v0.95-r2-official-integration.zip` is the handoff bundle. GitHub's automatic “Source code” archives still follow the unchanged `v0.95` tag and do not contain this updated source directory. Use the separate attachment or a pinned main-branch commit. Access requires existing repository authorization; no sharing permission is granted by a URL.

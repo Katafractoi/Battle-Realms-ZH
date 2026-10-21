@@ -9,13 +9,16 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Web.Script.Serialization;
 using Microsoft.Win32;
+using System.Threading;
 
 public class PatchFile {
  public string path, sourceSha256, targetSha256, patch, patchSha256;
  public long sourceBytes, targetBytes;
 }
 public class PatchManifest { public string version, steamBuild; public PatchFile[] files; }
-public class BackupManifest { public string version, gameRoot, state; public PatchFile[] files; public int completed; }
+public class BackupManifest { public string version, gameRoot, state, steamBuild, installerRevision, operation; public PatchFile[] files; public int completed; public Dictionary<string,string> before; }
+public class SourceProfile { public string id, sourcePackageSha256, manifestSha256; public PatchFile[] files; }
+public class CompatibilityManifest { public string version, steamBuild; public SourceProfile[] profiles; }
 public static class BRZHInstaller {
  static JavaScriptSerializer json;
  static string package=AppDomain.CurrentDomain.BaseDirectory;
@@ -26,7 +29,7 @@ public static class BRZHInstaller {
  static void OpenLog() {
   Exception last=null;
   foreach(string parent in new [] {Path.Combine(package,"logs"),Path.Combine(Path.GetTempPath(),"BRZH-logs")}) {
-   try { Directory.CreateDirectory(parent);string p=Path.Combine(parent,"BRZH-v0.95-r1-"+DateTime.Now.ToString("yyyyMMdd-HHmmss")+"-"+Guid.NewGuid().ToString("N").Substring(0,8)+".log");log=new StreamWriter(new FileStream(p,FileMode.CreateNew,FileAccess.Write,FileShare.Read),new UTF8Encoding(true));log.AutoFlush=true;logPath=p;return; }
+   try { Directory.CreateDirectory(parent);string p=Path.Combine(parent,"BRZH-v0.95-r2-"+DateTime.Now.ToString("yyyyMMdd-HHmmss")+"-"+Guid.NewGuid().ToString("N").Substring(0,8)+".log");log=new StreamWriter(new FileStream(p,FileMode.CreateNew,FileAccess.Write,FileShare.Read),new UTF8Encoding(true));log.AutoFlush=true;logPath=p;return; }
    catch(Exception e) {last=e;}
   }
   throw new IOException("无法创建安装日志，尚未操作游戏。请把完整安装包解压到可写的普通文件夹后重试。",last);
@@ -45,6 +48,7 @@ public static class BRZHInstaller {
  }
  static string Sha(string p) { using(var f=File.OpenRead(p)) using(var h=SHA256.Create()) return BitConverter.ToString(h.ComputeHash(f)).Replace("-",""); }
  static string Child(string root,string rel) {
+  NoLink(root);
   if(String.IsNullOrEmpty(rel)||Path.IsPathRooted(rel))throw new Exception("清单路径无效。");
   string p=Path.GetFullPath(Path.Combine(root,rel)), prefix=Path.GetFullPath(root).TrimEnd('\\','/')+Path.DirectorySeparatorChar;
   if(!p.StartsWith(prefix,StringComparison.OrdinalIgnoreCase))throw new Exception("清单路径超出目录。");
@@ -66,12 +70,12 @@ public static class BRZHInstaller {
   }
  }
  static void BuildGuard(string root,string build) {
-  if(!Directory.Exists(root))throw new Exception("游戏目录不存在。");
-  string steamapps=Directory.GetParent(Directory.GetParent(root).FullName).FullName;
-  string path=Path.Combine(steamapps,"appmanifest_1025600.acf");
-  if(!File.Exists(path))throw new Exception("没有找到此安装对应的Steam清单，请选择steamapps/common/Battle Realms目录。");
-  string text=File.ReadAllText(path);
-  if(!Regex.IsMatch(text,"\"appid\"\\s+\"1025600\"")||!Regex.IsMatch(text,"\"buildid\"\\s+\""+Regex.Escape(build)+"\""))throw new Exception("仅适用Steam build "+build+"。当前版本不匹配，未覆盖文件。");
+  if(!Directory.Exists(root))throw new Exception("游戏根目录不存在。");
+  var common=Directory.GetParent(root);var apps=common==null?null:common.Parent;
+  string path=apps==null?"":Path.Combine(apps.FullName,"appmanifest_1025600.acf");
+  if(!File.Exists(path))throw new Exception("未找到 Steam AppID 1025600 清单。请从 Steam 管理菜单浏览本地文件并选择游戏根目录。");
+  string text=File.ReadAllText(path);var actual=Regex.Match(text,"\"buildid\"\\s+\"([^\"]+)\"");
+  if(!Regex.IsMatch(text,"\"appid\"\\s+\"1025600\"")||!actual.Success||actual.Groups[1].Value!=build)throw new Exception("版本不兼容：仅验证 Steam Build ID "+build+"；检测到 "+(actual.Success?actual.Groups[1].Value:"未知")+"。未覆盖资源，请使用匹配版本的安装包。");
  }
  static void CopyExactly(Stream input,Stream output,long bytes) {
   if(bytes<0)throw new Exception("补丁长度无效。"); byte[] buf=new byte[1024*1024];
@@ -89,8 +93,8 @@ public static class BRZHInstaller {
   }
   if(Sha(target)!=f.targetSha256)throw new Exception("生成资源校验失败，原文件未更改。");
  }
- static void WriteJournal(string backup,BackupManifest j) { File.WriteAllText(Path.Combine(backup,"backup.json"),json.Serialize(j),new UTF8Encoding(false)); }
  static PatchManifest Manifest() {
+  if(Sha(Child(package,"patch-manifest.json"))!=ManifestDigest)throw new Exception("资源清单校验失败，请完整解压正确的汉化0.95测试版安装包。");
   var m=json.Deserialize<PatchManifest>(File.ReadAllText(Path.Combine(package,"patch-manifest.json"),Encoding.UTF8));
   if(m.version!="v0.95"||m.steamBuild!="25733254"||m.files==null||m.files.Length!=37)throw new Exception("安装清单不符合此版本。");
   if(m.files.Select(f=>f.path.ToLowerInvariant()).Distinct().Count()!=m.files.Length)throw new Exception("清单含重复文件。");
@@ -101,57 +105,156 @@ public static class BRZHInstaller {
   }
   return m;
  }
+ // Trusted profiles are package-authenticated, never learned from backup.json.
+ const string InstallerRevision="r2";
+ const string ManifestDigest="28A57FEA068E4CECFE31C29A2DC6982ED17F0FADF7AA82E6D643EF3B84A72258";
+ const string CompatibilityDigest="E2F333EEB13B455879C146EA5FD608D83BE89D6C957BDD4F542D1CB756B1E540";
+ static void NoLink(string path) {
+  if((File.Exists(path)||Directory.Exists(path))&&(File.GetAttributes(path)&FileAttributes.ReparsePoint)!=0)throw new Exception("路径含链接，已停止："+path);
+ }
+ static Mutex TakeLock(string root) {
+  string id;using(var h=SHA256.Create())id=BitConverter.ToString(h.ComputeHash(Encoding.UTF8.GetBytes(root.ToUpperInvariant()))).Replace("-","");
+  var m=new Mutex(false,"Local\\BRZH-r2-"+id);bool owned=false;
+  try {try{owned=m.WaitOne(0);}catch(AbandonedMutexException){owned=true;}if(!owned)throw new Exception("此游戏目录已有安装或还原操作，请先等待该操作结束。");return m;}
+  catch {m.Dispose();throw;}
+ }
+ static bool Same(string a,string b) {return String.Equals(a,b,StringComparison.OrdinalIgnoreCase);}
+ static void FileSet(PatchFile[] files,PatchManifest m) {
+  if(files==null||files.Length!=37||files.Any(f=>f==null||String.IsNullOrEmpty(f.path))||files.Select(f=>f.path).Distinct(StringComparer.OrdinalIgnoreCase).Count()!=37)throw new Exception("备份或兼容清单必须恰有37项且没有重复路径。");
+  var expected=m.files.ToDictionary(f=>f.path,StringComparer.OrdinalIgnoreCase);
+  foreach(var f in files) {
+   PatchFile original;if(!expected.TryGetValue(f.path,out original)||!Same(f.sourceSha256,original.sourceSha256)||f.sourceBytes!=original.sourceBytes)throw new Exception("路径或原版哈希不属于已验证的 Steam Build ID 25733254。");
+   if(f.targetSha256==null||!Regex.IsMatch(f.targetSha256,"^[0-9A-Fa-f]{64}$")||f.targetBytes<0)throw new Exception("目标哈希或长度无效。");
+  }
+ }
+ static SourceProfile[] Profiles(PatchManifest m) {
+  string path=Child(package,"compatibility.json");
+  if(!File.Exists(path)||Sha(path)!=CompatibilityDigest)throw new Exception("兼容清单缺失或校验失败，请完整解压本安装包。");
+  var c=json.Deserialize<CompatibilityManifest>(File.ReadAllText(path,Encoding.UTF8));
+  if(c.version!=m.version||c.steamBuild!=m.steamBuild||c.profiles==null||c.profiles.Length!=1)throw new Exception("兼容清单版本不匹配。");
+  foreach(var p in c.profiles)FileSet(p.files,m);
+  return new [] {new SourceProfile {id="current-v0.95",files=m.files}}.Concat(c.profiles).ToArray();
+ }
+ static Dictionary<string,string> Snapshot(string root,PatchManifest m,SourceProfile[] profiles) {
+  BuildGuard(root,m.steamBuild);Guard(root);NoLink(root);var result=new Dictionary<string,string>(StringComparer.OrdinalIgnoreCase);
+  foreach(var f in m.files) {
+   string p=Child(root,f.path);if(!File.Exists(p))throw new Exception("资源缺失，未覆盖任何文件："+f.path+"。请使用 Steam 验证游戏文件完整性。");
+   string h=Sha(p);
+   if(!Same(h,f.sourceSha256)&&!profiles.Any(v=>v.files.Any(x=>Same(x.path,f.path)&&Same(x.targetSha256,h))))throw new Exception("未知修改或其他 MOD，已停止："+f.path+"\n实际 SHA256："+h+"\n保留现有文件。需要原版时可通过 Steam 验证游戏文件完整性。");
+   result[f.path]=h;
+  }
+  return result;
+ }
+ static bool MatchProfile(PatchFile[] files,SourceProfile profile) {
+  var by=profile.files.ToDictionary(f=>f.path,StringComparer.OrdinalIgnoreCase);
+  return files.All(f=>by.ContainsKey(f.path)&&Same(f.targetSha256,by[f.path].targetSha256)&&f.targetBytes==by[f.path].targetBytes);
+ }
+ static string FindBackup(string root,PatchManifest m,SourceProfile[] profiles) {
+  string parent=Path.Combine(root,"BRZH-backups");NoLink(parent);
+  if(File.Exists(parent))throw new Exception("BRZH-backups 被文件占用，未修改资源。");
+  if(!Directory.Exists(parent))return null;
+  foreach(string dir in Directory.GetDirectories(parent,"v0.95-*").OrderByDescending(s=>s)) {
+   try {
+    NoLink(dir);string path=Child(dir,"backup.json");if(!File.Exists(path))throw new Exception("缺少 backup.json");
+    var j=json.Deserialize<BackupManifest>(File.ReadAllText(path,Encoding.UTF8));
+    if(j==null||j.version!=m.version||String.IsNullOrEmpty(j.gameRoot)||!Same(Path.GetFullPath(j.gameRoot).TrimEnd('\\','/'),root.TrimEnd('\\','/'))||j.completed<0||j.completed>37)throw new Exception("备份目录或版本记录不匹配");
+    if(!String.IsNullOrEmpty(j.steamBuild)&&j.steamBuild!=m.steamBuild)throw new Exception("备份 Build ID 不匹配");
+    FileSet(j.files,m);if(!profiles.Any(p=>MatchProfile(j.files,p)))throw new Exception("备份目标不属于认证发行版本");
+    foreach(var f in m.files) {string p=Child(dir,f.path);if(!File.Exists(p)||new FileInfo(p).Length!=f.sourceBytes||!Same(Sha(p),f.sourceSha256))throw new Exception("原版备份不完整或损坏："+f.path);}
+    Say("已选择完整原版备份："+dir);return dir;
+   } catch(Exception e) {Trace("跳过不可用备份："+dir+"；原因："+e.Message);}
+  }
+  return null;
+ }
+ static void CheckPatches(PatchManifest m) {
+  foreach(var f in m.files) {string p=Child(package,f.patch);if(!File.Exists(p)||!Same(Sha(p),f.patchSha256))throw new Exception("安装包差分损坏，未修改资源："+f.patch);}
+ }
  static void CheckSources(string root,PatchManifest m) {
-  Trace("预检游戏版本、进程和全部37项资源："+root);
-  BuildGuard(root,m.steamBuild);Guard(root);
+  var profiles=Profiles(m);var before=Snapshot(root,m,profiles);
+  if(before.Any(p=>!Same(p.Value,m.files.First(f=>Same(f.path,p.Key)).sourceSha256))&&FindBackup(root,m,profiles)==null)throw new Exception("已识别认证汉化，但未找到完整可信的原版备份。请保留现有文件，并使用 Steam 验证修复官方文件。");
+  Say("Steam Build ID 25733254 与37项认证资源校验通过；未修改游戏。");
+ }
+ static void WritableAndReserved(string root,PatchManifest m) {
   foreach(var f in m.files) {
-   string source=Child(root,f.path),patch=Child(package,f.patch);
-   if(!File.Exists(source)||Sha(source)!=f.sourceSha256)throw new Exception("原版资源不匹配："+f.path+"。保留现有文件，请先还原原版；不会覆盖其他MOD。");
-   if(!File.Exists(patch)||Sha(patch)!=f.patchSha256)throw new Exception("安装包损坏："+f.patch);
+   string p=Child(root,f.path);if((File.GetAttributes(p)&FileAttributes.ReadOnly)!=0)throw new Exception("资源为只读，未改变权限或覆盖文件："+f.path);
+   foreach(string suffix in new [] {".brzh-restore",".brzh-rollback",".brzh-r2-next",".brzh-r2-undo"}) {
+    string q=Child(root,f.path+suffix);if(File.Exists(q)||Directory.Exists(q))throw new Exception("存在先前暂存文件，已在替换前停止："+q+"。请保留该文件与备份后联系维护者。");
+   }
   }
  }
- static void Install(string root) {
-  var m=Manifest();CheckSources(root,m);
-  string backup=Path.Combine(root,"BRZH-backups","v0.95-"+DateTime.Now.ToString("yyyyMMdd-HHmmss")+"-"+Guid.NewGuid().ToString("N").Substring(0,6));
-  Directory.CreateDirectory(backup);Trace("备份目录："+backup);string stage=Path.Combine(backup,"stage");Directory.CreateDirectory(stage);
-  var j=new BackupManifest {version=m.version,gameRoot=Path.GetFullPath(root),state="preparing",files=m.files,completed=0};WriteJournal(backup,j);
+ static void CopyChecked(string source,string target,string expected) {
+  Directory.CreateDirectory(Path.GetDirectoryName(target));File.Copy(source,target,false);
+  if(!Same(Sha(target),expected))throw new Exception("副本校验失败，尚未开始资源替换："+target);
+ }
+ static void WriteJournal(string backup,BackupManifest j) {
+  string path=Child(backup,"backup.json"),next=Child(backup,"backup.json.new");
+  using(var f=new FileStream(next,FileMode.CreateNew,FileAccess.Write,FileShare.None))using(var w=new StreamWriter(f,new UTF8Encoding(false)))w.Write(json.Serialize(j));
+  if(File.Exists(path))File.Replace(next,path,null);else File.Move(next,path);
+ }
+ static void AssertSnapshot(string root,PatchManifest m,Dictionary<string,string> expected) {
+  Guard(root);foreach(var f in m.files)if(!Same(Sha(Child(root,f.path)),expected[f.path]))throw new Exception("操作期间资源发生变化，已停止："+f.path);
+ }
+ static void Install(string root) {Change(root,true);}
+ static void Restore(string root) {Change(root,false);}
+ static void Change(string root,bool install) {
+  var m=Manifest();var profiles=Profiles(m);var before=Snapshot(root,m,profiles);
+  bool original=m.files.All(f=>Same(before[f.path],f.sourceSha256));
+  if(!install&&original) {Say("当前37项已经是已验证原版，未改动文件或旧备份。");return;}
+  string saved=original?null:FindBackup(root,m,profiles);
+  if(!original&&saved==null)throw new Exception("未找到37项齐全且校验通过的可信原版备份，未覆盖资源。可在 Steam 库中右键游戏 → 属性 → 已安装文件 → 验证游戏文件的完整性。");
+  if(install)CheckPatches(m);
+  if(install&&m.files.All(f=>Same(before[f.path],f.targetSha256))) {Say("本版37项资源已安装且有可信原版备份，未重复覆盖。");return;}
+  WritableAndReserved(root,m);
+  string parent=Path.Combine(root,"BRZH-backups");NoLink(parent);if(File.Exists(parent))throw new Exception("备份目录被文件占用。");
+  string work=Path.Combine(parent,"v0.95-r2-"+DateTime.Now.ToString("yyyyMMdd-HHmmss")+"-"+Guid.NewGuid().ToString("N"));
+  if(Directory.Exists(work)||File.Exists(work))throw new Exception("事务目录已存在，未覆盖任何文件。");
+  foreach(var f in m.files)foreach(string prefix in new [] {"","before/","stage/","undo/"}) {string p=Child(work,prefix+f.path);if(File.Exists(p)||Directory.Exists(p))throw new Exception("暂存路径冲突，未覆盖资源。");}
+  long needed=m.files.Sum(f=>f.sourceBytes+(install?f.targetBytes:f.sourceBytes)+2*new FileInfo(Child(root,f.path)).Length)+67108864;
+  if(new DriveInfo(Path.GetPathRoot(root)).AvailableFreeSpace<needed)throw new Exception("没有足够空间保存完整原版、操作前副本和回退暂存，未修改资源。");
+  Guard(root);Directory.CreateDirectory(work);
+  var j=new BackupManifest {version=m.version,steamBuild=m.steamBuild,installerRevision=InstallerRevision,operation=install?"install":"restore",gameRoot=root,state="preparing",files=m.files,completed=0,before=before};WriteJournal(work,j);
+  Say("本次完整备份及恢复记录："+work);
   foreach(var f in m.files) {
-   string copy=Child(backup,f.path);Directory.CreateDirectory(Path.GetDirectoryName(copy));File.Copy(Child(root,f.path),copy,false);
-   if(Sha(copy)!=f.sourceSha256)throw new Exception("备份校验失败，未覆盖游戏。");
-   string next=Child(stage,f.path);Directory.CreateDirectory(Path.GetDirectoryName(next));Apply(copy,Child(package,f.patch),next,f);
+   CopyChecked(Child(saved??root,f.path),Child(work,f.path),f.sourceSha256);
+   CopyChecked(Child(root,f.path),Child(work,"before/"+f.path),before[f.path]);
+   CopyChecked(Child(work,"before/"+f.path),Child(work,"undo/"+f.path),before[f.path]);
+   string next=Child(work,"stage/"+f.path);Directory.CreateDirectory(Path.GetDirectoryName(next));
+   if(install)Apply(Child(work,f.path),Child(package,f.patch),next,f);else CopyChecked(Child(work,f.path),next,f.sourceSha256);
   }
-  CheckSources(root,m);j.state="installing";WriteJournal(backup,j);
+  foreach(var f in m.files) {
+   string wanted=install?f.targetSha256:f.sourceSha256;
+   if(!Same(Sha(Child(work,f.path)),f.sourceSha256)||!Same(Sha(Child(work,"stage/"+f.path)),wanted)||!Same(Sha(Child(work,"undo/"+f.path)),before[f.path]))throw new Exception("全部暂存校验未通过，原游戏资源未替换。");
+  }
+  BuildGuard(root,m.steamBuild);AssertSnapshot(root,m,before);WritableAndReserved(root,m);
+  j.state=install?"installing":"restoring";WriteJournal(work,j);var changed=new List<PatchFile>();
   try {
-   foreach(var f in m.files) { Guard(root);Trace("安装资源："+f.path);File.Replace(Child(stage,f.path),Child(root,f.path),null);j.completed++;WriteJournal(backup,j); }
-   foreach(var f in m.files)if(Sha(Child(root,f.path))!=f.targetSha256)throw new Exception("安装后校验失败。");
-   j.state="installed";WriteJournal(backup,j);Say("安装完成，37项资源校验通过。尚未进行全流程实机验证。\n还原备份："+backup);
-  } catch {
-   Guard(root);
-   foreach(var f in m.files.Take(j.completed)) { Guard(root);string temp=Child(root,f.path)+".brzh-rollback";if(File.Exists(temp))throw new Exception("回滚暂存文件已存在，请保留备份后联系维护者。");File.Copy(Child(backup,f.path),temp);File.Replace(temp,Child(root,f.path),null); }
-   j.state="rolled_back_after_error";WriteJournal(backup,j);throw;
+   foreach(var f in m.files) {
+    Guard(root);string wanted=install?f.targetSha256:f.sourceSha256,current=Child(root,f.path),next=Child(work,"stage/"+f.path);
+    if(!Same(Sha(current),before[f.path])||!Same(Sha(next),wanted))throw new Exception("替换前即时校验失败："+f.path);
+    if(!Same(before[f.path],wanted)) {File.Replace(next,current,null);changed.Add(f);if(!Same(Sha(current),wanted))throw new Exception("资源替换后校验失败："+f.path);}
+    j.completed++;WriteJournal(work,j);
+   }
+   foreach(var f in m.files)if(!Same(Sha(Child(root,f.path)),install?f.targetSha256:f.sourceSha256))throw new Exception("最终37项校验失败。");
+   j.state=install?"installed":"restored";WriteJournal(work,j);
+   Say(install?"安装完成，37项资源校验通过。":"还原完成，37项已验证原版资源校验通过。");Say("旧备份和旧日志均保留。本次记录："+work);
+  } catch(Exception failure) {
+   string recovery;
+   try {
+    BuildGuard(root,m.steamBuild);Guard(root);
+    foreach(var f in changed) {
+     string actual=Sha(Child(root,f.path)),wanted=install?f.targetSha256:f.sourceSha256;
+     if((!Same(actual,wanted)&&!Same(actual,before[f.path]))||!Same(Sha(Child(work,"undo/"+f.path)),before[f.path]))throw new Exception("回退前发现未知变化，未继续覆盖："+f.path);
+    }
+    foreach(var f in changed.AsEnumerable().Reverse()) {
+     Guard(root);string target=Child(root,f.path);if(Same(Sha(target),before[f.path]))continue;
+     File.Replace(Child(work,"undo/"+f.path),target,null);if(!Same(Sha(target),before[f.path]))throw new Exception("回退校验失败："+f.path);
+    }
+    AssertSnapshot(root,m,before);j.state="rolled_back_after_error";recovery="已校验回退到本次操作前的37项状态。";
+   } catch(Exception rollback) {j.state="recovery_required";recovery="自动回退停止："+rollback.Message+"。请保留全部备份；正常关闭游戏后可重试还原，未知修改须先通过 Steam 验证修复。";}
+   WriteJournal(work,j);throw new Exception("本次操作未完成。"+recovery+"\n恢复记录："+work,failure);
   }
  }
- static void Restore(string root) {
-  var m=Manifest();BuildGuard(root,m.steamBuild);Guard(root);
-  string parent=Path.Combine(root,"BRZH-backups");
-  if(!Directory.Exists(parent))throw new Exception("未找到此安装器生成的备份。");
-  string backup=Directory.GetDirectories(parent,"v0.95-*").OrderByDescending(s=>s).FirstOrDefault(s=>File.Exists(Path.Combine(s,"backup.json")));
-  if(backup==null)throw new Exception("没有可用备份。");
-  var j=json.Deserialize<BackupManifest>(File.ReadAllText(Path.Combine(backup,"backup.json")));
-  if(j.version!=m.version||!String.Equals(Path.GetFullPath(root),j.gameRoot,StringComparison.OrdinalIgnoreCase))throw new Exception("备份属于其他安装。");
-  foreach(var f in m.files) {
-   string saved=Child(backup,f.path),current=Child(root,f.path);
-   if(!File.Exists(saved)||Sha(saved)!=f.sourceSha256)throw new Exception("备份损坏："+f.path);
-   if(!File.Exists(current))throw new Exception("当前资源缺失："+f.path);
-   string h=Sha(current);if(h!=f.targetSha256&&h!=f.sourceSha256)throw new Exception("资源已被其他MOD改变，已停止还原："+f.path);
-  }
-  foreach(var f in m.files) {
-   Guard(root);string current=Child(root,f.path);if(Sha(current)==f.sourceSha256)continue;
-   string temp=current+".brzh-restore";if(File.Exists(temp))throw new Exception("还原暂存文件已存在。");File.Copy(Child(backup,f.path),temp);if(Sha(temp)!=f.sourceSha256)throw new Exception("还原暂存校验失败。");File.Replace(temp,current,null);
-  }
-  foreach(var f in m.files)if(Sha(Child(root,f.path))!=f.sourceSha256)throw new Exception("还原后校验失败。");
-  j.state="restored";WriteJournal(backup,j);Say("已还原安装前37项原版资源。备份仍保留，其他文件未修改。");
- }
+
  static string FindRoot() {
   var steam=Registry.CurrentUser.OpenSubKey(@"Software\Valve\Steam");string path=steam==null?null:steam.GetValue("SteamPath")as string;
   if(path==null)return "";var libraries=new List<string>{path};string vdf=Path.Combine(path,"steamapps","libraryfolders.vdf");
@@ -159,14 +262,14 @@ public static class BRZHInstaller {
   return libraries.Select(p=>Path.Combine(p,"steamapps","common","Battle Realms")).FirstOrDefault(Directory.Exists)??"";
  }
  public static int Main(string[] args) {
-  bool interactive=args.Length==0;int result=1;string completion="操作失败，按 Esc 退出";
+  bool interactive=args.Length==0;int result=1;Mutex held=null;string completion="操作失败，按 Esc 退出";
   try {
    OpenLog();Console.OutputEncoding=Encoding.UTF8;Console.InputEncoding=Encoding.UTF8;
    json=new JavaScriptSerializer { MaxJsonLength=8000000 };
-   Trace("BRZH v0.95 installer r1；交互="+interactive+"；安装包="+package+"；工作目录="+Environment.CurrentDirectory);
+   Trace("BRZH v0.95 installer r2；交互="+interactive+"；安装包="+package+"；工作目录="+Environment.CurrentDirectory);
    string action,root;
    if(interactive) {
-    Say("Battle Realms Steam 中文补丁 v0.95（安装器 r1）\n请先正常退出游戏。\n日志："+logPath);
+    Say("汉化0.95测试版\nSteam AppID 1025600 | 已验证 Build ID 25733254 | 安装器修订号 r2\n非官方测试版，请先备份存档与原文件，并正常退出游戏。\n日志："+logPath);
     root="";try{root=FindRoot();}catch(Exception e){Trace("自动检测目录失败，可手动输入："+e);}
     string choice=null;
     string input=Input("请先粘贴游戏根目录完整路径（可带双引号）。直接回车采用检测结果：\n"+(String.IsNullOrEmpty(root)?"未检测到，请手动填写。":root));
@@ -176,14 +279,14 @@ public static class BRZHInstaller {
     if(!String.IsNullOrWhiteSpace(input))root=input;
     root=NormalizeRoot(root);Say("已选择游戏根目录："+root);
     if(choice==null) {
-     while(true) {choice=Input("1 安装汉化\n2 还原安装前资源\n3 退出\n请输入 1、2 或 3：").Trim();if(choice=="1"||choice=="2"||choice=="3")break;Say("输入无效，请重新输入 1、2 或 3。尚未操作游戏。");}
+     while(true) {choice=Input("1 安装汉化\n2 还原已验证原版资源\n3 退出\n请输入 1、2 或 3：").Trim();if(choice=="1"||choice=="2"||choice=="3")break;Say("输入无效，请重新输入 1、2 或 3。尚未操作游戏。");}
     }
     if(choice=="3") {Say("已取消，未操作游戏。");completion="已取消，按 Esc 退出";result=0;return result;}
     action=choice=="1"?"--install":"--restore";
    }
    else { if(args.Length!=2)throw new Exception("用法：--check / --install / --restore 加游戏目录。");action=args[0];root=args[1]; }
-   root=NormalizeRoot(root);Trace("操作="+action+"；游戏根目录="+root);
-   if(action=="--check") {CheckSources(root,Manifest());Say("版本、进程和37项原版资源校验通过。未修改游戏。");}
+   root=NormalizeRoot(root);held=TakeLock(root);Trace("操作="+action+"；游戏根目录="+root);
+   if(action=="--check") {CheckSources(root,Manifest());}
    else if(action=="--install")Install(root);else if(action=="--restore")Restore(root);else throw new Exception("未知操作。");
    completion=action=="--install"?"安装完成，按 Esc 退出":action=="--restore"?"还原完成，按 Esc 退出":"检查完成，按 Esc 退出";
    result=0;Say("操作成功。日志："+logPath);return result;
@@ -192,6 +295,7 @@ public static class BRZHInstaller {
    return 1;
   }
   finally {
+   if(held!=null) {try{held.ReleaseMutex();held.Dispose();}catch{}}
    if(interactive) {try{WaitForExit(completion);}catch{}}
    if(log!=null) {try{Trace("程序退出，代码="+result);log.Dispose();}catch{}}
   }
